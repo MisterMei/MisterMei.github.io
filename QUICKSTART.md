@@ -237,7 +237,7 @@ Your site is already mobile-optimized! 📱✅
 
 Your running journal is live! Now share it:
 
-- Post on Xiaohongshu: "我的跑步日志上线了！"
+- Post on Xiaohongshu: "我的悉尼老梅的跑步日志上线了！"
 - Share on TikTok with your running community
 - Add link to your WeChat profile
 - Share in running clubs and forums
