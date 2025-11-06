@@ -1,7 +1,7 @@
-let currentLang = 'en';
+let currentLang = 'zh';
 
 function initLanguage() {
-    const savedLang = localStorage.getItem('preferredLanguage') || 'en';
+    const savedLang = localStorage.getItem('preferredLanguage') || 'zh';
     currentLang = savedLang;
     updateLanguage(currentLang);
 
