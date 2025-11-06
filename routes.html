@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Favorite running routes in Sydney - GPX maps, photos, and detailed route guides for coastal paths, park loops, and city runs.">
+    <meta name="keywords" content="running routes Sydney, GPX maps, Bondi run, Centennial Park, Sydney Harbour running, coastal paths">
+    <title>Running Routes | Running Journal</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="css/animations.css">
+</head>
+<body>
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="nav-logo">
+                <span class="logo-icon">🏃</span>
+                <span data-en="Running Journal" data-zh="跑步日志">Running Journal</span>
+            </a>
+            
+            <div class="nav-menu" id="navMenu">
+                <a href="index.html" class="nav-link" data-en="Home" data-zh="主页">Home</a>
+                <a href="marathons.html" class="nav-link" data-en="Marathons" data-zh="马拉松">Marathons</a>
+                <a href="routes.html" class="nav-link active" data-en="Routes" data-zh="路线">Routes</a>
+                <a href="about.html" class="nav-link" data-en="About" data-zh="关于">About</a>
+            </div>
+            
+            <div class="nav-actions">
+                <button class="lang-toggle" id="langToggle" aria-label="Switch Language">
+                    <span class="lang-text">中文</span>
+                </button>
+                <button class="menu-toggle" id="menuToggle" aria-label="Menu">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <header class="page-header">
+        <div class="container">
+            <h1 data-en="My Favorite Routes" data-zh="我最喜欢的路线">My Favorite Routes</h1>
+            <p data-en="Discover the paths where I train, explore, and find peace" data-zh="探索我训练、探索和找到平静的路径">
+                Discover the paths where I train, explore, and find peace
+            </p>
+        </div>
+    </header>
+
+    <main>
+        <section class="route-detail" id="bondi">
+            <div class="container">
+                <div class="route-header">
+                    <div class="route-info">
+                        <h2 data-en="Bondi to Bronte Coastal Walk" data-zh="邦迪至布朗特海岸步道">Bondi to Bronte Coastal Walk</h2>
+                        <div class="route-specs">
+                            <span class="spec-item">📏 10.2 km</span>
+                            <span class="spec-item">⛰️ 120m elevation</span>
+                            <span class="spec-item">⭐ Medium difficulty</span>
+                            <span class="spec-item">⏱️ ~55 min</span>
+                        </div>
+                        <p data-en="One of Sydney's most iconic coastal routes. This stunning run takes you along dramatic cliffs with breathtaking ocean views, past famous beaches, and through charming coastal parks. Best run early morning for sunrise or late afternoon to catch the golden hour." 
+                           data-zh="悉尼最具标志性的海岸路线之一。这条令人惊叹的跑步路线沿着壮观的悬崖，欣赏令人叹为观止的海景，经过著名的海滩和迷人的海滨公园。最好在清晨跑步看日出，或傍晚捕捉黄金时刻。">
+                            One of Sydney's most iconic coastal routes. This stunning run takes you along dramatic cliffs with breathtaking ocean views, past famous beaches, and through charming coastal parks. Best run early morning for sunrise or late afternoon to catch the golden hour.
+                        </p>
+                    </div>
+                    <div class="route-actions">
+                        <a href="assets/gpx/bondi-bronte.gpx" download class="btn-primary" data-en="Download GPX" data-zh="下载GPX">📥 Download GPX</a>
+                    </div>
+                </div>
+
+                <div class="route-map-container">
+                    <div id="map-bondi" class="route-map" data-gpx="assets/gpx/bondi-bronte.gpx"></div>
+                </div>
+
+                <div class="route-highlights">
+                    <h3 data-en="Route Highlights" data-zh="路线亮点">Route Highlights</h3>
+                    <ul class="highlights-list">
+                        <li data-en="🌊 Start at iconic Bondi Beach" data-zh="🌊 从标志性的邦迪海滩开始">🌊 Start at iconic Bondi Beach</li>
+                        <li data-en="🏖️ Pass through Tamarama and Bronte beaches" data-zh="🏖️ 经过塔马拉玛和布朗特海滩">🏖️ Pass through Tamarama and Bronte beaches</li>
+                        <li data-en="🌅 Spectacular sunrise/sunset views" data-zh="🌅 壮观的日出/日落景色">🌅 Spectacular sunrise/sunset views</li>
+                        <li data-en="🐚 Rock pools and coastal parks" data-zh="🐚 岩石池和海滨公园">🐚 Rock pools and coastal parks</li>
+                        <li data-en="📸 Countless photo opportunities" data-zh="📸 无数拍照机会">📸 Countless photo opportunities</li>
+                    </ul>
+                </div>
+
+                <div class="route-gallery">
+                    <img src="assets/images/routes/bondi-sunrise.jpg" alt="Bondi Beach sunrise run" loading="lazy">
+                    <img src="assets/images/routes/tamarama-view.jpg" alt="Tamarama Bay view" loading="lazy">
+                    <img src="assets/images/routes/bronte-pool.jpg" alt="Bronte ocean pool" loading="lazy">
+                </div>
+
+                <div class="route-video">
+                    <h3 data-en="Route Video" data-zh="路线视频">Route Video</h3>
+                    <div class="video-wrapper">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
+                                title="Bondi to Bronte coastal run" frameborder="0" 
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                                allowfullscreen loading="lazy"></iframe>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="route-detail" id="centennial">
+            <div class="container">
+                <div class="route-header">
+                    <div class="route-info">
+                        <h2 data-en="Centennial Park Loop" data-zh="百年纪念公园环线">Centennial Park Loop</h2>
+                        <div class="route-specs">
+                            <span class="spec-item">📏 5.0 km</span>
+                            <span class="spec-item">⛰️ 30m elevation</span>
+                            <span class="spec-item">⭐ Easy difficulty</span>
+                            <span class="spec-item">⏱️ ~28 min</span>
+                        </div>
+                        <p data-en="A peaceful oasis in the heart of Sydney. This flat, tree-lined loop is perfect for easy recovery runs or mindful jogging sessions. The dedicated running path keeps you away from cyclists and walkers. Ideal for early morning runs before work or sunset runs to decompress." 
+                           data-zh="悉尼市中心的宁静绿洲。这条平坦的林荫环线非常适合轻松恢复跑步或正念慢跑。专用跑道让您远离骑自行车的人和步行者。非常适合上班前的晨跑或日落时的减压跑。">
+                            A peaceful oasis in the heart of Sydney. This flat, tree-lined loop is perfect for easy recovery runs or mindful jogging sessions. The dedicated running path keeps you away from cyclists and walkers. Ideal for early morning runs before work or sunset runs to decompress.
+                        </p>
+                    </div>
+                    <div class="route-actions">
+                        <a href="assets/gpx/centennial-loop.gpx" download class="btn-primary" data-en="Download GPX" data-zh="下载GPX">📥 Download GPX</a>
+                    </div>
+                </div>
+
+                <div class="route-map-container">
+                    <div id="map-centennial" class="route-map" data-gpx="assets/gpx/centennial-loop.gpx"></div>
+                </div>
+
+                <div class="route-highlights">
+                    <h3 data-en="Route Highlights" data-zh="路线亮点">Route Highlights</h3>
+                    <ul class="highlights-list">
+                        <li data-en="🌳 Beautiful tree-lined paths" data-zh="🌳 美丽的林荫小道">🌳 Beautiful tree-lined paths</li>
+                        <li data-en="🏃 Dedicated running lane" data-zh="🏃 专用跑步道">🏃 Dedicated running lane</li>
+                        <li data-en="🦆 Wildlife and peaceful ponds" data-zh="🦆 野生动物和宁静的池塘">🦆 Wildlife and peaceful ponds</li>
+                        <li data-en="🚰 Water fountains along the way" data-zh="🚰 沿途有饮水机">🚰 Water fountains along the way</li>
+                        <li data-en="🧘 Perfect for mindful running" data-zh="🧘 完美的正念跑步">🧘 Perfect for mindful running</li>
+                    </ul>
+                </div>
+
+                <div class="route-gallery">
+                    <img src="assets/images/routes/centennial-trees.jpg" alt="Centennial Park tree-lined path" loading="lazy">
+                    <img src="assets/images/routes/centennial-pond.jpg" alt="Centennial Park pond" loading="lazy">
+                    <img src="assets/images/routes/centennial-morning.jpg" alt="Morning run at Centennial Park" loading="lazy">
+                </div>
+            </div>
+        </section>
+
+        <section class="route-detail" id="harbour">
+            <div class="container">
+                <div class="route-header">
+                    <div class="route-info">
+                        <h2 data-en="Sydney Harbour Bridge Circuit" data-zh="悉尼海港大桥环线">Sydney Harbour Bridge Circuit</h2>
+                        <div class="route-specs">
+                            <span class="spec-item">📏 15.5 km</span>
+                            <span class="spec-item">⛰️ 180m elevation</span>
+                            <span class="spec-item">⭐ Hard difficulty</span>
+                            <span class="spec-item">⏱️ ~1:25 min</span>
+                        </div>
+                        <p data-en="The ultimate Sydney run! Cross the iconic Harbour Bridge on foot, enjoy spectacular views of the Opera House, pass through the historic Rocks area, and return via Circular Quay. This challenging route includes bridge climbs and is perfect for tempo runs or long weekend adventures." 
+                           data-zh="终极悉尼跑步！步行穿越标志性的海港大桥，欣赏歌剧院的壮观景色，穿过历史悠久的岩石区，通过环形码头返回。这条具有挑战性的路线包括桥梁爬升，非常适合节奏跑或周末长跑冒险。">
+                            The ultimate Sydney run! Cross the iconic Harbour Bridge on foot, enjoy spectacular views of the Opera House, pass through the historic Rocks area, and return via Circular Quay. This challenging route includes bridge climbs and is perfect for tempo runs or long weekend adventures.
+                        </p>
+                    </div>
+                    <div class="route-actions">
+                        <a href="assets/gpx/harbour-circuit.gpx" download class="btn-primary" data-en="Download GPX" data-zh="下载GPX">📥 Download GPX</a>
+                    </div>
+                </div>
+
+                <div class="route-map-container">
+                    <div id="map-harbour" class="route-map" data-gpx="assets/gpx/harbour-circuit.gpx"></div>
+                </div>
+
+                <div class="route-highlights">
+                    <h3 data-en="Route Highlights" data-zh="路线亮点">Route Highlights</h3>
+                    <ul class="highlights-list">
+                        <li data-en="🌉 Cross the Sydney Harbour Bridge" data-zh="🌉 穿越悉尼海港大桥">🌉 Cross the Sydney Harbour Bridge</li>
+                        <li data-en="🎭 Views of the Opera House" data-zh="🎭 歌剧院景色">🎭 Views of the Opera House</li>
+                        <li data-en="🏛️ Historic Rocks precinct" data-zh="🏛️ 历史悠久的岩石区">🏛️ Historic Rocks precinct</li>
+                        <li data-en="⛴️ Circular Quay waterfront" data-zh="⛴️ 环形码头海滨">⛴️ Circular Quay waterfront</li>
+                        <li data-en="💪 Challenging elevation changes" data-zh="💪 具有挑战性的海拔变化">💪 Challenging elevation changes</li>
+                    </ul>
+                </div>
+
+                <div class="route-gallery">
+                    <img src="assets/images/routes/harbour-bridge.jpg" alt="Running across Harbour Bridge" loading="lazy">
+                    <img src="assets/images/routes/opera-house-view.jpg" alt="Opera House from runner's perspective" loading="lazy">
+                    <img src="assets/images/routes/circular-quay.jpg" alt="Circular Quay waterfront" loading="lazy">
+                </div>
+
+                <div class="route-video">
+                    <h3 data-en="Route Video" data-zh="路线视频">Route Video</h3>
+                    <div class="video-wrapper">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
+                                title="Sydney Harbour Bridge running circuit" frameborder="0" 
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                                allowfullscreen loading="lazy"></iframe>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="tips-section">
+            <div class="container">
+                <h2 class="section-title" data-en="Running Tips for Sydney" data-zh="悉尼跑步小贴士">Running Tips for Sydney</h2>
+                
+                <div class="tips-grid">
+                    <div class="tip-card">
+                        <div class="tip-icon">☀️</div>
+                        <h3 data-en="Best Times to Run" data-zh="最佳跑步时间">Best Times to Run</h3>
+                        <p data-en="Early morning (5-7am) or late afternoon (5-7pm) to avoid peak heat. Summer temps can reach 35°C+" 
+                           data-zh="清晨（5-7点）或傍晚（5-7点）以避免高峰热量。夏季温度可达35°C以上">
+                            Early morning (5-7am) or late afternoon (5-7pm) to avoid peak heat. Summer temps can reach 35°C+
+                        </p>
+                    </div>
+                    
+                    <div class="tip-card">
+                        <div class="tip-icon">💧</div>
+                        <h3 data-en="Stay Hydrated" data-zh="保持水分">Stay Hydrated</h3>
+                        <p data-en="Always carry water, especially on coastal routes. Public water fountains available in most parks" 
+                           data-zh="始终携带水，尤其是在海岸路线上。大多数公园都有公共饮水机">
+                            Always carry water, especially on coastal routes. Public water fountains available in most parks
+                        </p>
+                    </div>
+                    
+                    <div class="tip-card">
+                        <div class="tip-icon">🧴</div>
+                        <h3 data-en="Sun Protection" data-zh="防晒">Sun Protection</h3>
+                        <p data-en="Sunscreen, hat, and sunglasses are essential. Australian UV levels are very high year-round" 
+                           data-zh="防晒霜、帽子和太阳镜是必不可少的。澳大利亚全年紫外线水平很高">
+                            Sunscreen, hat, and sunglasses are essential. Australian UV levels are very high year-round
+                        </p>
+                    </div>
+                    
+                    <div class="tip-card">
+                        <div class="tip-icon">👟</div>
+                        <h3 data-en="Trail Conditions" data-zh="路况">Trail Conditions</h3>
+                        <p data-en="Coastal paths can be uneven. Good trail shoes recommended for Bondi-Bronte route" 
+                           data-zh="海岸小径可能不平坦。建议穿好的越野鞋跑邦迪-布朗特路线">
+                            Coastal paths can be uneven. Good trail shoes recommended for Bondi-Bronte route
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4 data-en="Running Journal" data-zh="跑步日志">Running Journal</h4>
+                    <p data-en="Documenting every mile, every moment" data-zh="记录每一英里，每一刻">Documenting every mile, every moment</p>
+                </div>
+                
+                <div class="footer-section">
+                    <h4 data-en="Quick Links" data-zh="快速链接">Quick Links</h4>
+                    <ul>
+                        <li><a href="index.html" data-en="Home" data-zh="主页">Home</a></li>
+                        <li><a href="marathons.html" data-en="Marathons" data-zh="马拉松">Marathons</a></li>
+                        <li><a href="routes.html" data-en="Routes" data-zh="路线">Routes</a></li>
+                        <li><a href="about.html" data-en="About" data-zh="关于">About</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-section">
+                    <h4 data-en="Location" data-zh="位置">Location</h4>
+                    <p>Sydney, Australia<br>📍 Running through life</p>
+                </div>
+            </div>
+            
+            <div class="footer-bottom">
+                <p>&copy; 2024 Running Journal. <span data-en="Made with ❤️ and many kilometers" data-zh="用❤️和许多公里打造">Made with ❤️ and many kilometers</span></p>
+            </div>
+        </div>
+    </footer>
+
+    <button class="back-to-top" id="backToTop" aria-label="Back to top">↑</button>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="js/language.js"></script>
+    <script src="js/map.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
+

@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Personal running journal documenting marathon achievements, training routes, and running journey in Sydney, Australia. 个人跑步日志，记录马拉松成就和训练路线。">
+    <meta name="keywords" content="running journal, marathon records, Sydney runner, half marathon, running routes, 跑步日志, 马拉松记录">
+    <meta name="author" content="Running Journal">
+    <title>Running Journal | 跑步日志</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="css/animations.css">
+</head>
+<body>
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="nav-logo">
+                <span class="logo-icon">🏃</span>
+                <span data-en="Running Journal" data-zh="跑步日志">Running Journal</span>
+            </a>
+            
+            <div class="nav-menu" id="navMenu">
+                <a href="index.html" class="nav-link active" data-en="Home" data-zh="主页">Home</a>
+                <a href="marathons.html" class="nav-link" data-en="Marathons" data-zh="马拉松">Marathons</a>
+                <a href="routes.html" class="nav-link" data-en="Routes" data-zh="路线">Routes</a>
+                <a href="about.html" class="nav-link" data-en="About" data-zh="关于">About</a>
+            </div>
+            
+            <div class="nav-actions">
+                <button class="lang-toggle" id="langToggle" aria-label="Switch Language">
+                    <span class="lang-text">中文</span>
+                </button>
+                <button class="menu-toggle" id="menuToggle" aria-label="Menu">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <header class="hero">
+        <div class="hero-overlay"></div>
+        <div class="hero-content">
+            <h1 class="hero-title" data-en="Every Step Counts" data-zh="每一步都算数">Every Step Counts</h1>
+            <p class="hero-subtitle" data-en="A personal journey through running, health, and mindfulness" data-zh="记录跑步、健康与心灵的个人旅程">
+                A personal journey through running, health, and mindfulness
+            </p>
+            <div class="hero-stats">
+                <div class="stat-item">
+                    <div class="stat-number">12</div>
+                    <div class="stat-label" data-en="Marathons Completed" data-zh="完成马拉松">Marathons Completed</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">8</div>
+                    <div class="stat-label" data-en="Half Marathons" data-zh="半程马拉松">Half Marathons</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">5+</div>
+                    <div class="stat-label" data-en="Years Running" data-zh="跑龄">Years Running</div>
+                </div>
+            </div>
+        </div>
+        <div class="scroll-indicator">
+            <span data-en="Scroll to explore" data-zh="向下滚动">Scroll to explore</span>
+            <div class="scroll-arrow">↓</div>
+        </div>
+    </header>
+
+    <main>
+        <section class="intro-section">
+            <div class="container">
+                <div class="intro-content">
+                    <div class="intro-text">
+                        <h2 data-en="Welcome to My Running Journey" data-zh="欢迎来到我的跑步之旅">Welcome to My Running Journey</h2>
+                        <p data-en="At 45, running has become more than just exercise—it's a meditation, a challenge, and a celebration of what our bodies can achieve. Join me as I document every marathon, every route, and every lesson learned on the road." 
+                           data-zh="45岁，跑步已不仅仅是锻炼——它是冥想、挑战，也是对身体潜能的庆祝。与我一起记录每场马拉松、每条路线，以及路上学到的每一课。">
+                            At 45, running has become more than just exercise—it's a meditation, a challenge, and a celebration of what our bodies can achieve. Join me as I document every marathon, every route, and every lesson learned on the road.
+                        </p>
+                        <a href="about.html" class="btn-primary" data-en="Read My Story" data-zh="了解更多">Read My Story</a>
+                    </div>
+                    <div class="intro-image">
+                        <img src="assets/images/hero/runner-sunrise.jpg" alt="Running at sunrise" loading="lazy">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="recent-milestones">
+            <div class="container">
+                <h2 class="section-title" data-en="Recent Milestones" data-zh="近期里程碑">Recent Milestones</h2>
+                
+                <div class="milestones-grid">
+                    <div class="milestone-card">
+                        <div class="milestone-date">2024.10.15</div>
+                        <h3 data-en="Sydney Marathon 2024" data-zh="2024悉尼马拉松">Sydney Marathon 2024</h3>
+                        <div class="milestone-time">3:45:23</div>
+                        <p data-en="Personal best time! Perfect weather conditions and excellent support along the harbour route." 
+                           data-zh="个人最佳成绩！天气完美，沿海港路线的支持很棒。">
+                            Personal best time! Perfect weather conditions and excellent support along the harbour route.
+                        </p>
+                        <a href="marathons.html" class="milestone-link" data-en="View Details →" data-zh="查看详情 →">View Details →</a>
+                    </div>
+
+                    <div class="milestone-card">
+                        <div class="milestone-date">2024.08.20</div>
+                        <h3 data-en="Gold Coast Half Marathon" data-zh="黄金海岸半程马拉松">Gold Coast Half Marathon</h3>
+                        <div class="milestone-time">1:42:15</div>
+                        <p data-en="Beautiful coastal route with stunning ocean views. Great preparation for the full marathon season." 
+                           data-zh="美丽的海岸路线，壮观的海景。为全马赛季做了很好的准备。">
+                            Beautiful coastal route with stunning ocean views. Great preparation for the full marathon season.
+                        </p>
+                        <a href="marathons.html" class="milestone-link" data-en="View Details →" data-zh="查看详情 →">View Details →</a>
+                    </div>
+
+                    <div class="milestone-card">
+                        <div class="milestone-date">2024.06.01</div>
+                        <h3 data-en="Reached 5000km Total" data-zh="累计跑量达5000公里">Reached 5000km Total</h3>
+                        <div class="milestone-time">5,000km</div>
+                        <p data-en="Celebrating five years of consistent running with 5000 kilometers logged. Here's to the next 5000!" 
+                           data-zh="庆祝五年持续跑步，累计5000公里。向下一个5000公里进发！">
+                            Celebrating five years of consistent running with 5000 kilometers logged. Here's to the next 5000!
+                        </p>
+                        <a href="about.html" class="milestone-link" data-en="My Journey →" data-zh="我的旅程 →">My Journey →</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="featured-routes">
+            <div class="container">
+                <h2 class="section-title" data-en="Favorite Running Routes" data-zh="最喜欢的跑步路线">Favorite Running Routes</h2>
+                
+                <div class="routes-grid">
+                    <div class="route-card">
+                        <div class="route-image">
+                            <img src="assets/images/routes/bondi-beach.jpg" alt="Bondi to Bronte coastal walk" loading="lazy">
+                            <div class="route-badge">10km</div>
+                        </div>
+                        <div class="route-content">
+                            <h3 data-en="Bondi to Bronte Coastal" data-zh="邦迪至布朗特海岸线">Bondi to Bronte Coastal</h3>
+                            <p data-en="Stunning ocean views, fresh sea breeze, and iconic Sydney beaches." 
+                               data-zh="壮丽海景、清新海风和标志性的悉尼海滩。">
+                                Stunning ocean views, fresh sea breeze, and iconic Sydney beaches.
+                            </p>
+                            <div class="route-meta">
+                                <span>⛰️ Elevation: 120m</span>
+                                <span>⭐ Difficulty: Medium</span>
+                            </div>
+                            <a href="routes.html#bondi" class="btn-secondary" data-en="Explore Route" data-zh="查看路线">Explore Route</a>
+                        </div>
+                    </div>
+
+                    <div class="route-card">
+                        <div class="route-image">
+                            <img src="assets/images/routes/centennial-park.jpg" alt="Centennial Park loop" loading="lazy">
+                            <div class="route-badge">5km</div>
+                        </div>
+                        <div class="route-content">
+                            <h3 data-en="Centennial Park Loop" data-zh="百年纪念公园环线">Centennial Park Loop</h3>
+                            <p data-en="Peaceful tree-lined paths, perfect for easy recovery runs and mindful jogging." 
+                               data-zh="宁静的林荫小道，适合轻松恢复跑和正念慢跑。">
+                                Peaceful tree-lined paths, perfect for easy recovery runs and mindful jogging.
+                            </p>
+                            <div class="route-meta">
+                                <span>⛰️ Elevation: 30m</span>
+                                <span>⭐ Difficulty: Easy</span>
+                            </div>
+                            <a href="routes.html#centennial" class="btn-secondary" data-en="Explore Route" data-zh="查看路线">Explore Route</a>
+                        </div>
+                    </div>
+
+                    <div class="route-card">
+                        <div class="route-image">
+                            <img src="assets/images/routes/sydney-harbour.jpg" alt="Sydney Harbour Bridge run" loading="lazy">
+                            <div class="route-badge">15km</div>
+                        </div>
+                        <div class="route-content">
+                            <h3 data-en="Harbour Bridge Circuit" data-zh="海港大桥环线">Harbour Bridge Circuit</h3>
+                            <p data-en="Cross the iconic bridge with spectacular harbour views and Opera House sights." 
+                               data-zh="穿越标志性大桥，欣赏壮观的海港景色和歌剧院风光。">
+                                Cross the iconic bridge with spectacular harbour views and Opera House sights.
+                            </p>
+                            <div class="route-meta">
+                                <span>⛰️ Elevation: 180m</span>
+                                <span>⭐ Difficulty: Hard</span>
+                            </div>
+                            <a href="routes.html#harbour" class="btn-secondary" data-en="Explore Route" data-zh="查看路线">Explore Route</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="section-cta">
+                    <a href="routes.html" class="btn-primary" data-en="View All Routes" data-zh="查看所有路线">View All Routes</a>
+                </div>
+            </div>
+        </section>
+
+        <section class="social-section">
+            <div class="container">
+                <h2 class="section-title" data-en="Connect & Follow" data-zh="关注我的跑步动态">Connect & Follow</h2>
+                <p class="section-subtitle" data-en="Join me on social media for daily running updates, tips, and inspiration" 
+                   data-zh="在社交媒体上关注我，获取每日跑步更新、技巧和灵感">
+                    Join me on social media for daily running updates, tips, and inspiration
+                </p>
+                
+                <div class="social-links">
+                    <a href="https://www.xiaohongshu.com/" target="_blank" rel="noopener" class="social-card">
+                        <div class="social-icon xiaohongshu">📕</div>
+                        <h3 data-en="Xiaohongshu" data-zh="小红书">Xiaohongshu</h3>
+                        <p data-en="Running vlogs & route guides" data-zh="跑步视频日志和路线指南">Running vlogs & route guides</p>
+                    </a>
+                    
+                    <a href="https://www.tiktok.com/" target="_blank" rel="noopener" class="social-card">
+                        <div class="social-icon tiktok">🎵</div>
+                        <h3 data-en="TikTok" data-zh="TikTok">TikTok</h3>
+                        <p data-en="Quick running tips & motivation" data-zh="快速跑步技巧和动力">Quick running tips & motivation</p>
+                    </a>
+                    
+                    <a href="https://channels.weixin.qq.com/" target="_blank" rel="noopener" class="social-card">
+                        <div class="social-icon wechat">💬</div>
+                        <h3 data-en="WeChat Channel" data-zh="微信视频号">WeChat Channel</h3>
+                        <p data-en="Marathon experiences & stories" data-zh="马拉松经历和故事">Marathon experiences & stories</p>
+                    </a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4 data-en="Running Journal" data-zh="跑步日志">Running Journal</h4>
+                    <p data-en="Documenting every mile, every moment" data-zh="记录每一英里，每一刻">Documenting every mile, every moment</p>
+                </div>
+                
+                <div class="footer-section">
+                    <h4 data-en="Quick Links" data-zh="快速链接">Quick Links</h4>
+                    <ul>
+                        <li><a href="index.html" data-en="Home" data-zh="主页">Home</a></li>
+                        <li><a href="marathons.html" data-en="Marathons" data-zh="马拉松">Marathons</a></li>
+                        <li><a href="routes.html" data-en="Routes" data-zh="路线">Routes</a></li>
+                        <li><a href="about.html" data-en="About" data-zh="关于">About</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-section">
+                    <h4 data-en="Location" data-zh="位置">Location</h4>
+                    <p>Sydney, Australia<br>📍 Running through life</p>
+                </div>
+            </div>
+            
+            <div class="footer-bottom">
+                <p>&copy; 2024 Running Journal. <span data-en="Made with ❤️ and many kilometers" data-zh="用❤️和许多公里打造">Made with ❤️ and many kilometers</span></p>
+            </div>
+        </div>
+    </footer>
+
+    <button class="back-to-top" id="backToTop" aria-label="Back to top">↑</button>
+
+    <script src="js/language.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
+

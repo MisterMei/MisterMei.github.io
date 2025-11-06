@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Marathon records and achievements - Full and half marathon results from Sydney and across Australia.">
+    <meta name="keywords" content="marathon records, half marathon, Sydney marathon, running achievements, PB times">
+    <title>Marathon Records | Running Journal</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="css/animations.css">
+</head>
+<body>
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="nav-logo">
+                <span class="logo-icon">🏃</span>
+                <span data-en="Running Journal" data-zh="跑步日志">Running Journal</span>
+            </a>
+            
+            <div class="nav-menu" id="navMenu">
+                <a href="index.html" class="nav-link" data-en="Home" data-zh="主页">Home</a>
+                <a href="marathons.html" class="nav-link active" data-en="Marathons" data-zh="马拉松">Marathons</a>
+                <a href="routes.html" class="nav-link" data-en="Routes" data-zh="路线">Routes</a>
+                <a href="about.html" class="nav-link" data-en="About" data-zh="关于">About</a>
+            </div>
+            
+            <div class="nav-actions">
+                <button class="lang-toggle" id="langToggle" aria-label="Switch Language">
+                    <span class="lang-text">中文</span>
+                </button>
+                <button class="menu-toggle" id="menuToggle" aria-label="Menu">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <header class="page-header">
+        <div class="container">
+            <h1 data-en="Marathon Achievements" data-zh="马拉松成就">Marathon Achievements</h1>
+            <p data-en="Every race is a story, every finish line a victory" data-zh="每场比赛都是故事，每条终点线都是胜利">
+                Every race is a story, every finish line a victory
+            </p>
+        </div>
+    </header>
+
+    <main>
+        <section class="pb-section">
+            <div class="container">
+                <h2 class="section-title" data-en="Personal Bests" data-zh="个人最佳成绩">Personal Bests</h2>
+                
+                <div class="pb-grid">
+                    <div class="pb-card">
+                        <div class="pb-icon">🏅</div>
+                        <h3 data-en="Full Marathon" data-zh="全程马拉松">Full Marathon</h3>
+                        <div class="pb-time">3:45:23</div>
+                        <p class="pb-race">Sydney Marathon 2024</p>
+                        <p class="pb-date">October 15, 2024</p>
+                    </div>
+                    
+                    <div class="pb-card">
+                        <div class="pb-icon">🥈</div>
+                        <h3 data-en="Half Marathon" data-zh="半程马拉松">Half Marathon</h3>
+                        <div class="pb-time">1:38:42</div>
+                        <p class="pb-race">Melbourne Half 2023</p>
+                        <p class="pb-date">July 16, 2023</p>
+                    </div>
+                    
+                    <div class="pb-card">
+                        <div class="pb-icon">⚡</div>
+                        <h3 data-en="10K Road Race" data-zh="10公里路跑">10K Road Race</h3>
+                        <div class="pb-time">45:12</div>
+                        <p class="pb-race">City2Surf 2024</p>
+                        <p class="pb-date">August 11, 2024</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="marathon-section">
+            <div class="container">
+                <h2 class="section-title" data-en="Full Marathon Records" data-zh="全程马拉松记录">Full Marathon Records</h2>
+                
+                <div class="races-table">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th data-en="Date" data-zh="日期">Date</th>
+                                <th data-en="Event" data-zh="赛事">Event</th>
+                                <th data-en="Location" data-zh="地点">Location</th>
+                                <th data-en="Time" data-zh="成绩">Time</th>
+                                <th data-en="Notes" data-zh="备注">Notes</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="highlight-row">
+                                <td>2024-10-15</td>
+                                <td>Sydney Marathon</td>
+                                <td>Sydney, NSW</td>
+                                <td class="time-cell">3:45:23</td>
+                                <td data-en="Personal Best! Perfect conditions" data-zh="个人最佳！完美条件">Personal Best! Perfect conditions</td>
+                            </tr>
+                            <tr>
+                                <td>2024-04-14</td>
+                                <td>Canberra Marathon</td>
+                                <td>Canberra, ACT</td>
+                                <td class="time-cell">3:52:18</td>
+                                <td data-en="Hilly course, good training" data-zh="多山路线，良好训练">Hilly course, good training</td>
+                            </tr>
+                            <tr>
+                                <td>2023-10-08</td>
+                                <td>Sydney Marathon</td>
+                                <td>Sydney, NSW</td>
+                                <td class="time-cell">3:58:34</td>
+                                <td data-en="First sub-4 hour marathon!" data-zh="首次破4！">First sub-4 hour marathon!</td>
+                            </tr>
+                            <tr>
+                                <td>2023-05-21</td>
+                                <td>Gold Coast Marathon</td>
+                                <td>Gold Coast, QLD</td>
+                                <td class="time-cell">4:05:47</td>
+                                <td data-en="Beautiful coastal course" data-zh="美丽的海岸路线">Beautiful coastal course</td>
+                            </tr>
+                            <tr>
+                                <td>2022-10-09</td>
+                                <td>Melbourne Marathon</td>
+                                <td>Melbourne, VIC</td>
+                                <td class="time-cell">4:12:33</td>
+                                <td data-en="Improved pacing strategy" data-zh="改进配速策略">Improved pacing strategy</td>
+                            </tr>
+                            <tr>
+                                <td>2022-04-17</td>
+                                <td>Canberra Marathon</td>
+                                <td>Canberra, ACT</td>
+                                <td class="time-cell">4:18:56</td>
+                                <td data-en="Challenging elevation" data-zh="具有挑战性的海拔">Challenging elevation</td>
+                            </tr>
+                            <tr>
+                                <td>2021-10-17</td>
+                                <td>Sydney Marathon</td>
+                                <td>Sydney, NSW</td>
+                                <td class="time-cell">4:25:12</td>
+                                <td data-en="Strong finish, learning experience" data-zh="强劲冲刺，学习经验">Strong finish, learning experience</td>
+                            </tr>
+                            <tr>
+                                <td>2020-11-15</td>
+                                <td>Virtual Marathon</td>
+                                <td>Sydney, NSW</td>
+                                <td class="time-cell">4:32:08</td>
+                                <td data-en="COVID-19 virtual event" data-zh="疫情虚拟赛事">COVID-19 virtual event</td>
+                            </tr>
+                            <tr>
+                                <td>2020-03-08</td>
+                                <td>Sydney Marathon</td>
+                                <td>Sydney, NSW</td>
+                                <td class="time-cell">4:38:45</td>
+                                <td data-en="My 3rd marathon" data-zh="我的第3场马拉松">My 3rd marathon</td>
+                            </tr>
+                            <tr>
+                                <td>2019-10-20</td>
+                                <td>Melbourne Marathon</td>
+                                <td>Melbourne, VIC</td>
+                                <td class="time-cell">4:45:21</td>
+                                <td data-en="Better pacing than first" data-zh="比第一次配速更好">Better pacing than first</td>
+                            </tr>
+                            <tr>
+                                <td>2019-05-19</td>
+                                <td>Gold Coast Marathon</td>
+                                <td>Gold Coast, QLD</td>
+                                <td class="time-cell">4:52:34</td>
+                                <td data-en="Second marathon attempt" data-zh="第二次马拉松尝试">Second marathon attempt</td>
+                            </tr>
+                            <tr>
+                                <td>2018-09-16</td>
+                                <td>Sydney Marathon</td>
+                                <td>Sydney, NSW</td>
+                                <td class="time-cell">5:08:19</td>
+                                <td data-en="My first marathon! Incredible journey" data-zh="我的首马！难以置信的旅程">My first marathon! Incredible journey</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <section class="half-marathon-section">
+            <div class="container">
+                <h2 class="section-title" data-en="Half Marathon Records" data-zh="半程马拉松记录">Half Marathon Records</h2>
+                
+                <div class="races-table">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th data-en="Date" data-zh="日期">Date</th>
+                                <th data-en="Event" data-zh="赛事">Event</th>
+                                <th data-en="Location" data-zh="地点">Location</th>
+                                <th data-en="Time" data-zh="成绩">Time</th>
+                                <th data-en="Notes" data-zh="备注">Notes</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>2024-08-20</td>
+                                <td>Gold Coast Half</td>
+                                <td>Gold Coast, QLD</td>
+                                <td class="time-cell">1:42:15</td>
+                                <td data-en="Great prep for Sydney Marathon" data-zh="为悉尼马拉松做好准备">Great prep for Sydney Marathon</td>
+                            </tr>
+                            <tr>
+                                <td>2024-03-10</td>
+                                <td>Sydney Half Marathon</td>
+                                <td>Sydney, NSW</td>
+                                <td class="time-cell">1:44:33</td>
+                                <td data-en="Season opener" data-zh="赛季揭幕战">Season opener</td>
+                            </tr>
+                            <tr class="highlight-row">
+                                <td>2023-07-16</td>
+                                <td>Melbourne Half</td>
+                                <td>Melbourne, VIC</td>
+                                <td class="time-cell">1:38:42</td>
+                                <td data-en="Personal Best!" data-zh="个人最佳！">Personal Best!</td>
+                            </tr>
+                            <tr>
+                                <td>2023-03-12</td>
+                                <td>Sydney Half Marathon</td>
+                                <td>Sydney, NSW</td>
+                                <td class="time-cell">1:45:28</td>
+                                <td data-en="Early season race" data-zh="赛季初期比赛">Early season race</td>
+                            </tr>
+                            <tr>
+                                <td>2022-08-14</td>
+                                <td>Gold Coast Half</td>
+                                <td>Gold Coast, QLD</td>
+                                <td class="time-cell">1:48:12</td>
+                                <td data-en="Consistent progress" data-zh="持续进步">Consistent progress</td>
+                            </tr>
+                            <tr>
+                                <td>2022-03-13</td>
+                                <td>Sydney Half Marathon</td>
+                                <td>Sydney, NSW</td>
+                                <td class="time-cell">1:52:45</td>
+                                <td data-en="Building endurance" data-zh="建立耐力">Building endurance</td>
+                            </tr>
+                            <tr>
+                                <td>2021-07-18</td>
+                                <td>Melbourne Half</td>
+                                <td>Melbourne, VIC</td>
+                                <td class="time-cell">1:55:33</td>
+                                <td data-en="First half under 2 hours!" data-zh="首次半马破2！">First half under 2 hours!</td>
+                            </tr>
+                            <tr>
+                                <td>2018-03-18</td>
+                                <td>Sydney Half Marathon</td>
+                                <td>Sydney, NSW</td>
+                                <td class="time-cell">2:05:47</td>
+                                <td data-en="My first half marathon" data-zh="我的第一个半马">My first half marathon</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+        <section class="gallery-section">
+            <div class="container">
+                <h2 class="section-title" data-en="Race Memories" data-zh="比赛回忆">Race Memories</h2>
+                
+                <div class="photo-gallery">
+                    <div class="gallery-item">
+                        <img src="assets/images/marathons/sydney-2024-finish.jpg" alt="Sydney Marathon 2024 finish line" loading="lazy">
+                        <div class="gallery-caption">
+                            <p data-en="Sydney Marathon 2024 - Crossing the finish line" data-zh="2024悉尼马拉松 - 冲过终点线">Sydney Marathon 2024 - Crossing the finish line</p>
+                        </div>
+                    </div>
+                    <div class="gallery-item">
+                        <img src="assets/images/marathons/gold-coast-2024.jpg" alt="Gold Coast Half Marathon" loading="lazy">
+                        <div class="gallery-caption">
+                            <p data-en="Gold Coast Half - Ocean views" data-zh="黄金海岸半马 - 海景">Gold Coast Half - Ocean views</p>
+                        </div>
+                    </div>
+                    <div class="gallery-item">
+                        <img src="assets/images/marathons/melbourne-2023.jpg" alt="Melbourne Half Marathon PB" loading="lazy">
+                        <div class="gallery-caption">
+                            <p data-en="Melbourne Half 2023 - PB celebration" data-zh="2023墨尔本半马 - PB庆祝">Melbourne Half 2023 - PB celebration</p>
+                        </div>
+                    </div>
+                    <div class="gallery-item">
+                        <img src="assets/images/marathons/canberra-2024.jpg" alt="Canberra Marathon" loading="lazy">
+                        <div class="gallery-caption">
+                            <p data-en="Canberra Marathon - Beautiful autumn colors" data-zh="堪培拉马拉松 - 美丽的秋色">Canberra Marathon - Beautiful autumn colors</p>
+                        </div>
+                    </div>
+                    <div class="gallery-item">
+                        <img src="assets/images/marathons/first-marathon.jpg" alt="First marathon finish" loading="lazy">
+                        <div class="gallery-caption">
+                            <p data-en="First Marathon 2018 - Where it all began" data-zh="2018首马 - 一切的开始">First Marathon 2018 - Where it all began</p>
+                        </div>
+                    </div>
+                    <div class="gallery-item">
+                        <img src="assets/images/marathons/medal-collection.jpg" alt="Marathon medal collection" loading="lazy">
+                        <div class="gallery-caption">
+                            <p data-en="Growing medal collection" data-zh="不断增长的奖牌收藏">Growing medal collection</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="video-section">
+            <div class="container">
+                <h2 class="section-title" data-en="Race Highlights" data-zh="比赛精彩瞬间">Race Highlights</h2>
+                
+                <div class="video-grid">
+                    <div class="video-card">
+                        <div class="video-wrapper">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
+                                    title="Sydney Marathon 2024 Highlights" frameborder="0" 
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                                    allowfullscreen loading="lazy"></iframe>
+                        </div>
+                        <h3 data-en="Sydney Marathon 2024 - PB Run" data-zh="2024悉尼马拉松 - PB跑">Sydney Marathon 2024 - PB Run</h3>
+                        <p data-en="Complete race recap and the journey to my personal best time" data-zh="完整比赛回顾和个人最佳时间之旅">
+                            Complete race recap and the journey to my personal best time
+                        </p>
+                    </div>
+                    
+                    <div class="video-card">
+                        <div class="video-wrapper">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
+                                    title="Marathon Training Tips" frameborder="0" 
+                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                                    allowfullscreen loading="lazy"></iframe>
+                        </div>
+                        <h3 data-en="Marathon Training for 40+" data-zh="40岁以上马拉松训练">Marathon Training for 40+</h3>
+                        <p data-en="My approach to training, recovery, and staying injury-free" data-zh="我的训练方法、恢复和避免受伤">
+                            My approach to training, recovery, and staying injury-free
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4 data-en="Running Journal" data-zh="跑步日志">Running Journal</h4>
+                    <p data-en="Documenting every mile, every moment" data-zh="记录每一英里，每一刻">Documenting every mile, every moment</p>
+                </div>
+                
+                <div class="footer-section">
+                    <h4 data-en="Quick Links" data-zh="快速链接">Quick Links</h4>
+                    <ul>
+                        <li><a href="index.html" data-en="Home" data-zh="主页">Home</a></li>
+                        <li><a href="marathons.html" data-en="Marathons" data-zh="马拉松">Marathons</a></li>
+                        <li><a href="routes.html" data-en="Routes" data-zh="路线">Routes</a></li>
+                        <li><a href="about.html" data-en="About" data-zh="关于">About</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-section">
+                    <h4 data-en="Location" data-zh="位置">Location</h4>
+                    <p>Sydney, Australia<br>📍 Running through life</p>
+                </div>
+            </div>
+            
+            <div class="footer-bottom">
+                <p>&copy; 2024 Running Journal. <span data-en="Made with ❤️ and many kilometers" data-zh="用❤️和许多公里打造">Made with ❤️ and many kilometers</span></p>
+            </div>
+        </div>
+    </footer>
+
+    <button class="back-to-top" id="backToTop" aria-label="Back to top">↑</button>
+
+    <script src="js/language.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
+

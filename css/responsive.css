@@ -1,0 +1,403 @@
+@media (max-width: 1024px) {
+    .hero-title {
+        font-size: 3rem;
+    }
+
+    .hero-subtitle {
+        font-size: 1.3rem;
+    }
+
+    .hero-stats {
+        gap: 32px;
+    }
+
+    .stat-number {
+        font-size: 2.5rem;
+    }
+
+    .intro-content {
+        grid-template-columns: 1fr;
+        gap: 48px;
+    }
+
+    .about-content {
+        grid-template-columns: 1fr;
+        gap: 48px;
+    }
+
+    .route-header {
+        flex-direction: column;
+    }
+
+    .training-content {
+        grid-template-columns: 1fr;
+    }
+
+    .video-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 0 16px;
+    }
+
+    .nav-container {
+        padding: 12px 16px;
+    }
+
+    .nav-menu {
+        position: fixed;
+        top: 64px;
+        left: -100%;
+        width: 100%;
+        height: calc(100vh - 64px);
+        background: rgba(255, 255, 255, 0.98);
+        backdrop-filter: blur(10px);
+        flex-direction: column;
+        justify-content: flex-start;
+        padding: 48px 24px;
+        gap: 24px;
+        transition: left 0.3s ease;
+        box-shadow: var(--shadow-lg);
+    }
+
+    .nav-menu.active {
+        left: 0;
+    }
+
+    .nav-link {
+        font-size: 1.2rem;
+    }
+
+    .menu-toggle {
+        display: flex;
+    }
+
+    .menu-toggle.active span:nth-child(1) {
+        transform: rotate(45deg) translateY(10px);
+    }
+
+    .menu-toggle.active span:nth-child(2) {
+        opacity: 0;
+    }
+
+    .menu-toggle.active span:nth-child(3) {
+        transform: rotate(-45deg) translateY(-10px);
+    }
+
+    .hero {
+        height: auto;
+        min-height: 100vh;
+        padding: 120px 16px 80px;
+    }
+
+    .hero-title {
+        font-size: 2.5rem;
+    }
+
+    .hero-subtitle {
+        font-size: 1.1rem;
+    }
+
+    .hero-stats {
+        flex-direction: column;
+        gap: 32px;
+    }
+
+    .stat-number {
+        font-size: 2rem;
+    }
+
+    .stat-label {
+        font-size: 0.9rem;
+    }
+
+    .page-header {
+        padding: 100px 16px 60px;
+    }
+
+    .page-header h1 {
+        font-size: 2rem;
+    }
+
+    .page-header p {
+        font-size: 1rem;
+    }
+
+    section {
+        padding: 60px 0;
+    }
+
+    .section-title {
+        font-size: 2rem;
+    }
+
+    .section-subtitle {
+        font-size: 1rem;
+    }
+
+    .intro-text h2 {
+        font-size: 2rem;
+    }
+
+    .intro-text p {
+        font-size: 1rem;
+    }
+
+    .milestones-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .routes-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .route-card {
+        max-width: 100%;
+    }
+
+    .social-links {
+        grid-template-columns: 1fr;
+    }
+
+    .footer-content {
+        grid-template-columns: 1fr;
+        gap: 32px;
+    }
+
+    .pb-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .races-table {
+        font-size: 0.85rem;
+    }
+
+    .races-table th,
+    .races-table td {
+        padding: 12px 8px;
+    }
+
+    .photo-gallery {
+        grid-template-columns: 1fr;
+    }
+
+    .route-specs {
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    .route-info h2 {
+        font-size: 1.8rem;
+    }
+
+    .route-map {
+        height: 300px;
+    }
+
+    .route-gallery {
+        grid-template-columns: 1fr;
+    }
+
+    .tips-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .about-text h2 {
+        font-size: 2rem;
+    }
+
+    .about-text p {
+        font-size: 1rem;
+    }
+
+    .timeline::before {
+        left: 60px;
+    }
+
+    .timeline-year {
+        width: 60px;
+        font-size: 1.1rem;
+    }
+
+    .timeline-year::after {
+        left: 56px;
+    }
+
+    .timeline-item {
+        gap: 24px;
+    }
+
+    .timeline-content {
+        padding: 20px;
+    }
+
+    .timeline-content h3 {
+        font-size: 1.3rem;
+    }
+
+    .philosophy-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .stats-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .stat-box .stat-number {
+        font-size: 2.5rem;
+    }
+
+    .back-to-top {
+        bottom: 20px;
+        right: 20px;
+        width: 44px;
+        height: 44px;
+        font-size: 1.3rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .hero-title {
+        font-size: 2rem;
+    }
+
+    .hero-subtitle {
+        font-size: 1rem;
+    }
+
+    .page-header h1 {
+        font-size: 1.8rem;
+    }
+
+    .section-title {
+        font-size: 1.8rem;
+    }
+
+    .milestone-card,
+    .route-content,
+    .social-card,
+    .philosophy-card,
+    .tip-card {
+        padding: 24px;
+    }
+
+    .btn-primary,
+    .btn-secondary {
+        width: 100%;
+        text-align: center;
+    }
+
+    .races-table {
+        display: block;
+        overflow-x: auto;
+    }
+
+    .races-table table {
+        min-width: 600px;
+    }
+
+    .stats-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .training-card {
+        padding: 24px;
+    }
+
+    .timeline::before {
+        left: 20px;
+    }
+
+    .timeline-year {
+        width: 100%;
+        text-align: left;
+        font-size: 1.2rem;
+        margin-bottom: 8px;
+    }
+
+    .timeline-item {
+        flex-direction: column;
+        gap: 0;
+        padding-left: 40px;
+    }
+
+    .timeline-year::after {
+        left: 16px;
+        top: 4px;
+    }
+}
+
+@media (min-width: 1400px) {
+    .container {
+        max-width: 1320px;
+    }
+
+    .hero-title {
+        font-size: 4.5rem;
+    }
+
+    .hero-subtitle {
+        font-size: 1.7rem;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+    }
+
+    html {
+        scroll-behavior: auto;
+    }
+
+    .hero {
+        background-attachment: scroll;
+    }
+}
+
+@media print {
+    .navbar,
+    .back-to-top,
+    .menu-toggle,
+    .lang-toggle,
+    .video-wrapper,
+    .route-map {
+        display: none;
+    }
+
+    body {
+        background: white;
+    }
+
+    .hero {
+        height: auto;
+        padding: 40px 0;
+        background: none;
+        color: var(--text-dark);
+    }
+
+    .hero-overlay {
+        display: none;
+    }
+
+    section {
+        padding: 30px 0;
+        page-break-inside: avoid;
+    }
+
+    .milestone-card,
+    .route-card,
+    .social-card,
+    .gallery-item {
+        box-shadow: none;
+        border: 1px solid #ddd;
+    }
+}
+
