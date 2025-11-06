@@ -1,4 +1,4 @@
-# Running Journal | 跑步日志
+# Running Journal | 悉尼老梅的跑步日志
 
 A beautiful, bilingual (English/Chinese) personal running journal website designed for runners 40+. Features elegant design, responsive layout, and optimized for GitHub Pages hosting.
 
