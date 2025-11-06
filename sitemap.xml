@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://MisterMei.github.io/index.html</loc>
+    <lastmod>2024-11-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://MisterMei.github.io/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://MisterMei.github.io/index.html"/>
+  </url>
+  
+  <url>
+    <loc>https://MisterMei.github.io/about.html</loc>
+    <lastmod>2024-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://MisterMei.github.io/about.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://MisterMei.github.io/about.html"/>
+  </url>
+  
+  <url>
+    <loc>https://MisterMei.github.io/marathons.html</loc>
+    <lastmod>2024-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://MisterMei.github.io/marathons.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://MisterMei.github.io/marathons.html"/>
+  </url>
+  
+  <url>
+    <loc>https://MisterMei.github.io/routes.html</loc>
+    <lastmod>2024-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://MisterMei.github.io/routes.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://MisterMei.github.io/routes.html"/>
+  </url>
+  
+</urlset>
+
