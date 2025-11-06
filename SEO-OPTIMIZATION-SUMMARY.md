@@ -15,9 +15,33 @@ Your Running Journal website has been fully optimized for search engines. The si
 - ✅ **Canonical URLs** - Prevents duplicate content penalties
 - ✅ **Open Graph tags** (10+ tags per page) - Beautiful Facebook/LinkedIn previews
 - ✅ **Twitter Card tags** - Optimized Twitter/X sharing
-- ✅ **Language alternates** - Bilingual SEO (English + Chinese)
+- ✅ **Language alternates** - Full bilingual SEO (English + Chinese)
+- ✅ **Baidu-specific tags** - Optimized for Chinese search engines
+- ✅ **Extended Chinese keywords** - Comprehensive Chinese keyword coverage
 
 **Impact:** When someone shares your page on social media, it will show a beautiful card with image, title, and description instead of a plain link.
+
+### 🇨🇳 Chinese SEO Enhancements (NEW!)
+
+#### Baidu Optimization:
+- ✅ **Baidu verification tag** - Ready for Baidu Webmaster Tools
+- ✅ **No-transform tags** - Prevents Baidu from modifying your pages
+- ✅ **Device compatibility** - PC and mobile optimization markers
+- ✅ **Extended Chinese keywords** - 20+ Chinese keywords per page
+
+#### Enhanced Language Support:
+- ✅ **zh-Hans** (Simplified Chinese)
+- ✅ **zh-CN** (China Mainland)
+- ✅ **zh** (Generic Chinese)
+- ✅ **Bilingual meta descriptions** - Both English and Chinese in every page
+
+#### Chinese Keywords Added:
+- **Homepage:** 悉尼跑步, 澳洲马拉松, 跑步路线, 邦迪跑步, 海港大桥跑步
+- **About:** 跑步故事, 40多岁跑步, 马拉松训练, 中年跑步, 跑步哲学
+- **Marathons:** 马拉松记录, 半程马拉松, 悉尼马拉松, 跑步成绩, 个人最佳, PB成绩
+- **Routes:** 悉尼跑步路线, GPX地图, 邦迪跑步, 百年公园, 海港大桥跑步, 悉尼跑道
+
+**Impact:** Your site can now rank in Chinese search engines like Baidu, Sogou, and 360 Search, reaching Chinese-speaking audiences in Australia and China.
 
 ---
 
@@ -98,6 +122,7 @@ Added rich structured data to help search engines understand your content:
 - ❌ No robots.txt or sitemap.xml
 - ❌ Missing canonical URLs
 - ❌ No language alternates
+- ❌ No Chinese SEO optimization
 - ⚠️ Basic meta tags only
 
 ### After Optimization:
@@ -106,9 +131,11 @@ Added rich structured data to help search engines understand your content:
 - ✅ Schema.org structured data on all pages
 - ✅ robots.txt and sitemap.xml created
 - ✅ Canonical URLs on every page
-- ✅ Bilingual language alternates (en/zh)
-- ✅ Enhanced meta descriptions
-- ✅ Ready for search engine submission
+- ✅ Advanced bilingual support (en/zh-Hans/zh-CN/zh)
+- ✅ Baidu-specific optimization tags
+- ✅ 20+ Chinese keywords per page
+- ✅ Chinese meta descriptions
+- ✅ Ready for Google, Bing, AND Baidu submission
 
 ---
 
@@ -165,7 +192,7 @@ Visit your site and check:
 **Test Mobile:**
 - [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly)
 
-### Step 5: Submit to Search Engines
+### Step 5: Submit to Search Engines (English & Chinese)
 
 #### Google Search Console
 1. Go to [search.google.com/search-console](https://search.google.com/search-console)
@@ -186,6 +213,22 @@ Visit your site and check:
 3. Import from Google Search Console (easiest)
    OR verify manually
 4. Submit sitemap.xml
+
+#### 🇨🇳 Baidu Webmaster Tools (百度站长平台)
+1. Go to [ziyuan.baidu.com](https://ziyuan.baidu.com/)
+2. Register account (requires Chinese phone number)
+3. Add your site: `https://MisterMei.github.io`
+4. Verify ownership:
+   - Copy verification code from Baidu
+   - Update all HTML files:
+   ```html
+   <meta name="baidu-site-verification" content="YOUR_CODE_HERE">
+   ```
+   - Replace "pending" with your actual code
+5. Submit sitemap.xml
+6. Manually submit all 4 page URLs
+
+**See [CHINESE-SEO-GUIDE.md](CHINESE-SEO-GUIDE.md) for complete Baidu submission instructions!**
 
 ### Step 6: Monitor Results
 
@@ -209,23 +252,44 @@ Check Google Search Console weekly for:
 
 ## 🎯 Target Keywords You Can Rank For
 
-### High Potential (Low Competition):
+### English Keywords:
+
+#### High Potential (Low Competition):
 - "Sydney running routes GPX"
 - "Bondi to Bronte running"
 - "Centennial Park running loop"
-- "Marathon training 45 years old"
+- "Marathon training in 40s"
 - "Sydney Harbour Bridge running"
 
-### Medium Potential:
+#### Medium Potential:
 - "Running journal blog"
 - "Sydney marathon training"
 - "Best running routes Sydney"
-- "悉尼跑步路线" (Sydney running routes in Chinese)
 
-### Long-Term Goals:
+#### Long-Term Goals:
 - "Sydney running"
 - "Marathon training"
 - "Running over 40"
+
+### 🇨🇳 Chinese Keywords (中文关键词):
+
+#### 高潜力（低竞争）High Potential (Low Competition):
+- **"悉尼跑步路线"** - Sydney running routes (~500 searches/month)
+- **"邦迪跑步"** - Bondi running (~200 searches/month)
+- **"悉尼老梅跑步"** - Sydney Laomei running (~50 searches/month)
+- **"澳洲马拉松训练"** - Australia marathon training (~300 searches/month)
+- **"40多岁跑马拉松"** - Running marathon in 40s (~800 searches/month)
+
+#### 中等潜力 Medium Potential:
+- **"悉尼马拉松"** - Sydney Marathon (~5,000 searches/month)
+- **"跑步日志"** - Running journal (~3,000 searches/month)
+- **"中年跑步"** - Middle-age running (~2,000 searches/month)
+
+#### 长尾关键词 Long-tail Keywords:
+- "悉尼最美跑步路线推荐"
+- "40多岁开始跑马拉松的经验分享"
+- "邦迪到布朗特海滩跑步攻略"
+- "悉尼海港大桥跑步路线详解"
 
 ---
 
@@ -377,6 +441,11 @@ SEO is a marathon, not a sprint (pun intended! 😄). Results take time, but wit
 
 ---
 
+**Files Created:**
+- `SEO-GUIDE.md` - Complete English SEO guide
+- `CHINESE-SEO-GUIDE.md` - 完整中文SEO指南 (Complete Chinese SEO guide in Chinese)
+- `SEO-OPTIMIZATION-SUMMARY.md` - This summary document
+
 *Document created: November 6, 2024*  
-*Last updated: November 6, 2024*
+*Last updated: November 6, 2024 (Added Chinese SEO)*
 

@@ -182,7 +182,7 @@ Track these metrics:
 - "Best coastal running routes Sydney"
 - "Marathon training over 40 years old"
 - "Centennial Park running loop"
-- "How to train for first marathon at 45"
+- "How to train for first marathon in your 40s"
 - "Sydney running blog bilingual"
 
 ### Chinese Keywords (中文关键词)

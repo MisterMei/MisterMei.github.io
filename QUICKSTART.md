@@ -22,7 +22,7 @@ Get your running journal live in 10 minutes!
    <div class="stat-number">12</div>  <!-- Change to your marathon count -->
    
    <!-- Line ~78-90: Update your introduction -->
-   <p data-en="At 45, running has become..." data-zh="45岁，跑步...">
+   <p data-en="In my 40s, running has become..." data-zh="四十多岁，跑步...">
    ```
 
 2. **Open `marathons.html`** and update:
