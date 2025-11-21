@@ -23,13 +23,13 @@ https://www.strava.com/oauth/authorize?client_id=YOUR_CLIENT_ID&response_type=co
 After authorization, copy the `code` from URL, then run:
 ```bash
 curl -X POST https://www.strava.com/oauth/token \
-  -d client_id=YOUR_CLIENT_ID \
-  -d client_secret=YOUR_CLIENT_SECRET \
-  -d code=CODE_FROM_URL \
+  -d client_id=186388 \
+  -d client_secret=b295cdf2e0f37a3ddb7b0d2cb6771017a45a2d16 \
+  -d code=2809746a504fed288175a9c5e80c1dc9c2fb42e2 \
   -d grant_type=authorization_code
 ```
 
-Save the `refresh_token` from response.
+Save the `refresh_token` from response. 
 
 ### 3. Add GitHub Secrets
 Repository → Settings → Secrets → Actions → New secret:
