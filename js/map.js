@@ -4,99 +4,117 @@ function initMaps() {
     mapElements.forEach(mapElement => {
         const mapId = mapElement.id;
         const gpxPath = mapElement.dataset.gpx;
+        const polyline = mapElement.dataset.polyline;
         
-        if (mapId && typeof L !== 'undefined') {
-            initMap(mapId, gpxPath);
-        } else if (mapId) {
-            displayMapPlaceholder(mapElement);
+        if (mapId) {
+            if (typeof window.initGoogleMap === 'function') {
+                if (polyline) {
+                    window.queueMapInit(mapId, {
+                        polyline: polyline,
+                        startMarker: true,
+                        endMarker: true
+                    });
+                } else {
+                    initMap(mapId, gpxPath);
+                }
+            } else {
+                displayMapPlaceholder(mapElement);
+            }
         }
     });
 }
 
 function initMap(mapId, gpxPath) {
-    try {
-        const defaultCoords = [-33.8688, 151.2093];
-        const map = L.map(mapId).setView(defaultCoords, 13);
-
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-            maxZoom: 18
-        }).addTo(map);
-
+    if (typeof window.initGoogleMap === 'function') {
+        window.queueMapInit(mapId, {
+            center: { lat: -33.8688, lng: 151.2093 },
+            zoom: 13
+        });
         if (gpxPath) {
-            displaySampleRoute(map, mapId);
-        } else {
-            L.marker(defaultCoords).addTo(map)
-                .bindPopup('Sydney Running Route')
-                .openPopup();
+            displaySampleRoute(mapId, gpxPath);
         }
-
-    } catch (error) {
-        console.error('Error initializing map:', error);
+    } else {
+        console.warn('Google Maps not initialized');
         displayMapPlaceholder(document.getElementById(mapId));
     }
 }
 
-function displaySampleRoute(map, mapId) {
-    let routeCoords = [];
+function displaySampleRoute(mapId, gpxPath) {
+    let routePath = [];
     
     if (mapId === 'map-bondi') {
-        routeCoords = [
-            [-33.8906, 151.2745],
-            [-33.8925, 151.2765],
-            [-33.8955, 151.2785],
-            [-33.8985, 151.2795],
-            [-33.9015, 151.2785],
-            [-33.9045, 151.2765],
-            [-33.9065, 151.2745]
+        routePath = [
+            { lat: -33.8906, lng: 151.2745 },
+            { lat: -33.8925, lng: 151.2765 },
+            { lat: -33.8955, lng: 151.2785 },
+            { lat: -33.8985, lng: 151.2795 },
+            { lat: -33.9015, lng: 151.2785 },
+            { lat: -33.9045, lng: 151.2765 },
+            { lat: -33.9065, lng: 151.2745 }
         ];
     } else if (mapId === 'map-centennial') {
-        routeCoords = [
-            [-33.8974, 151.2311],
-            [-33.8984, 151.2351],
-            [-33.9004, 151.2381],
-            [-33.9024, 151.2361],
-            [-33.9014, 151.2321],
-            [-33.8994, 151.2291],
-            [-33.8974, 151.2311]
+        routePath = [
+            { lat: -33.8974, lng: 151.2311 },
+            { lat: -33.8984, lng: 151.2351 },
+            { lat: -33.9004, lng: 151.2381 },
+            { lat: -33.9024, lng: 151.2361 },
+            { lat: -33.9014, lng: 151.2321 },
+            { lat: -33.8994, lng: 151.2291 },
+            { lat: -33.8974, lng: 151.2311 }
         ];
     } else if (mapId === 'map-harbour') {
-        routeCoords = [
-            [-33.8523, 151.2108],
-            [-33.8563, 151.2098],
-            [-33.8603, 151.2118],
-            [-33.8633, 151.2148],
-            [-33.8603, 151.2178],
-            [-33.8563, 151.2158],
-            [-33.8523, 151.2138]
+        routePath = [
+            { lat: -33.8523, lng: 151.2108 },
+            { lat: -33.8563, lng: 151.2098 },
+            { lat: -33.8603, lng: 151.2118 },
+            { lat: -33.8633, lng: 151.2148 },
+            { lat: -33.8603, lng: 151.2178 },
+            { lat: -33.8563, lng: 151.2158 },
+            { lat: -33.8523, lng: 151.2138 }
         ];
     }
 
-    if (routeCoords.length > 0) {
-        const polyline = L.polyline(routeCoords, {
-            color: '#5a7a8c',
-            weight: 4,
-            opacity: 0.8
-        }).addTo(map);
-
-        map.fitBounds(polyline.getBounds(), { padding: [50, 50] });
-
-        L.marker(routeCoords[0], {
-            icon: L.icon({
-                iconUrl: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI4IiBmaWxsPSIjNGFhZjRhIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIvPjwvc3ZnPg==',
-                iconSize: [24, 24],
-                iconAnchor: [12, 12]
-            })
-        }).addTo(map).bindPopup('Start');
-
-        L.marker(routeCoords[routeCoords.length - 1], {
-            icon: L.icon({
-                iconUrl: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI4IiBmaWxsPSIjZjQ0MzM2IiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIvPjwvc3ZnPg==',
-                iconSize: [24, 24],
-                iconAnchor: [12, 12]
-            })
-        }).addTo(map).bindPopup('Finish');
+    if (routePath.length > 0 && typeof window.initGoogleMap === 'function') {
+        const encoded = encodePolyline(routePath);
+        window.queueMapInit(mapId, {
+            center: routePath[0],
+            polyline: encoded,
+            startMarker: true,
+            endMarker: true
+        });
     }
+}
+
+function encodePolyline(path) {
+    let encoded = '';
+    let prevLat = 0;
+    let prevLng = 0;
+    
+    path.forEach(point => {
+        const lat = Math.round(point.lat * 1e5);
+        const lng = Math.round(point.lng * 1e5);
+        const dLat = lat - prevLat;
+        const dLng = lng - prevLng;
+        
+        encoded += encodeValue(dLat);
+        encoded += encodeValue(dLng);
+        
+        prevLat = lat;
+        prevLng = lng;
+    });
+    
+    return encoded;
+}
+
+function encodeValue(value) {
+    value = value < 0 ? ~(value << 1) : value << 1;
+    let encoded = '';
+    while (value >= 0x20) {
+        encoded += String.fromCharCode((0x20 | (value & 0x1f)) + 63);
+        value >>= 5;
+    }
+    encoded += String.fromCharCode(value + 63);
+    return encoded;
 }
 
 function displayMapPlaceholder(mapElement) {

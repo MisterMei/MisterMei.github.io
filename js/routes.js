@@ -155,84 +155,21 @@ function renderRouteFromData(route, index) {
   `;
 }
 
-function decodePolyline(encoded) {
-  const poly = [];
-  let index = 0;
-  const len = encoded.length;
-  let lat = 0;
-  let lng = 0;
-
-  while (index < len) {
-    let b;
-    let shift = 0;
-    let result = 0;
-    do {
-      b = encoded.charCodeAt(index++) - 63;
-      result |= (b & 0x1f) << shift;
-      shift += 5;
-    } while (b >= 0x20);
-    const dlat = ((result & 1) !== 0 ? ~(result >> 1) : (result >> 1));
-    lat += dlat;
-
-    shift = 0;
-    result = 0;
-    do {
-      b = encoded.charCodeAt(index++) - 63;
-      result |= (b & 0x1f) << shift;
-      shift += 5;
-    } while (b >= 0x20);
-    const dlng = ((result & 1) !== 0 ? ~(result >> 1) : (result >> 1));
-    lng += dlng;
-
-    poly.push([lat * 1e-5, lng * 1e-5]);
-  }
-  return poly;
-}
-
 function initRouteMap(mapId, polyline) {
-  if (!polyline || typeof L === 'undefined') return;
+  if (!polyline) return;
   
-  try {
-    const coordinates = decodePolyline(polyline);
-    if (coordinates.length === 0) return;
-
-    const map = L.map(mapId).setView(coordinates[0], 13);
-
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-      maxZoom: 18
-    }).addTo(map);
-
-    const polylineLayer = L.polyline(coordinates, {
-      color: '#5a7a8c',
-      weight: 4,
-      opacity: 0.8
-    }).addTo(map);
-
-    map.fitBounds(polylineLayer.getBounds(), { padding: [20, 20] });
-
-    const startIcon = L.divIcon({
-      className: 'map-marker-start',
-      html: '<div style="background: #4aaf4a; width: 16px; height: 16px; border-radius: 50%; border: 3px solid white; box-shadow: 0 2px 4px rgba(0,0,0,0.3);"></div>',
-      iconSize: [16, 16],
-      iconAnchor: [8, 8]
-    });
-
-    const endIcon = L.divIcon({
-      className: 'map-marker-end',
-      html: '<div style="background: #f44336; width: 16px; height: 16px; border-radius: 50%; border: 3px solid white; box-shadow: 0 2px 4px rgba(0,0,0,0.3);"></div>',
-      iconSize: [16, 16],
-      iconAnchor: [8, 8]
-    });
-
-    L.marker(coordinates[0], { icon: startIcon }).addTo(map)
-      .bindPopup('Start');
-
-    L.marker(coordinates[coordinates.length - 1], { icon: endIcon }).addTo(map)
-      .bindPopup('Finish');
-
-  } catch (error) {
-    console.error('Error initializing route map:', error);
+  if (typeof window.initGoogleMap === 'function') {
+    const path = window.decodePolyline(polyline);
+    if (path.length > 0) {
+      window.queueMapInit(mapId, {
+        center: path[0],
+        polyline: polyline,
+        startMarker: true,
+        endMarker: true
+      });
+    }
+  } else {
+    console.warn('Google Maps not initialized');
   }
 }
 
