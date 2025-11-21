@@ -142,7 +142,6 @@ function aggregateRuns(runs) {
   });
 
   const recentRuns = runs
-    .slice(0, 20)
     .map(run => {
       const distanceKm = run.distance / 1000;
       const movingTime = run.moving_time;
@@ -282,6 +281,7 @@ async function main() {
     console.log(`Data saved to ${outputPath}`);
     console.log(`Total runs: ${aggregated.totals.allTime.count}`);
     console.log(`Total distance: ${aggregated.totals.allTime.distance.toFixed(2)} km`);
+    console.log(`Recent runs saved: ${aggregated.recentRuns.length}`);
   } catch (error) {
     console.error('Error:', error.message);
     process.exit(1);

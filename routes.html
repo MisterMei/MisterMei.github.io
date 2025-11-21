@@ -148,6 +148,25 @@
     </header>
 
     <main>
+        <section class="strava-routes-section">
+            <div class="container">
+                <h2 class="section-title" data-en="My Most Run Routes" data-zh="我最常跑的路线">My Most Run Routes</h2>
+                <p class="section-subtitle" data-en="Routes identified from your Strava running data" data-zh="从您的 Strava 跑步数据中识别的路线">
+                    Routes identified from your Strava running data
+                </p>
+                <div id="strava-routes-container"></div>
+            </div>
+        </section>
+
+        <section class="route-detail" id="featured">
+            <div class="container">
+                <h2 class="section-title" data-en="Featured Routes" data-zh="精选路线">Featured Routes</h2>
+                <p class="section-subtitle" data-en="Popular running routes in Sydney" data-zh="悉尼热门跑步路线">
+                    Popular running routes in Sydney
+                </p>
+            </div>
+        </section>
+
         <section class="route-detail" id="bondi">
             <div class="container">
                 <div class="route-header">
@@ -380,6 +399,8 @@
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script src="js/language.js"></script>
+    <script src="js/strava.js"></script>
+    <script src="js/routes.js"></script>
     <script src="js/map.js"></script>
     <script src="js/main.js"></script>
 </body>
