@@ -1,10 +1,49 @@
+function decodePolyline(encoded) {
+    const poly = [];
+    let index = 0;
+    const len = encoded.length;
+    let lat = 0;
+    let lng = 0;
+
+    while (index < len) {
+        let b;
+        let shift = 0;
+        let result = 0;
+        do {
+            b = encoded.charCodeAt(index++) - 63;
+            result |= (b & 0x1f) << shift;
+            shift += 5;
+        } while (b >= 0x20);
+        const dlat = ((result & 1) !== 0 ? ~(result >> 1) : (result >> 1));
+        lat += dlat;
+
+        shift = 0;
+        result = 0;
+        do {
+            b = encoded.charCodeAt(index++) - 63;
+            result |= (b & 0x1f) << shift;
+            shift += 5;
+        } while (b >= 0x20);
+        const dlng = ((result & 1) !== 0 ? ~(result >> 1) : (result >> 1));
+        lng += dlng;
+
+        poly.push({ lat: lat * 1e-5, lng: lng * 1e-5 });
+    }
+    return poly;
+}
+
 function createRunMap(mapId, polyline, runData) {
     if (!polyline || !polyline.summary_polyline) {
         return;
     }
 
-    if (typeof window.initGoogleMap === 'function') {
-        const path = window.decodePolyline(polyline.summary_polyline);
+    const mapElement = document.getElementById(mapId);
+    if (!mapElement) {
+        return;
+    }
+
+    if (typeof window.initGoogleMap === 'function' && typeof window.queueMapInit === 'function') {
+        const path = decodePolyline(polyline.summary_polyline);
         if (path.length > 0) {
             window.queueMapInit(mapId, {
                 center: path[0],
@@ -14,15 +53,28 @@ function createRunMap(mapId, polyline, runData) {
             });
         }
     } else {
-        console.warn('Google Maps not initialized');
-        const mapElement = document.getElementById(mapId);
-        if (mapElement) {
-            mapElement.innerHTML = `
-                <div style="display: flex; align-items: center; justify-content: center; height: 100%; background: #f0f0f0; color: #666; text-align: center; padding: 20px;">
-                    <div>Map loading...</div>
-                </div>
-            `;
-        }
+        mapElement.innerHTML = `
+            <div style="display: flex; align-items: center; justify-content: center; height: 100%; background: #f0f0f0; color: #666; text-align: center; padding: 20px;">
+                <div>Map loading...</div>
+            </div>
+        `;
+        
+        const checkInterval = setInterval(() => {
+            if (typeof window.initGoogleMap === 'function' && typeof window.queueMapInit === 'function') {
+                clearInterval(checkInterval);
+                const path = decodePolyline(polyline.summary_polyline);
+                if (path.length > 0) {
+                    window.queueMapInit(mapId, {
+                        center: path[0],
+                        polyline: polyline.summary_polyline,
+                        startMarker: true,
+                        endMarker: true
+                    });
+                }
+            }
+        }, 100);
+        
+        setTimeout(() => clearInterval(checkInterval), 10000);
     }
 }
 
