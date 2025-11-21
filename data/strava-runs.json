@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-21T10:34:02.386Z",
+  "lastUpdated": "2025-11-21T11:00:07.756Z",
   "totals": {
     "allTime": {
       "count": 217,
@@ -42,6 +42,20 @@
       "map": {
         "id": "a16508434234",
         "summary_polyline": "dr|lEynsy[rAR~AHXJrCLx@VvAH\\NJN@j@KrAMnAEdAMt@FXWrBK^IdA?j@KZA`ABRGNODa@WkAe@}@o@KQgC_Ck@s@WGqAIaCBy@O_AAeBa@cCSqBi@e@EmBg@_AFMJCN_@r@e@RgAMKDYIkBBm@IKK[IS@uFw@g@g@Yi@CULg@pAiATg@T{DT{A@{AHq@EMuBCq@b@sA^i@Xu@t@oBrA]`@a@Pe@f@uCxBKLDBa@Z]JWTEVB@kAj@Y^Up@?JOLUn@En@?\\E|@[rA@RENBPDDBIc@pC?p@GPGnAKjAITChCQf@?PU@GFEbCMhAQ`DOp@@f@]rB@j@SpBG~AU|CAhBU|BOj@QzC?l@ER[T_@OcD_@{AWe@QYWi@[q@QeCyAw@SiAK{E}@aA_@o@Mw@e@CKeBoCWYQi@DeCZkEBaAJy@Du@E]D[C[BWa@aA}BmBu@WcAQcAEe@Wu@CmAOs@Sc@DSI{BOyA[_@Bw@[OBm@KkAEqDa@UKkASy@A{@QwDY]a@WUGYc@m@uAeAm@MaAw@k@m@aEcIQUyFsEa@WqFwAaBQc@M{BEg@Q_@EeBBmBYYFyBAgDWk@?g@SCY@m@p@eIBoAVsB?SJ{@@q@R]VGZ@lBx@RVDTKpA]tBGbAMl@@XWlDI^?b@IdA@NDB`GXPGbBNt@CzANr@AvCb@XLpCf@z@R`Ab@fDnCJLz@f@\\Xp@~Ab@l@tA|CBP^j@d@`@`Af@nAbArAx@r@n@LVXVvADZHDh@KR?a@NMt@@h@LXArB^~Ep@dAJVAPL~@@vBb@hBLZC`@Nh@?jAV|@BRVdBTX@rA`@TR\\J`@Vd@n@^~@Dl@Gn@?hAQxCOnAAh@SzA?v@PhARn@T`@VVh@bALBb@\\nCv@~AZnCVv@R`Bp@zEhClAPr@TjDh@LUJeCJq@PgDPgBF_BL{@A]PwBA[HYJwBTwA?i@VeBPqDT{BBy@CUT_Cn@{HC[l@GEB@o@D_@Ao@NkBPsAt@kC\\a@rAw@f@a@`@CjA{AN[lAq@v@cA^O^]ZMhAmAt@k@lAm@tBg@\\Cj@BXVHPRHXKlABjFn@z@D|@P`Aj@tAZn@FrABn@L\\L~@@~@P"
+      },
+      "dateLocal": "2025-11-20T05:47:19Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 5185,
+      "averageSpeed": 10.35,
+      "maxSpeed": 18.1,
+      "elevationDetail": {
+        "gain": 198,
+        "loss": 0,
+        "high": 174,
+        "low": 131
+      },
+      "performance": {
+        "sufferScore": 99
       }
     },
     {
@@ -59,6 +73,25 @@
       "map": {
         "id": "a16439117152",
         "summary_polyline": "bs|lE}nsy[`ARzCTjCLRL\\@r@R\\LNPIbDMxAS|@CnBObAIrASnA@`AGPUJkCwAgEcEKSUGiAIkD?]OsBOw@WeDUeA_@oA[y@OeA?KLALWf@WT[LgBSe@Ho@CwAOe@SoDc@qAIo@k@_@u@L_@vA{AP]F[r@uKCS@_@TY`@sGEsASw@[Ms@CcGcA{@CmBWcAYMBkDa@u@?BVGrBUrB?r@M~Ba@tDKvDG?[Ug@o@yAcCk@o@}@yAwBsCWU{@uAk@o@ESc@q@w@}@[Si@aAgAwAkA}@e@UqB]y@YB?CPD`@nAJdBl@rAdArAxA~@tA^\\zAdCtBnCHBXh@rBjChBtC~@~BBx@]vCCdC[fAK~@Ad@KdA?nAO~@GvAGTD^CtBQj@QxAUbEIh@S`F]rC?x@Ml@?l@Q~@K`CQ|AKjCQxAGbBMhAAnAQx@UrDUb@K@SMcAI_Eo@_CgA{CeBeBi@o@MsAIuCm@Y?k@[q@Og@e@gBuCY_AGy@P{BLq@@oA\\mEE]HgAe@cA_AaAwAy@iAOWMeAGa@W}@CiCc@WDeAK}Ci@{AQUBuAWw@AsAWaAEkBe@kAC{Ca@q@CWWI[?WEEu@i@wBqAk@i@k@]i@i@sEyIy@y@cAi@y@s@i@i@gB_AwAa@kE{@iAOi@B}BM{A@sBYWDoBEUHgCQeB?MVSzDYrBA`AJTvBPhEr@|@MRo@P_BBaBLsBFo@A]MMUGyCCYIGKDuA`@_F@iAVsCPm@PgBGOqAm@aAQUHWlFG^A~@Gx@UtAE|AQfBCj@FR~B@fEZdBBv@L~@?hG^~Cr@rDr@r@`@~FzEtBzD^~@vA|B|GvEbBf@z@?~Bb@\\Cv@PbTfCnDVdAXLEp@b@zARp@RbAdA`At@Vj@Lh@CRFRIxBBXO~A@v@MlBQvA?fANj@nBjDb@`@tBh@p@ZlGt@pBhApCfA`An@fAL|EdAP_@Fg@FqBTkC@m@X{B@m@XaEHgBGOJEDa@JyAN{AJi@PgDh@oGDmBLm@BoA`@mE?q@`ACjAFnCh@t@Cb@JNCBSnB`@XA\\QZDl@b@j@HBO\\E?Qc@q@mAwAScAB[Z]r@oAjCqBxA}@hAoAl@g@VeAHaA?gATyB\\cCdCFhEh@dABnAl@`AXdBZr@B"
+      },
+      "dateLocal": "2025-11-13T05:34:45Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 5842,
+      "averageSpeed": 10.8,
+      "maxSpeed": 19.58,
+      "elevationDetail": {
+        "gain": 248,
+        "loss": 0,
+        "high": 174,
+        "low": 131
+      },
+      "performance": {
+        "sufferScore": 103
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 2,
+        "prCount": 2
       }
     },
     {
@@ -76,6 +109,25 @@
       "map": {
         "id": "a16421401061",
         "summary_polyline": "zm|lEk}ry[{Ee@q@UuBMe@S{FeAo@N]z@u@`@_AQaAFaDSsGiAw@{@Oe@To@`Aw@\\g@XgDBcBZcDEOk@GmAF{ChAsAtAsAl@y@bAkClBiAlA{@Z_ArAk@\\e@p@i@~AYzDSt@?RHNOp@@Ti@lFUnEQz@YJOjDUzAKpDWnBCzBs@hHU`Fc@`DCfBUd@?ZmAdBuEpBmAtA[P]v@m@f@cCf@}BLc@N[`@W@Q`Ba@xAEfBAjB]lC?|Ae@vCa@|FQ\\u@WgCmDu@s@cBsAyAg@w@gAqCyBaHiBiAKeAe@{AWyBs@CZEQmACU`@LE?SXKjAJqDScEu@qJiAmBE{A\\yPdLy@^eBI}A]iDmAcCg@kAq@iBqDo@q@s@]_IoAoDU}Bc@cAGWF]QwGsJ}DcDi@UyAY}EY}B]yXeA_Ag@aB]a@g@s@O}B]o@_@{IyC{AaAgBaBkAwG]oAQ_@i@i@}@g@sAOsQnB{BDqAOs@m@i@y@yBaCI{@FSCkA[wBa@wAm@iAaCgCyBaAeCe@cGG_Dc@gDRcFDcDMu@D{A`A}ARuAAsErApDmAVUjCIpDwAvCP~LW|@VdCNdGJnA`@rAr@lA~@hAlA|@dBXz@^fCFlBT~@pCjDj@b@x@TzB@pEm@jHk@pBa@hB`@`An@p@pAv@hFb@dBfAjAtBvA~KrD~BLjA|@`DlApBErAZxDFbAKzDTdK`Av@CpBd@vAJrBpAjAlAlDxEdBhCNr@jACxBXn@G~@JxBl@lAEjCp@p@BhBt@vBhDRr@j@f@dE`AnFdB~ABfC}AfEaDbB}@`BwAlB_ArAYxBLrFbAM^Dv@K`BI[R[GMHuALOpHf@fCj@NAL]zIfCxB\\xCz@~LdJfCxDn@n@JQj@iGDwAz@oI`@mGl@cB\\i@l@]rDUnAc@|DgExD_BbAmANY@c@POLq@F{Bz@eKVsECk@Ps@?o@X_B@q@VaBBuAfBkWpCHzAZxDPrE`A~@CHDCF[e@f@UAO_@W}@_BGEXrApAr@T^}@P@G\\`@_@z@Ft@k@RYjBZl@?ND@P_@LD^bBo@f@J?}@tAlEx@VXCd@p@zAt@lArAxARAGBNi@[O@OSFs@o@kAuBYw@ScBBg@KeBR}D_AoBI_@i@c@cAoB_@U{@wCDWbByBtDiC"
+      },
+      "dateLocal": "2025-11-11T17:00:46Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 7840,
+      "averageSpeed": 10.7,
+      "maxSpeed": 24.12,
+      "elevationDetail": {
+        "gain": 282,
+        "loss": 0,
+        "high": 184,
+        "low": 122
+      },
+      "performance": {
+        "sufferScore": 57
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 3,
+        "prCount": 1
       }
     },
     {
@@ -93,6 +145,25 @@
       "map": {
         "id": "a16409366415",
         "summary_polyline": "tywmEil{y[b@MJQf@Sr@x@RBPYAa@Ha@b@u@EcA^IVPb@Ld@MGOFEYb@FBICFTGCAFDKB_@B?CRR_@_@`@eAA[SDA@g@IGAm@MOAQNYKcBYEAKe@FBIORAWKFWE_@VEg@KCGQBRWFgAUoA?g@Nm@b@S?]w@ASLi@D}@HY_@U}BBYIaACQIIFwAIUDc@MmBHUSi@AcB@ESJm@Es@D[Aw@T_DKHkAAyBa@e@@oAMkBi@_@B}@V]SyCg@GWNaAV_@\\SLUQq@?oBEOYQmAqBg@c@e@{AQ]QQc@cAGc@}@_Cc@g@UKJ_@EU_C}AeBcBMAONQE]g@cAi@C_@[_@_@s@MmA_@i@oAYaAmACMe@YiCyBsA_@gCiA[[IUIwA_@mA}@oAqA]mEZkAR]EqDNWPg@hAMh@A^RXfAj@vFlAhC~@bChApB`BlApBTvAGjCQdAg@`Ac@j@k@f@u@^iAPmCY_Ci@{BDsBz@o@d@oAbC_AdAc@ZaBJcBm@_AKUWy@IAPq@~AI~@@n@JVvDd@hBj@TRtAf@f@j@|@|BfA\\d@AZHf@MzA?h@Ln@b@xASPF`@rAFh@?v@EbAGREAGlA?dAShC@j@Il@OTq@@yBQ{@@qAOQl@KL[Uq@Me@Jo@KWK}@BgAe@O@SOk@b@eCpAe@P{@DQHg@e@?_DMq@KYUQi@Cw@b@g@l@i@JgAl@QVWn@I^{@zASr@WTK`AX@dAZZG|APr@NNPf@~ACTIFYDeAt@y@DeBj@CVNTLBzBeAPCbAa@xA]PSl@XV`@Rt@VTd@x@v@x@f@nAR|@LfBIb@?jA[~@BZmAnDMt@Db@y@x@Uh@o@f@CJDhAG^Bb@LRXPvBPlAS|@Ah@Nt@f@l@@pAa@Le@l@w@Hc@@S_@mA?q@HWVWf@Wn@NTVZHPTNb@JlA\\~BXV^H`BSrGYZQl@Ap@]v@ALFXs@VWn@R`@?XNb@C\\SdAF`@MNObCIxCBp@D`@IrDETGVBjAKXDx@IXKv@Cr@Dd@P|@Nr@^d@iCd@yAj@MxAHrAt@\\?vBh@fCVj@\\b@r@r@BZTL`@NJAZDHHBx@UVPt@@b@V\\BdBYZOP?RQV?xBk@h@[bAY"
+      },
+      "dateLocal": "2025-11-10T08:19:37Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 4107,
+      "averageSpeed": 11.39,
+      "maxSpeed": 24.62,
+      "elevationDetail": {
+        "gain": 53,
+        "loss": 0,
+        "high": 38,
+        "low": 6
+      },
+      "performance": {
+        "sufferScore": 48
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 6,
+        "prCount": 3
       }
     },
     {
@@ -110,6 +181,25 @@
       "map": {
         "id": "a16388273037",
         "summary_polyline": "h|{lEkrsy[kDk@iAe@iLgA[jEUpAMzCMf@aB~AsBtAo@p@uA|@KXiAt@hArD|@v@pC`FHlCUdFFl@ZhAvB|ClE~BnDrEfCfCf@VjHfGh@RjB^vJj@jD|@bHtBpHhChBd@\\ERXhEvAtFR`EF`GrC~CrBlE~@~CLlCfC^Bv@i@fBoCVoA`@o@vA{DpA}Bp@}BxAoA|BeAj@En@c@xBUdAm@b@o@|ACTQhDi@rAm@jHuBzFgDnDe@jCC|Cg@tAeAf@i@|AiCRQvAQn@[hI?`AYhAy@xBuCtAsArA_CfEwFtD{@rBcA|AuAtAmCvCeHh@mDv@eEd@kBZ}Cb@uBd@_AfAmAbBiA~Ag@VWVLz@Sd@D~A`@p@GXW`@DxAUbCcAbBIZ[pDXpCS|@eBv@q@~AeCjFmGx@gCl@_IEWJcAn@_Cn@wA~CwEvBaB^u@jAaAjGgCh@YLWvAWxDyChBy@zEw@rCDnEf@r@ZvAD|Av@zARjBzAxCzA`A`AbAf@v@Td@KfAb@vAa@p@DvBy@hAMnAk@`BGh@YAIp@MvBeApC_@pCM`E^ZIlBVh@Xl@OrBRvEW`@[aA}Ai@aB?WzJqGnC{AJ]OM@SlB}CPu@~BiClAqC|@iAtAcDvBeBxGwD`HgFt@EhBw@BHnEmCpC_DlBeAtJeHtGuAp@Jx@]tADxAa@z@LnDg@rAm@`AaAv@ENO?w@KqAYoA@}@PwB\\}BdA}ArBkA`CwB~AuB`Ag@\\Ch@e@lB_DvBiBRIT\\x@aArDyBr@y@h@Qn@}@hAY~AmAt@YnHeGxAYhD}AbEe@lDcAhDyB`AQ~@BhC{@d@a@t@A^Pv@{@hBe@F_@|@m@f@AL_@f@e@VeA@y@LW`E_Bx@{AhC}ANLFZEHTI`CuC~CqBz@Xx@AnBw@NBl@a@tASxAIBYMM@]^IQ@wA}@x@_@Rs@b@]|I_AjDJ~Dv@dBdAx@PdIpEbIzD|AhAx@XlIbFxIdEbCxA|Aj@ZACMJDHWmAMqAc@gAc@a@e@]I_@H_Ag@]g@_AJGSQJe@Ee@_@{C_AM]w@[qAEYOwAv@a@y@IHJXELu@h@]C?`AhGv@p@ZnBvBfB~Cv@x@z@xBP|@FvCJd@G|@cB`EYtBs@p@Ur@m@b@ExBFd@XZ~BPt@Q"
+      },
+      "dateLocal": "2025-11-08T08:24:54Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 7688,
+      "averageSpeed": 10.56,
+      "maxSpeed": 20.45,
+      "elevationDetail": {
+        "gain": 227,
+        "loss": 0,
+        "high": 174,
+        "low": 6
+      },
+      "performance": {
+        "sufferScore": 115
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 13,
+        "prCount": 4
       }
     },
     {
@@ -127,6 +217,25 @@
       "map": {
         "id": "a16367166818",
         "summary_polyline": "ts|lEonsy[d@J|AFvAR`@?f@DhAThAJb@PNJCr@Il@KnCOx@CvAEVIpBEXS|B@\\Kb@GDI?y@Yg@UaAq@]c@aCcCc@_@SIkAMo@Eg@D_@Ca@@GEaAEiBU{@Q{@CQGiAIiAc@_@Eg@OcAQq@CYHEPYn@QN_@LoBUUHg@BcAW]?k@OO@yB_@wBY]]a@u@Lu@dAy@\\k@BKLkADoAHa@JUAg@PcD?IEGw@EgABmCjAq@b@[^s@d@g@^WXyAjAMN}B`BMLGRJ^v@~AbAlBV\\^~@t@lA\\z@DT^x@^r@JDr@zAtBrDFx@ElB@XEn@?h@Ep@Ah@Fj@Nh@b@z@dApAL\\RTf@ZTRTB\\TdAd@TRf@f@t@bAFNPLj@t@h@h@b@n@TVRHp@l@VJLPXP^b@z@r@l@^fBzAd@X~A^t@Jf@AfBJXAxDZxBj@xBv@}@OKIJ]?OJC@CEGIDBPIND??DILwAc@e@Ig@Q[Ae@KsEMgCFgA[c@Ui@_@g@i@qD{Cs@e@y@a@k@e@}@aAcB_CYk@y@}@cAu@}@g@{@YaAs@_BqC[eAKgAD}@ESNcCAc@Bu@Ks@IIQi@]e@Qk@EEYMeAgBo@i@e@YIOQq@Ak@COW}@eAuBMOi@mA_@m@s@yACm@Wa@i@mAy@uACMQWMe@sA_CEMm@w@c@w@o@w@m@eAm@s@O]sBqCm@s@q@gAKW_@]OW_AkAWe@cA}@m@]{@[uBc@w@]}Ba@mAa@gB_@kA_@{AW_A[uBQuA_@q@WoCo@OMkASyAe@gBYiA]_@CKMw@MaBc@aAQaA_@eASu@[gAQiAe@w@SgAQeBXHBZOP?~@SpCj@vBh@`Bn@zA`@LHvB^`@Pp@LXN\\@fA\\zAZLJdBXtBf@xErAvATl@Ax@NrBx@nBXbARrA\\\\L`AVRJf@HxDlAd@Vj@f@bDtEb@X@X`@d@`AtAd@f@Zd@LV`BrB`A|Ar@x@|@fBVVDPV^d@xAPNl@`B`@r@FDZS~@gApBwARIFI^Q~@{@jAo@t@o@t@]`@WXIfBIbA@LGZAHBJN|BP|@PLLL@FEfHr@tATLHvARP?p@L"
+      },
+      "dateLocal": "2025-11-06T06:12:26Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 3775,
+      "averageSpeed": 11.59,
+      "maxSpeed": 18.79,
+      "elevationDetail": {
+        "gain": 121,
+        "loss": 0,
+        "high": 174,
+        "low": 131
+      },
+      "performance": {
+        "sufferScore": 70
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 11,
+        "prCount": 2
       }
     },
     {
@@ -144,6 +253,25 @@
       "map": {
         "id": "a16357955712",
         "summary_polyline": "xcwmEed|y[Ga@@OCS@c@FIJg@?]FO@[I]GC}D_AQFy@?i@CQGMB]OgAM_@DsAWm@Cm@Y_@@}@ZU@W[kAWm@Aa@UBq@HW\\k@VMLO[i@@q@DOESBMEc@aAyASOSk@UUe@u@Sy@i@oAG[W][_A_A_BMGCIDYIWYKSYSOg@Qk@g@}@eAs@e@WgAOc@o@k@KYKIGWIIa@u@]Yq@Wy@_@sAu@k@g@U]SGs@m@e@Us@OgAi@u@Ue@[U_@c@qCm@yA_@]u@OwA?wBTe@GMDF@C@sCVe@EkAHOLYx@U\\I^A\\XZt@f@j@V^@XPZAr@JNHdB`@xDxAf@d@h@Vf@p@n@\\b@j@Zt@H`@LbBAjAEf@Sv@e@x@IXOH]d@u@`@y@To@FqBWiBa@gAG{@@w@LyAl@[Ts@x@Yr@o@jAm@n@m@NkAHSCu@UI?OKs@Ks@][?KKGA_@tAAL_@`BB`@LTv@Fh@VrAHd@LPPn@V~A^^XLZPVDRLRBVv@r@fBHZJx@EhAPZEj@LfBFj@xAF|@_@rB?PKf@Dt@?LUvADd@If@BRDDIVCb@a@NiAAaEYQ?QFWAGFu@QSBgCKeBQUIQ?WN?VcA`@YTeBn@k@?QHs@_@Ba@Am@BW@o@Mc@Os@KOQIW?eAj@Yf@oA`@c@XWXGXIx@SJe@j@ELk@v@EXGFGdA`@?nA\\dB@f@LJAj@^hAvAFNd@\\fApBXVJRVVFRZTXn@Rr@Dz@Nh@BT?d@GNDJFz@?~@c@~@YfAMHYf@Kb@Kz@?TDTg@\\s@dA_@XGJAVHt@Kj@@JRf@XPlBLTAv@U~@?d@FTHb@b@XBp@Ip@SJINg@^_@Re@Ae@U_@Ik@AOFWJ_@\\_@\\M`@HVZ^JZXHRRzAFrAFRVd@PJVFjD[~DKfAg@`CYPe@Fm@BHDCLQVAZHnAUd@N\\GZLh@IfAJdA@~AYvAPt@AnAHp@E^BxCQZD~@UzAEXB^N^AdAd@TDVY\\uBZgAJG\\B`@GVDnAd@b@VpC\\NJRB~@DbAVDD?RLPt@b@P?^LLX@TNNFBj@SRZJC^Zv@JX?~Ak@R?JG^Dn@GbBc@`@[f@Ib@S\\E"
+      },
+      "dateLocal": "2025-11-05T09:51:06Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 2915,
+      "averageSpeed": 12.51,
+      "maxSpeed": 20.88,
+      "elevationDetail": {
+        "gain": 25,
+        "loss": 0,
+        "high": 40,
+        "low": 4
+      },
+      "performance": {
+        "sufferScore": 68
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 83,
+        "prCount": 46
       }
     },
     {
@@ -161,6 +289,20 @@
       "map": {
         "id": "a16345088426",
         "summary_polyline": "`r|lE_osy[dBVz@B`APfB?pA\\xAJd@X@lAGZIbBShBAp@UtDO|@IzAO~@[?aCoAa@k@UK{@y@S]_@Qe@k@EMiCSm@H_AC_@C[Kw@CcBa@gAKmAEmAa@g@Cy@a@q@Sc@?y@RCP[r@KJ]HcBQm@Bo@As@Oc@@i@QmBQYIsASe@GgAyAFUvAuA^{@X_DBq@ASNkBLaA?SOi@GGq@AsALwAl@_@Zc@H]TUVOFo@b@mAjAcDnBiAlAS?EFc@PEMaAuAK_@[o@QHQCOxD@pAQ`@G`@[dEGnBStC?jAEh@e@|CK~BG`@KdB@n@YzBC|@QbAC|AMf@@j@G`@Cp@MxAEHKtBEZArA[|BBd@UdDQlAItA@`@QjASVGBsAW_AIoDu@uBkAi@_@aAi@oAe@qAOmCa@kAWw@WaAQ_@OSSkBeDQa@Ka@?}@Hy@PkDTgC?]Fq@Ck@D_AGGKa@S_@OG_@c@eAs@u@YiAUw@Au@WsCY_@OcAAoBWqAWWCMDy@UaAK]BwBU}AWSK_BUeACGGcBQuBIMOG_@c@m@KYgAo@k@g@s@g@o@_@q@u@aEgIs@w@eC_BQWaAw@cBo@y@Kg@QuDu@gDIu@K_BBc@MoAKSFgA?iEUuA?UYA[~@eNf@aF`@Up@H\\NdAp@N^GnASbAg@`FIjBOdAAf@G|@@PLD~@@tALh@KrAJbBJl@ARFbCDpCd@vE`Al@RfBvAVLdCpBj@h@`@`AbA`BbAxBBTZb@d@b@`@RzB`Bd@V`BrAx@RdAD~B`@|@FlANhD`@x@Pv@@bD`@nBZ|Eb@VJ~@LTCDF@LPLzBVp@VZTd@n@|@z@R\\H^BdACz@Eb@@ROdBEvAUnBDREDMjARx@Rb@xBjDLJ~A`@d@RfC`@JFf@@vBZ|BdA~@l@x@ZtAr@z@HpAb@z@FtAXFOFI@[DGD}ANuBFS@aAR}AFcBHa@BcAF]NqCEKLSBiAPwAFQ@m@FYXsD@u@XuD@m@Fe@A_@PwAHmBHgALm@BkAGSTuBLq@BsANgALmC`@mEL}BPFRKFDJXf@r@h@lARTG@bAo@Z_@bBsAPUlBgAv@s@jBoAj@]f@Uf@OjBUlABVMR@PR~@Ph@AHFjDb@f@NpABbARbBNhCh@pBNpBV"
+      },
+      "dateLocal": "2025-11-04T05:50:28Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 4889,
+      "averageSpeed": 10.9,
+      "maxSpeed": 17.5,
+      "elevationDetail": {
+        "gain": 202,
+        "loss": 0,
+        "high": 174,
+        "low": 131
+      },
+      "performance": {
+        "sufferScore": 78
       }
     },
     {
@@ -178,6 +320,22 @@
       "map": {
         "id": "a16325705209",
         "summary_polyline": "vq|lEynsy[vEr@jBNZJhBPpAXFd@Cd@c@pF@b@_AbKYDwAs@wAwAkBaBw@cA[I{AOwC?gCY_AUqAG{Be@eD_A_@?u@Pk@jAi@TiBW_BHkBc@gG{@{@cACe@tAmA\\m@x@eLEQy@Om@a@kANkA`@}@h@_HlFwDnCMAGUWU]g@k@uAi@@O`CEpASjBMlCMp@_@dG?z@k@~HQ~AGpBk@pIO|@@d@SxA]`Eo@dK]zDQbDQTKr@}@pAa@VoA^aBz@mBpBO^k@j@mA\\aEXKLUBU`@a@`@_@rA}@nKi@bIYdCEfAGVIH[Ig@m@k@cASQsAiBuB_BqAu@gEgDg@UkNiD}C}@]?_WeDc@Gg@NwDnC}MtIu@Fu@I_HkBcC{@UQ[a@mBqDgAiAoHaAmACuFg@YIOOQ?YUEOe@I[YqDmFqA}A}@q@oCgBmFe@mFo@oCE}DYsBAqJ_@gCu@i@WMQ_@KiAGsEwAkBy@uCw@aCeBg@m@Uc@cAcGSu@q@oAe@a@k@WoASwCb@cBH}Ft@}CVsA?s@QaAy@Q[iCwCGg@Bm@CcAUcBk@mBi@cAeAsAg@e@q@e@yB_AgC[uE@}Ce@mDRcH@iBMc@ByAv@mA^}B?mBx@eARONNVKMAS`DcAXGvBBtAc@z@i@|@MtBN~CKtAD|BWlAAdD`@pE?|ALz@RrAj@|AbAlB~Bj@pA\\|ARhBDpBHTjDdEj@^`BNnBGlDi@bHi@lB[fBXdAv@n@hAf@|Bd@xC^dApBlB`Bx@pBf@fBt@pExAjAFvAv@h@HpAj@hCRfGLdBCnCHzRdBr@VfBvAJAz@t@`AbA~D`GZ\\f@NNTh@LJN`@FxHt@\\CfBXbD^b@PjBxCj@nA^`@f@X|FhBxCp@~@Hl@ItCaB`Aw@rAu@jDyBfEuClA@`Fv@jGt@|@TbFb@|EtAxCj@|FzA|@f@nK`I~BrCf@z@VLRS\\uClBcWJg@f@eAF[V[j@YdES~@W`@c@f@w@tBqBzDeBx@iATg@Bc@LERmBr@_K`@oHJe@DgBVoAAa@n@gHNgCBoANoAXaFPcBDaACQJu@@q@T{CLs@D}@~@oBh@]fBaBbB_A^e@xAkAtBmAhAiAxAaAhBu@bAU`AAh@Hf@O\\TlAR`N|AtIlA"
+      },
+      "dateLocal": "2025-11-02T07:11:24Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 7458,
+      "averageSpeed": 10.85,
+      "maxSpeed": 18,
+      "elevationDetail": {
+        "gain": 287,
+        "loss": 0,
+        "high": 184,
+        "low": 122
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 3,
+        "prCount": 1
       }
     },
     {
@@ -195,6 +353,25 @@
       "map": {
         "id": "a16315352414",
         "summary_polyline": "tjnmEimcy[jAC^DZCjB?bAKt@LbAHvA?VBR?XBp@A~AFh@Ed@D`@Hb@DVABADUCkAJ{ABGDEJCZBXA`@J`@Xl@Vr@P^LZDV@fAb@B@DGHCXXJXj@v@HFXH\\?d@GRBRAh@MZCHD`ADd@Ld@BrAIv@Q~@?XFn@A~@Ll@@HBbAF~@H\\@HAPB\\C`@ARB`@?nAHh@FXAL@DAJBd@Af@J^LX@DDV\\JR@LFNRb@DFTh@\\n@n@dAHXb@v@HT@NLXTZJZNV?NQDiB?QF]?YBq@?UEUBQAI@y@A]EWD]EUBq@EWIg@Ku@AYBg@CM@]Em@Ae@ESBc@EUBc@ES?KAI@[CoADIBIT?VCRGJIFSAg@@YG}@GMEcBIc@I]@cAEc@D_@?sCQUBYC}@BQC[?SNOXKHKTI|@FnA?p@[~@?N?TDh@DvAATGHKfAJn@H?FERF?CJPDLEJE@ELGFURG@GHYP]LqAbAML@BSV]NMWBEAIC?IBq@c@CEHDRBZPHCNFB?@GVYHE@CCK]i@Ue@KGIQUKQBu@pAOLSFWP?E_AjAQLQPE@?ABBUJ_@UKMcAi@sAgAa@i@OIOCa@U{@}@OIUYuAgAe@e@q@g@w@w@g@_@WKIKe@[WW_Ak@{AmAOSBCGOg@e@"
+      },
+      "dateLocal": "2025-11-01T07:42:42Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 2547,
+      "averageSpeed": 7.41,
+      "maxSpeed": 11.74,
+      "elevationDetail": {
+        "gain": 12,
+        "loss": 0,
+        "high": 10,
+        "low": 4
+      },
+      "performance": {
+        "sufferScore": 8
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 1,
+        "prCount": 0
       }
     },
     {
@@ -212,6 +389,25 @@
       "map": {
         "id": "a16315000681",
         "summary_polyline": "nvmmEizby[m@dBCHFLFCf@mAPUF?HNJJRHRBPJf@b@JDXVt@j@t@p@lA~@FHbAv@TNFCDKFAdBpAj@l@h@d@XVRHb@b@NHn@l@XPVXtBxAn@j@LNfBtAh@f@XRh@d@PLFNTTZ|@@N@GV_@n@u@JOl@q@j@y@~@m@F?BDBBALPWz@k@lBeBABUSMAGCEEEc@@s@Di@BmBDy@LgA?cCHq@Aa@HQT_@ZWJEjB@z@LfBFjA?fCRp@A|BP\\?|@HLGDG@g@F_@RO`@?vBNTEv@Fr@Cf@BPA~@Jb@Er@?v@J^Jt@FHCbDFTE\\DRAPDFGrABLIXGv@DJ?FC?IOOoAiCM]Ma@g@aASW[s@U]KY]y@WY[A[KsAMs@?eAGi@?q@G]?UA_@BeAC_@Ew@Eq@I[BwAQQGK@cAKmAb@gAH{@Ik@Mk@GU?c@JMA]Hq@?eAOWMOQq@eAECGAOJGKUEi@SM@e@Os@Cy@]q@e@SIKC]?IF?NKHGRIj@K^Ap@CJCBg@@_BEk@?w@EK@uAG_@@QCk@?s@GiAEu@@}AE"
+      },
+      "dateLocal": "2025-11-01T07:00:37Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 1490,
+      "averageSpeed": 12.18,
+      "maxSpeed": 17.97,
+      "elevationDetail": {
+        "gain": 9,
+        "loss": 0,
+        "high": 11,
+        "low": 4
+      },
+      "performance": {
+        "sufferScore": 29
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 4,
+        "prCount": 3
       }
     },
     {
@@ -229,6 +425,25 @@
       "map": {
         "id": "a16307245452",
         "summary_polyline": "pwwmEmqzy[a@Du@IWV]J[VyBv@kBNmE~@kBz@u@BuAeA[a@Ym@]wA_@Be@UgBc@{Em@iBu@k@Kc@Nk@jDW\\[F_Di@yBLoDBcD\\uA@wAVw@DkB@{DZg@?kAa@]CWDe@bAQF}Fp@oCBwDTm@Oa@e@YsBG{AMe@g@M[c@YIq@l@Wl@TdADr@Mf@o@v@UEBIEEDOC?OTk@Rg@Dk@_@}A[KQ_A@IKC]F[V_@t@Kh@[p@@h@PTALU@}@OqAo@g@I_@?W^sBIg@Jc@E_@Sq@OoBAk@@aALa@MaA?}@WU?_@GMm@k@k@y@s@m@Hs@PWBYP_@VOnAAr@Pb@\\l@Rz@PnChBDtAe@xAV^VJNX@TMr@]VENBJd@PAHQ@G\\IDCRDJAPSBQWTgBCs@Lo@L]]OQa@BMx@e@GUN}AOUJA?DNFAd@CBCW@PEJg@Be@QkAk@Y]gAa@y@e@kBw@kCcBeG}CaAu@m@]w@[k@c@yHgEuDeBgDwBkBeA_@C_Ae@wAa@cD]kDLcDb@UJkA?KYHm@?s@OaCIUAYOQr@sAbAiAr@kAd@_@j@eAd@e@N_@bAoAPi@LKLu@`@g@BU`ASI_@`@{@BUx@g@x@iAb@OM_ACs@Km@GAPp@?ZLZ?NL`@fGvADABYAiCJe@CaAGMHCEJFDBAFx@MbAFf@H@Mj@G`BG^STa@jBfB^ZQ@MHa@Tm@Yx@Kz@Fl@Cp@EVa@j@{Af@o@b@EPRD@NSHd@CWN[?[`@G`@S`ASd@G^DT]n@SdAMAFFCCMj@TpBf@|@ZHbDAJN?TOn@mAhBk@l@_Ax@GAEKFUv@e@?QHW^SHUJG@MOSYu@[QkAQ[oAEu@MKOq@UEK\\P`@HHU\\sAN_A\\m@@y@Pm@A}@Ti@EsBb@GU`@TxC_@nBGxD^|Bd@hAv@rBx@nAx@vB`AjFrCbDlB`C`A\\Z\\`@f@NnCzAp@j@xCrAhBdAxCjAbCzAl@Vx@TTUY^NIJYH_@F@DOV?fAz@lA\\HJXE^LHLZ@p@ZLAd@b@~@?d@\\n@Lh@\\r@RFJnCN`@NbA@n@Sj@AHICCBDTYb@J\\UN?^_@p@\\jAPbBE"
+      },
+      "dateLocal": "2025-10-31T09:10:05Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 4801,
+      "averageSpeed": 9.58,
+      "maxSpeed": 21.5,
+      "elevationDetail": {
+        "gain": 168,
+        "loss": 0,
+        "high": 62,
+        "low": 6
+      },
+      "performance": {
+        "sufferScore": 75
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 16,
+        "prCount": 9
       }
     },
     {
@@ -246,6 +461,20 @@
       "map": {
         "id": "a16297041715",
         "summary_polyline": "rbxlE_gjy[GCGKM?UIMMQ@WIq@IeAGi@K_@CMEEIJO\\@HBZBPH\\Hf@?b@FDDNBf@?H@JHL\\VRN@DLGR?NOnAATDLOxA@BHBFCV?l@FTFNCf@HRE\\a@PIFOVIFMJ[RWFONo@B[EEEAe@BUCWIQAU]ECuAO]?e@KE]Aa@Ju@As@Di@Ce@H_AA[AEIDCEE[CCg@A[MEe@D[?s@Da@DOBcA@GF?F`@Mn@MZCPEJBp@BHFBHC`ARxANFDJAXBx@Nv@@VFh@@@DDDZHPBJ?p@L`@@d@HT@z@LAAb@BNHPD\\@NFj@H@FQj@y@l@MFKL"
+      },
+      "dateLocal": "2025-10-30T09:26:52Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 859,
+      "averageSpeed": 10.09,
+      "maxSpeed": 15.62,
+      "elevationDetail": {
+        "gain": 35,
+        "loss": 0,
+        "high": 208,
+        "low": 192
+      },
+      "performance": {
+        "sufferScore": 10
       }
     },
     {
@@ -263,6 +492,25 @@
       "map": {
         "id": "a16296877417",
         "summary_polyline": "p~wlEi~iy[IBKAuB]S?ODmBi@sCSiAU}@G]KsAKq@SiBOsAUaBOk@ScBOOG[UoAkAWs@Fw@A]@YRmBFqAPsAFyBPy@@a@DWBk@FW?Q@EJChAXzAPr@Tx@HNJFAVFNCLJj@Pn@B\\Vl@FLFR?l@JFFJ`@EnAQnAC~@GPKFGd@A\\GTATBFH?FC@M?i@NcABID]AQHg@?QDa@A_@Nu@AUJUNGf@BTDPJv@Lx@\\TBBEJ_@@g@DMDkAFW?ULgAA]BK@_APu@AYBe@DQ?OHe@?a@Hk@@k@PmBAGDQA_@NqBDOBw@Ju@FKTQ?MEc@@QFOPGH?LDWDIAAEBw@E[Hs@?WBK@g@Fa@BkADKAODwBDc@HQJ}@LS?cAJiADK@k@L_BFG^Ib@?LCd@?RFlAH^LZ@BBKN?LNh@D^GNMLc@JoACoAQOK?IHMHC^LXP~AF\\CFKDWIo@@SJEH@BDLALDPCxAPlAFf@JHDf@Lv@BxAP^LRC~@B\\DXJH?|@Pp@DXDj@?h@DZAd@FFB@JDj@Aj@BPa@hDKzBHR`BLVFn@BLFV@PDP?FBXCJ@NHXBTJj@?t@PV?p@FJEV?d@Ld@@F?JIXaAHMZ[DMTiBAc@Ha@AKDa@IGUBoB[c@CGBOIq@KIEcAGWI_@CGGY@k@IS@QCGE_@?WGS?QKgAM]Ia@AmA[o@ESBu@KaAEq@Qo@EIBMAQGo@EAh@CPF`@?l@G\\Cx@M|@CbAIb@?x@I`AA\\Il@A|@E\\IhAGTQPCJGBa@@MCk@BQEKM[C]MY@MCSK_@A]IIBk@EMBCD@HKRFh@KTCTO|BGVBLCJ?VEd@AZCPAZS|A?\\IRI~AQZ?fAER@`@MxABHI\\GNCJ?TEL?b@@R?f@Gt@@XI\\EFUBEBEXOf@@h@CFG@a@@u@CCLGBH@PEh@F^?FAj@DNHp@JPRpA?d@PlAFNFXDLC@OJKHDN?RDBDjAPn@FNCFB@FDEJBLCh@J`AHb@Nl@D^ZDVCJYVk@b@e@TKLu@d@_@T[^]TKPMJ[^eARCDCRd@DXGJTV\\NZ@TJZEz@D`@@`@Gd@M@KCUDEBENED_BGKPONOVGHKTq@r@Ub@UVMJSXMBw@d@QBWTQn@KTMN@RCREHGA@E^BXEFFLBBF?CMCM@_AIMIH?"
+      },
+      "dateLocal": "2025-10-30T08:28:42Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 3120,
+      "averageSpeed": 10.22,
+      "maxSpeed": 19.08,
+      "elevationDetail": {
+        "gain": 160,
+        "loss": 0,
+        "high": 208,
+        "low": 158
+      },
+      "performance": {
+        "sufferScore": 72
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 2,
+        "prCount": 1
       }
     },
     {
@@ -280,6 +528,25 @@
       "map": {
         "id": "a16276853574",
         "summary_polyline": "vw{mEcr`z[a@kA`@[`@c@xCkAP@\\R~Bm@p@Cr@MPIJW~@]h@]bAc@\\SBI|@]xBoANCb@_@`@OrA{@l@SCOU[Ma@m@w@[QUYQ[Y_AG[O_@G]]}@e@}Aa@wAYiAmAeCQUw@s@w@cAm@e@o@[iAMyBB}ADyATYJk@Da@X}Ah@iBfAi@`@aDlDe@b@iAvA[j@{@bAeAfBo@xACRWl@_@~AQz@?TMl@IxABhAA|ALjBh@jC`@nAn@v@hA`B|CxBZLx@r@`@b@~@vA`@bAXhA\\p@PzBA`AH~@PPF?zAm@vAGd@@z@^tAVpADd@GLHv@YbAm@Z_@zEqDbBeBjCwDbAgA`BgCt@kBb@eBFy@Lc@A_@HsAGwAEGOGIq@@c@E[SYCa@c@s@]cAa@[e@u@s@?e@cBW_@O_@CUg@cAMcAOWOm@O]e@cBCSm@qAy@uBMUOIO[uAsAiAi@i@OY\\Df@LX?ZCNc@^}Al@]z@i@fAy@bDEz@Mp@Cb@AjA@fDOLOAa@WMFBTFP@^CrACR@vAGhAf@bAE^?Ra@xA}@~AMNw@RqEx@gBNaBGs@Mu@_@u@MSMy@Su@?MEK[S_CEmAAqAHeBZmDXw@d@{Bb@k@H_@f@{@VYn@gAbB{B\\YnBcChBaB~@o@z@e@|@c@hE{@rACh@KlCA|AVt@h@v@\\n@dARj@V^tAxCVjAVd@z@|CJh@Vt@n@lAlApArBrDX|@Jt@^tAHdBCf@?bCKdBYbAG`@e@hA{AtCaBjBk@dA{@z@Sd@w@n@SX_CdBsBjB{A~@iAd@gADmAEw@KiA]u@KkAD{@Nk@RSCOMMm@Aw@Ks@I]KeAKWIo@YcAOOa@aAw@_AeA_AyDgCaBoB[m@G_@i@{AMo@MqAKiC@uCNoBf@uCNg@Lw@r@aBdCqDTq@\\e@jAy@Zg@zCaDrD}BZGVQpA]hE]f@K|B?hARhAn@d@`@t@|@Rf@VPzAlDb@rATfAl@pAPrAPn@p@fAbC`Dt@vA`@hA`AhFBbBM|A?ZW`BQt@iAfCgB|CqB~BuAlBq@h@e@p@u@b@GTM?oAz@oAjAa@LqAx@eANm@@"
+      },
+      "dateLocal": "2025-10-28T10:14:58Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 4419,
+      "averageSpeed": 11.16,
+      "maxSpeed": 18.6,
+      "elevationDetail": {
+        "gain": 66,
+        "loss": 0,
+        "high": 53,
+        "low": 37
+      },
+      "performance": {
+        "sufferScore": 104
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 2,
+        "prCount": 1
       }
     },
     {
@@ -297,6 +564,26 @@
       "map": {
         "id": "a16266703453",
         "summary_polyline": "hl|lE}tty[@LCf@If@IzADRRRNd@@fAEZC`AMz@?TG\\@XAl@Gd@A\\B@A@[II?QEi@?a@EUGMKSa@KGM[CQSi@CQQOCGGU?g@DU?KEGMFL[@GCeAF[@a@BQASBa@?gABg@Jo@Dq@TqAL]PgAT{@\\iBFUb@eAFGHEAE\\_@^m@DCABA@Hc@NKp@gAn@}@LK^q@TWXi@NKJOZQl@If@Ax@MJ@RCVDd@Cz@k@PQHCZUF?DDD?Z^\\z@FFTLVFb@XTFHFb@RNLN\\?XIZ@RGz@EVAj@W~B@TKr@O|CWhBA|@Gl@ERMzA@ZEPIzAIj@SpCEZEDGAOKiAOa@IiAMw@QwAEGCCGPyDFQ?[D[@y@R}AFW?YJkABs@Lk@HEX@HArAJl@LNJ@DA^OzBBt@BDRBvALVNHLDRGfAEN?f@G\\Et@Ij@An@Ir@Or@MV{@`D[p@?RMr@Gn@CdACBKG}@Ag@KIHICCIGC]AK@AB?EBA@LAJG_@[IiAI"
+      },
+      "dateLocal": "2025-10-27T08:36:36Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 1652,
+      "averageSpeed": 9.51,
+      "maxSpeed": 16.85,
+      "elevationDetail": {
+        "gain": 76,
+        "loss": 0,
+        "high": 151,
+        "low": 98
+      },
+      "performance": {
+        "sufferScore": 19
+      },
+      "workout": {
+        "workoutType": 0,
+        "description": null,
+        "commute": false,
+        "trainer": false
       }
     },
     {
@@ -314,6 +601,25 @@
       "map": {
         "id": "a16255629895",
         "summary_polyline": "zummEoxby[x@yBdAkBvCsG`@kBNqB?wALSpGFzFIJJGJcAJuFHeAMs@JmAU[jBMxBg@fBoF|KwAnFOBSl@y@t@u@hAc@rAa@Zo@fA_AxBCVrBbA~B`BXXbA~AzHbGzAjB`BjArDnBf@`@Rf@`AfAz@j@h@@h@^dGzFpDlEhAfB|I|Ob@QlBkCrA_AhLwE~C{AlAy@BYm@uC_C}Hg@eCU}Bg@yCk@OaAmAi@^cA\\MbB@hBZlAfClCr@~A?f@U~@W`@w@\\IZtBjHfCxFPn@@r@q@~DPdBl@pAd@b@j@LzA?j@TfA|@pAZNRRt@\\vBPNn@JVVh@B?SkAmDKw@u@yCWm@sC_KaBeHWa@Q?qCbAkLdFiBrAuArBsBnAo@h@}BrCcA~BsBpDc@bBq@jF}AlJUVmBWQ]CoAX_BdA_@`@UTs@JoABwAKq@oA}BuBsA[MOLAN`CrGJz@G^Y`@m@Zs@Ji@OmGmEw@mAc@cA}@gFQ_@qD_@aBy@gEuAkGE{@mAMy@_@{@cAkAWcA}BeEwBkFgBeC{D_HcAuCs@m@u@oAg@cBQuAMsAFq@j@GpLj@fAKb@[x@Ex@ZLs@NsDLy@Z{@pAaCn@Dt@XnBtAxA~BbBhAp@v@vCzBxBfC|FzCtBhCl@`@`@@j@TbCzBzEdF`BpBzHtMzA~CTRb@Ql@gA|@eAtBqA`FoBrHgDbBcAm@{CeBgGKy@k@_Bc@yCG_ASq@K}@o@Q}@oAc@d@cAROdAEdDLf@x@jAhAv@d@l@^bABn@O`AU^aAZM`@hA`Df@|BzC`HHfACh@k@xCDz@t@lBj@j@rCN`BjAvAb@`@`AZbCJJh@?`@Vl@Js@uBmAkFg@qAy@uDyAyEuA_G[cAWEgIbDeF`Cu@b@aAr@]p@{A~AqBpAeBpBc@j@uBhEoArBa@dBKbB_@zAGnAy@zD]nCWHiBWO[EaBXqALOhAUTWPk@Hs@DqBGi@uAaCgBqAi@QIJATlA|C|@|CCh@Ub@{Al@S?gGwDqAwA{@oB{@aFS]iDSsAw@uE_BgF@k@Ic@y@QIm@uBs@q@]oAiDwGs@}Ae@yAcAkAeDuFiAyBc@iBwAuAy@mB[{AMaBDq@PUnDBjFZnBG`@Sx@M^@^TJIJ{@Cs@PeCvB}E?Iw@YKS"
+      },
+      "dateLocal": "2025-10-26T06:56:28Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 6685,
+      "averageSpeed": 11.44,
+      "maxSpeed": 18.14,
+      "elevationDetail": {
+        "gain": 87,
+        "loss": 0,
+        "high": 15,
+        "low": 4
+      },
+      "performance": {
+        "sufferScore": 154
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 30,
+        "prCount": 14
       }
     },
     {
@@ -331,6 +637,25 @@
       "map": {
         "id": "a16236903092",
         "summary_polyline": "lqwmEk~{y[Aa@G[@QC@EWC@C]EC_AFeBOaAT}A?a@Ek@_@IUHsA?sAJmA\\q@jAHBEKGgA?OSC{@NeAJUAYJQgDW_AAABHEB[LMrBRTCCC?FN@tBAASJe@Rk@?OWq@AYTi@D_@Gc@_Fe@_@NKz@@vAQ^AJF@MQDBANPAKTSxAj@HLE\\BJFZERFAMHPb@Eb@LIb@C^o@Zi@h@mCbB[DIMiANs@SwCUqD{@Q?g@\\]BMe@Zo@Fk@f@_BPOn@?zALf@NGAEa@JMAYe@GQRUAD@AFWHa@E_@[i@@ECCQIDGj@NWMFkAKMIAHMFYBGOFg@SaAk@_Ao@y@IUGCM[UWgAoBg@oA]sAk@qAi@k@F]EOo@o@{@WcA_Ai@s@g@[Q[UiAYc@UKyAcCWYg@YoAS{@y@m@WWc@gAy@m@Ui@E}C_Be@k@QoBMm@_@}@m@q@k@Sc@CoE^qGVe@T?Lc@~@Qx@DVRRR@n@ZFL`Ch@lANtFrBhAn@RT`@RfApATb@^lANpA?z@Cj@UhAiApB}A`AoAP_BOkDm@oAEaALs@RcBpAkAvBiAxAYP_B?aCq@]AWYY?[KGVs@f@SrAATZvAd@HvBFzCdAVPj@Lr@p@fA~Bb@Rz@HNC^H|@CjATnAJ`BEf@nAPhCKb@@^YrA@RShB?~AKp@URwAFsCSmAEKLAd@IDq@[qACIIs@B{Ai@gAMi@`@aD`BwARa@_@AK@WGw@AiAI[a@eAa@EsAr@S\\_AXBCgAp@CPKLGp@GFGVcAtAOr@KJGz@@FjBR|Cd@^RtB~BvAjB~@jBf@r@\\|@VrA@`AEVHn@CLD^Rb@g@z@Or@iAtBO|@Df@m@l@e@v@m@^CXFd@CtAb@h@dBPnC[`APr@j@j@C`AY\\s@`@c@Ng@@]Qa@Ki@Fu@h@q@TGV?zAz@Rl@XrCLh@T^`@PpAGlHg@r@e@`@DPMpAGHE@KX]H[LKNATZjALjAM\\K`AGxAJlAQ^DRCxAPv@SnCA`DW^Dd@K`BIn@L~@DpAn@JS\\mBb@eBj@EfA?h@l@PJ|AJlGlAFH?RJ?RZ^B^TJ`@NT@f@p@]X?n@Rj@?XLv@?nC_@`A]r@Il@W~AY"
+      },
+      "dateLocal": "2025-10-24T09:18:02Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 4216,
+      "averageSpeed": 10.93,
+      "maxSpeed": 22.29,
+      "elevationDetail": {
+        "gain": 52,
+        "loss": 0,
+        "high": 40,
+        "low": 5
+      },
+      "performance": {
+        "sufferScore": 78
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 5,
+        "prCount": 1
       }
     },
     {
@@ -348,6 +673,20 @@
       "map": {
         "id": "a16205832704",
         "summary_polyline": "j`xlEusiy[eBxCAZgAxCwBtDk@hB_BlD_A|AMn@m@pA_@^EIc@~A{A~Ds@jA_DnHs@xBcAlBeCOy@WaEK_AYkBGyDk@Bp@}E]cFk@wCc@KK@AeFQwD{@iIw@kCc@m@[m@_AKqAf@hB[PKj@WJwAIqF{AuG{@gAI[{@o@PmSgC{MoAuBe@Ie@}@i@{BqBcCq@qEc@aBFiHoB{Gs@wFmAuMwBk@yJQkF`AoN?wAP}@GSBgBUUR}AD}E`@}FAyCYgBe@yFk@yD_BaFsCiGsBuL}FgKaC_FCoBPaCzAsGR{A?wAMaAq@uBo@{@eEkDcAgA}FgIyA}@{@OmBcAcC{BgEgFeDcDiAcBaDmGyBgHe@gAi@k@c@Q{@Sg@@GQPg@Q_@BNO@wBpBg@PoEv@oAE~CWNB@LeBx@gANiBk@qAiAyBLaBQg@_@oA_Bs@[sFAsEw@_@Sc@g@a@gAaCuBsCkEy@aDo@kAeCsBu@eAkBwFIy@DgAnAmA?w@}AwDqBuCEc@V_@NCzAl@~@Al@_AzDgAnCcCzA}Ed@aAdAo@fASbA\\t@tAHrE\\bA~@|A?bBLX\\BXSr@iBCm@k@a@EaAHElDl@j@YLn@p@KHdA`@nAzCfAbCh@b@Zd@v@r@GbAt@`@l@j@nBW`AJh@Rh@r@LAj@TAAt@RRTb@N_@VQXq@ZIAMh@f@j@@dAb@jB]\\YL]`ASdAs@vBr@`@d@CPb@vAJj@Bh@HDEf@MRLJQJOvA`@|Bh@^p@l@lB\\bAl@jAdBFbAKbCF~AIjAHZMPb@dCP\\n@^tATt@h@l@F~AfAZ@x@v@rAs@VAbBaAnBRp@lAbAbAb@DZj@h@\\Ff@^Z\\dA\\rFPTp@dCd@l@nAh@v@x@l@Jd@`@|@Jl@rAfArA`@x@PBLp@IHJ?DXKVLDXrDSrB]xAEzBK^NnA\\`Ap@?XJd@[jAGn@XVIVVfA^NR~@Nf@`Ab@VXr@r@FV\\t@Fl@d@FPzAVp@a@Ra@Em@P_@@mBHa@Ig@V]XCNZn@_@vA^~@GrBj@r@O\\LFh@WSAk@e@BE^SALOCKJCQBCMp@@^f@Fx@X|@P~An@`DV]NaAVEME@^RpAFo@`@aA~Ae@v@R`C`ARn@ZV"
+      },
+      "dateLocal": "2025-10-21T07:52:40Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 8695,
+      "averageSpeed": 8.41,
+      "maxSpeed": 18.72,
+      "elevationDetail": {
+        "gain": 335,
+        "loss": 0,
+        "high": 206,
+        "low": 3
+      },
+      "performance": {
+        "sufferScore": 88
       }
     },
     {
@@ -365,6 +704,20 @@
       "map": {
         "id": "a16196264908",
         "summary_polyline": "|s|lEwnsy[RJlAHVCfAPh@?d@Ff@H`@PbAD~@b@?x@Gn@?fACf@S|@OxDYxBI`@IbA@VCd@EDS?MO[KkAq@}@}@yAoA]Uo@u@SOkCO}AH[CsAWsAM[OoACaAWu@G_Ba@QQ_@Ii@Ge@F[LOr@IJQL]JeBOa@DkCKw@U{@K_@KqBOk@MSSq@oABML]VO`@g@`@WRs@JwBHQL_AC[F[A_@Fu@J]?]GOoAAs@Fa@LQLo@Ja@Ry@f@k@n@YL]^YJU`@o@`@oBbBUFaAt@GRB@eAp@k@x@{@ZOTK^ON_@lAEZ@ZQzBUbA@\\A`@GVCl@GXA^Iv@IfAYPEHKp@@f@MzACz@GZBRKnBWlBAr@In@AZKf@?VBPY|AGjAB^IVEtAOlA@^QnBAt@UbBA^@h@]tDAh@Mp@MNUFMIyAQo@Oa@MeBOkBgAo@Ui@Ym@e@e@Mc@YiAOq@S{C[{@IcBo@o@_@]g@yAmCMc@Gi@FmAPcBHiDHWFw@D}@Ge@HgAQWAOQY_Ay@WKs@i@mAUeBQ[Qs@Eq@Oo@Ek@ScA@sBWgAYY?KFk@KMIy@MmACgAKsBa@o@Gi@Os@?q@Og@A?ZILBWEOHg@CIkB?i@MqB}Aw@s@c@U{AeAyAoBa@eAoA{Bc@iAm@a@SYiBoAq@s@qBkAw@WcDk@uCq@a@BiAC[BGE[@g@Ie@Bi@IkAASEQFkEQgAO_ABSCMKGa@Jq@PuBBw@F]AWPiB@u@HYJqBHe@LsAX[NC\\Bp@Xz@j@JX?l@Eh@S~@QlBAXENGt@?PO~@Ab@K~@@VMrA?RDHJDhCJZ?b@G~BTxA?VH^Ap@Hj@CVJdBNvBf@\\Pd@@v@PrAl@n@f@\\b@~@n@b@b@f@Vh@d@n@jALZp@hABRlAhCNTn@d@DHLBzAjAd@ThBpATRBRZVt@@LDXEZ\\EJDXOLHSB[|@@fADx@R^?tCh@tDXh@Lb@AdAVjDb@VAn@N`@?v@R\\E^DPFPNlAH\\Lt@FJNh@P|@j@t@v@NTHZDZAn@BXe@bG?`ABb@Mx@IxADVPh@~AvCj@j@bAb@`AVtBb@\\@vAVZCt@Pl@XHLtAh@`Ap@L@v@d@n@T"
+      },
+      "dateLocal": "2025-10-20T09:09:31Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 4309,
+      "averageSpeed": 9.94,
+      "maxSpeed": 18.39,
+      "elevationDetail": {
+        "gain": 155,
+        "loss": 0,
+        "high": 174,
+        "low": 131
+      },
+      "performance": {
+        "sufferScore": 77
       }
     }
   ]

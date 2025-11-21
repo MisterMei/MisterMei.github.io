@@ -1333,10 +1333,29 @@ section {
     margin: 0 0 8px 0;
 }
 
+.run-card-meta {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
 .run-card-date {
     color: var(--text-medium);
     font-size: 0.95rem;
     margin: 0;
+}
+
+.run-card-location {
+    color: var(--text-light);
+    font-size: 0.85rem;
+    margin: 0;
+}
+
+.run-card-description {
+    color: var(--text-medium);
+    font-size: 0.9rem;
+    margin: 4px 0 0 0;
+    font-style: italic;
 }
 
 .run-card-stats {
@@ -1365,6 +1384,63 @@ section {
     color: var(--text-medium);
     text-transform: uppercase;
     letter-spacing: 0.5px;
+}
+
+.run-stat-note {
+    display: block;
+    font-size: 0.75rem;
+    color: var(--text-light);
+    margin-top: 2px;
+    font-weight: normal;
+}
+
+.run-card-details {
+    padding: 16px 24px;
+    border-top: 1px solid var(--bg-light);
+    background: var(--bg-cream);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    font-size: 0.9rem;
+}
+
+.run-detail-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.run-detail-label {
+    color: var(--text-medium);
+    font-weight: 500;
+}
+
+.run-detail-value {
+    color: var(--text-dark);
+    font-weight: 600;
+}
+
+.run-location {
+    color: var(--text-light);
+    font-size: 0.85rem;
+    margin: 4px 0 8px 0;
+}
+
+.run-extras {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 12px;
+    padding-top: 12px;
+    border-top: 1px solid var(--bg-light);
+}
+
+.run-extra {
+    font-size: 0.85rem;
+    color: var(--text-medium);
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
 }
 
 .run-card-map-container {

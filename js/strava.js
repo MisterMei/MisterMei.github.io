@@ -76,12 +76,21 @@ function renderRecentRuns(containerId, data) {
 
   const runs = data.recentRuns.slice(0, 10);
   
-  container.innerHTML = runs.map(run => `
+  container.innerHTML = runs.map(run => {
+    const elevation = run.elevationDetail || { gain: run.elevation || 0 };
+    const heartRate = run.heartRate || { average: run.averageHeartRate };
+    
+    return `
     <div class="run-item">
       <div class="run-header">
         <h4>${run.name || 'Run'}</h4>
         <span class="run-date">${formatDate(run.date)}</span>
       </div>
+      ${run.location && (run.location.city || run.location.country) ? `
+      <div class="run-location">
+        📍 ${[run.location.city, run.location.state, run.location.country].filter(Boolean).join(', ')}
+      </div>
+      ` : ''}
       <div class="run-stats">
         <span class="run-stat">
           <strong>${formatDistance(run.distance)}</strong>
@@ -90,20 +99,55 @@ function renderRecentRuns(containerId, data) {
         <span class="run-stat">
           <strong>${formatTime(run.time)}</strong>
           <small data-en="Time" data-zh="时间">Time</small>
+          ${run.elapsedTime && run.elapsedTime !== run.time ? `
+          <small class="run-stat-note" data-en="(${formatTime(run.elapsedTime)} elapsed)" data-zh="(总时间 ${formatTime(run.elapsedTime)})">(${formatTime(run.elapsedTime)} elapsed)</small>
+          ` : ''}
         </span>
         <span class="run-stat">
           <strong>${formatPace(run.pace)}</strong>
           <small data-en="Pace" data-zh="配速">Pace</small>
         </span>
-        ${run.elevation > 0 ? `
+        ${run.averageSpeed ? `
         <span class="run-stat">
-          <strong>${run.elevation}m</strong>
+          <strong>${run.averageSpeed} km/h</strong>
+          <small data-en="Avg Speed" data-zh="平均速度">Avg Speed</small>
+        </span>
+        ` : ''}
+        ${elevation.gain > 0 ? `
+        <span class="run-stat">
+          <strong>${elevation.gain}m</strong>
           <small data-en="Elevation" data-zh="爬升">Elevation</small>
         </span>
         ` : ''}
+        ${heartRate.average ? `
+        <span class="run-stat">
+          <strong>${Math.round(heartRate.average)} bpm</strong>
+          <small data-en="Avg HR" data-zh="平均心率">Avg HR</small>
+        </span>
+        ` : ''}
+        ${run.performance && run.performance.averageCadence ? `
+        <span class="run-stat">
+          <strong>${Math.round(run.performance.averageCadence)} spm</strong>
+          <small data-en="Cadence" data-zh="步频">Cadence</small>
+        </span>
+        ` : ''}
       </div>
+      ${(run.social && (run.social.achievements > 0 || run.social.prCount > 0)) || run.gear ? `
+      <div class="run-extras">
+        ${run.social && run.social.achievements > 0 ? `
+        <span class="run-extra" data-en="${run.social.achievements} achievements" data-zh="${run.social.achievements} 个成就">🏆 ${run.social.achievements} achievements</span>
+        ` : ''}
+        ${run.social && run.social.prCount > 0 ? `
+        <span class="run-extra" data-en="${run.social.prCount} PRs" data-zh="${run.social.prCount} 个个人最佳">⭐ ${run.social.prCount} PRs</span>
+        ` : ''}
+        ${run.gear && run.gear.name ? `
+        <span class="run-extra" data-en="Gear: ${run.gear.name}" data-zh="装备: ${run.gear.name}">👟 ${run.gear.name}</span>
+        ` : ''}
+      </div>
+      ` : ''}
     </div>
-  `).join('');
+  `;
+  }).join('');
 }
 
 function initPeriodTabs() {

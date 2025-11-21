@@ -113,12 +113,23 @@ function renderRunCard(run, index) {
     const paceSeconds = Math.round(run.pace % 60);
     const paceStr = `${paceMinutes}:${paceSeconds.toString().padStart(2, '0')}/km`;
 
+    const elevation = run.elevationDetail || { gain: run.elevation || 0 };
+    const heartRate = run.heartRate || { average: run.averageHeartRate, max: run.maxHeartRate };
+
     return `
         <div class="run-card" data-run-id="${run.id}">
             <div class="run-card-header">
                 <div>
                     <h3 class="run-card-title">${run.name || 'Run'}</h3>
-                    <p class="run-card-date">${formattedDate}</p>
+                    <div class="run-card-meta">
+                        <p class="run-card-date">${formattedDate}</p>
+                        ${run.location && (run.location.city || run.location.country) ? `
+                        <p class="run-card-location">📍 ${[run.location.city, run.location.state, run.location.country].filter(Boolean).join(', ')}</p>
+                        ` : ''}
+                        ${run.workout && run.workout.description ? `
+                        <p class="run-card-description">${run.workout.description}</p>
+                        ` : ''}
+                    </div>
                 </div>
             </div>
             
@@ -130,24 +141,74 @@ function renderRunCard(run, index) {
                 <div class="run-stat-item">
                     <span class="run-stat-value">${timeStr}</span>
                     <span class="run-stat-label" data-en="Time" data-zh="时间">Time</span>
+                    ${run.elapsedTime && run.elapsedTime !== run.time ? `
+                    <span class="run-stat-note" data-en="(${formatTime(run.elapsedTime)} elapsed)" data-zh="(总时间 ${formatTime(run.elapsedTime)})">(${formatTime(run.elapsedTime)} elapsed)</span>
+                    ` : ''}
                 </div>
                 <div class="run-stat-item">
                     <span class="run-stat-value">${paceStr}</span>
                     <span class="run-stat-label" data-en="Pace" data-zh="配速">Pace</span>
                 </div>
-                ${run.elevation > 0 ? `
+                ${run.averageSpeed ? `
                 <div class="run-stat-item">
-                    <span class="run-stat-value">${Math.round(run.elevation)} m</span>
-                    <span class="run-stat-label" data-en="Elevation" data-zh="爬升">Elevation</span>
+                    <span class="run-stat-value">${run.averageSpeed} km/h</span>
+                    <span class="run-stat-label" data-en="Avg Speed" data-zh="平均速度">Avg Speed</span>
                 </div>
                 ` : ''}
-                ${run.averageHeartRate ? `
+                ${elevation.gain > 0 ? `
                 <div class="run-stat-item">
-                    <span class="run-stat-value">${Math.round(run.averageHeartRate)} bpm</span>
+                    <span class="run-stat-value">${Math.round(elevation.gain)} m</span>
+                    <span class="run-stat-label" data-en="Elevation" data-zh="爬升">Elevation</span>
+                    ${elevation.high && elevation.low ? `
+                    <span class="run-stat-note" data-en="(${elevation.low}-${elevation.high}m)" data-zh="(${elevation.low}-${elevation.high}米)">(${elevation.low}-${elevation.high}m)</span>
+                    ` : ''}
+                </div>
+                ` : ''}
+                ${heartRate.average ? `
+                <div class="run-stat-item">
+                    <span class="run-stat-value">${Math.round(heartRate.average)} bpm</span>
                     <span class="run-stat-label" data-en="Avg HR" data-zh="平均心率">Avg HR</span>
+                    ${heartRate.max ? `
+                    <span class="run-stat-note" data-en="(max ${Math.round(heartRate.max)})" data-zh="(最大 ${Math.round(heartRate.max)})">(max ${Math.round(heartRate.max)})</span>
+                    ` : ''}
+                </div>
+                ` : ''}
+                ${run.performance && run.performance.averageCadence ? `
+                <div class="run-stat-item">
+                    <span class="run-stat-value">${Math.round(run.performance.averageCadence)} spm</span>
+                    <span class="run-stat-label" data-en="Cadence" data-zh="步频">Cadence</span>
                 </div>
                 ` : ''}
             </div>
+
+            ${(run.performance && run.performance.sufferScore) || (run.social && (run.social.achievements > 0 || run.social.prCount > 0)) || run.gear ? `
+            <div class="run-card-details">
+                ${run.performance && run.performance.sufferScore ? `
+                <div class="run-detail-item">
+                    <span class="run-detail-label" data-en="Suffer Score:" data-zh="痛苦指数:">Suffer Score:</span>
+                    <span class="run-detail-value">${run.performance.sufferScore}</span>
+                </div>
+                ` : ''}
+                ${run.social && run.social.achievements > 0 ? `
+                <div class="run-detail-item">
+                    <span class="run-detail-label" data-en="Achievements:" data-zh="成就:">Achievements:</span>
+                    <span class="run-detail-value">🏆 ${run.social.achievements}</span>
+                </div>
+                ` : ''}
+                ${run.social && run.social.prCount > 0 ? `
+                <div class="run-detail-item">
+                    <span class="run-detail-label" data-en="PRs:" data-zh="个人最佳:">PRs:</span>
+                    <span class="run-detail-value">⭐ ${run.social.prCount}</span>
+                </div>
+                ` : ''}
+                ${run.gear && run.gear.name ? `
+                <div class="run-detail-item">
+                    <span class="run-detail-label" data-en="Gear:" data-zh="装备:">Gear:</span>
+                    <span class="run-detail-value">👟 ${run.gear.name}</span>
+                </div>
+                ` : ''}
+            </div>
+            ` : ''}
 
             ${run.map && run.map.summary_polyline ? `
             <div class="run-card-map-container">

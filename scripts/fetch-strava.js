@@ -143,23 +143,107 @@ function aggregateRuns(runs) {
 
   const recentRuns = runs
     .slice(0, 20)
-    .map(run => ({
-      id: run.id,
-      name: run.name,
-      date: run.start_date,
-      distance: Math.round((run.distance / 1000) * 100) / 100,
-      time: run.moving_time,
-      pace: run.moving_time / (run.distance / 1000),
-      elevation: Math.round(run.total_elevation_gain || 0),
-      averageHeartRate: run.average_heartrate || null,
-      maxHeartRate: run.max_heartrate || null,
-      calories: run.calories || null,
-      kudos: run.kudos_count || 0,
-      map: {
-        id: run.map?.id,
-        summary_polyline: run.map?.summary_polyline
+    .map(run => {
+      const distanceKm = run.distance / 1000;
+      const movingTime = run.moving_time;
+      const elapsedTime = run.elapsed_time || movingTime;
+      const elevationGain = Math.round(run.total_elevation_gain || 0);
+      
+      const runData = {
+        id: run.id,
+        name: run.name,
+        date: run.start_date,
+        distance: Math.round(distanceKm * 100) / 100,
+        time: movingTime,
+        pace: movingTime / distanceKm,
+        elevation: elevationGain,
+        averageHeartRate: run.average_heartrate || null,
+        maxHeartRate: run.max_heartrate || null,
+        calories: run.calories || null,
+        kudos: run.kudos_count || 0,
+        map: {
+          id: run.map?.id,
+          summary_polyline: run.map?.summary_polyline
+        }
+      };
+
+      if (run.start_date_local) runData.dateLocal = run.start_date_local;
+      if (run.timezone) runData.timezone = run.timezone;
+      if (elapsedTime !== movingTime) runData.elapsedTime = elapsedTime;
+      
+      if (run.average_speed) {
+        runData.averageSpeed = Math.round((run.average_speed * 3.6) * 100) / 100;
       }
-    }));
+      if (run.max_speed) {
+        runData.maxSpeed = Math.round((run.max_speed * 3.6) * 100) / 100;
+      }
+
+      if (run.total_elevation_loss || run.elev_high || run.elev_low) {
+        runData.elevationDetail = {
+          gain: elevationGain,
+          loss: Math.round(run.total_elevation_loss || 0),
+          high: run.elev_high ? Math.round(run.elev_high) : null,
+          low: run.elev_low ? Math.round(run.elev_low) : null
+        };
+      }
+
+      if (run.average_cadence || run.suffer_score) {
+        runData.performance = {};
+        if (run.average_cadence) runData.performance.averageCadence = run.average_cadence;
+        if (run.suffer_score) runData.performance.sufferScore = run.suffer_score;
+      }
+
+      if (run.start_latitude && run.start_longitude) {
+        runData.location = {
+          start: {
+            lat: run.start_latitude,
+            lng: run.start_longitude
+          }
+        };
+        if (run.end_latitude && run.end_longitude) {
+          runData.location.end = {
+            lat: run.end_latitude,
+            lng: run.end_longitude
+          };
+        }
+        const city = run.location_city || run.city;
+        const state = run.location_state || run.state;
+        const country = run.location_country || run.country;
+        if (city || state || country) {
+          runData.location.city = city;
+          runData.location.state = state;
+          runData.location.country = country;
+        }
+      }
+
+      if (run.workout_type !== null || run.description || run.commute || run.trainer) {
+        runData.workout = {
+          workoutType: run.workout_type,
+          description: run.description || null,
+          commute: run.commute || false,
+          trainer: run.trainer || false
+        };
+      }
+
+      if (run.comment_count || run.achievement_count || run.pr_count) {
+        runData.social = {
+          comments: run.comment_count || 0,
+          achievements: run.achievement_count || 0,
+          prCount: run.pr_count || 0
+        };
+      }
+
+      if (run.gear_id) {
+        runData.gear = {
+          id: run.gear_id
+        };
+        if (run.gear?.name) {
+          runData.gear.name = run.gear.name;
+        }
+      }
+
+      return runData;
+    });
 
   return {
     lastUpdated: new Date().toISOString(),
