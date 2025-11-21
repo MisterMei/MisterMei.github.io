@@ -1165,3 +1165,134 @@ section {
     background: var(--bg-light);
 }
 
+.strava-stats-section {
+    padding: 80px 0;
+    background: var(--bg-light);
+}
+
+.stats-period-tabs {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 40px;
+    flex-wrap: wrap;
+}
+
+.period-tab {
+    padding: 10px 20px;
+    border: 2px solid var(--primary-color);
+    background: transparent;
+    color: var(--primary-color);
+    border-radius: 25px;
+    cursor: pointer;
+    transition: var(--transition);
+    font-family: inherit;
+    font-size: 14px;
+}
+
+.period-tab:hover {
+    background: var(--primary-color);
+    color: var(--white);
+}
+
+.period-tab.active {
+    background: var(--primary-color);
+    color: var(--white);
+}
+
+.stat-card {
+    background: var(--white);
+    padding: 30px;
+    border-radius: var(--border-radius);
+    text-align: center;
+    box-shadow: var(--shadow-sm);
+    transition: var(--transition);
+}
+
+.stat-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-md);
+}
+
+.stat-value {
+    font-size: 2.5em;
+    font-weight: 700;
+    color: var(--primary-color);
+    margin-bottom: 10px;
+}
+
+.stat-label {
+    font-size: 0.9em;
+    color: var(--text-medium);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.section-subtitle {
+    font-size: 1.5rem;
+    color: var(--text-dark);
+    margin: 40px 0 20px;
+    text-align: center;
+}
+
+.recent-runs-list {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.run-item {
+    background: var(--white);
+    padding: 20px;
+    border-radius: var(--border-radius);
+    box-shadow: var(--shadow-sm);
+    transition: var(--transition);
+}
+
+.run-item:hover {
+    box-shadow: var(--shadow-md);
+}
+
+.run-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.run-header h4 {
+    margin: 0;
+    color: var(--primary-color);
+    font-size: 1.2rem;
+}
+
+.run-date {
+    color: var(--text-medium);
+    font-size: 0.9em;
+}
+
+.run-stats {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.run-stat {
+    display: flex;
+    flex-direction: column;
+}
+
+.run-stat strong {
+    font-size: 1.2em;
+    color: var(--primary-dark);
+}
+
+.run-stat small {
+    font-size: 0.8em;
+    color: var(--text-medium);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+

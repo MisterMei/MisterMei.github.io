@@ -1,0 +1,31 @@
+<!-- 
+Example HTML snippet to add Strava stats to your homepage (index.html)
+Add this section before the closing </main> tag
+-->
+
+<section class="strava-stats-section">
+    <div class="container">
+        <h2 class="section-title" data-en="My Running Stats" data-zh="我的跑步统计">My Running Stats</h2>
+        
+        <div class="stats-period-tabs">
+            <button class="period-tab active" data-period="allTime" data-en="All Time" data-zh="全部">All Time</button>
+            <button class="period-tab" data-period="thisYear" data-en="This Year" data-zh="今年">This Year</button>
+            <button class="period-tab" data-period="thisMonth" data-en="This Month" data-zh="本月">This Month</button>
+            <button class="period-tab" data-period="thisWeek" data-en="This Week" data-zh="本周">This Week</button>
+        </div>
+        
+        <div id="strava-stats-alltime" class="stats-grid"></div>
+        <div id="strava-stats-year" class="stats-grid" style="display:none;"></div>
+        <div id="strava-stats-month" class="stats-grid" style="display:none;"></div>
+        <div id="strava-stats-week" class="stats-grid" style="display:none;"></div>
+        
+        <h3 class="section-subtitle" data-en="Recent Runs" data-zh="最近跑步">Recent Runs</h3>
+        <div id="strava-recent-runs" class="recent-runs-list"></div>
+    </div>
+</section>
+
+<!-- 
+Also add this script tag before closing </body> tag:
+<script src="js/strava.js"></script>
+-->
+
