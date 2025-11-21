@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="View all my Strava running activities with interactive route maps. Track distance, pace, elevation, and explore running routes in Sydney. 查看所有Strava跑步活动，包含交互式路线地图。">
+    <meta name="keywords" content="Strava runs, running activities, route maps, Sydney running, GPS tracks, 跑步活动, Strava跑步, 路线地图, 悉尼跑步">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://MisterMei.github.io/strava-runs.html">
+    
+    <title>Strava Runs | Running Journal</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="css/animations.css">
+</head>
+<body>
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="nav-logo">
+                <span class="logo-icon">🏃</span>
+                <span data-en="Running Journal" data-zh="悉尼老梅的跑步日志">Running Journal</span>
+            </a>
+            
+            <div class="nav-menu" id="navMenu">
+                <a href="index.html" class="nav-link" data-en="Home" data-zh="主页">Home</a>
+                <a href="marathons.html" class="nav-link" data-en="Marathons" data-zh="马拉松">Marathons</a>
+                <a href="routes.html" class="nav-link" data-en="Routes" data-zh="路线">Routes</a>
+                <a href="strava-runs.html" class="nav-link active" data-en="Strava Runs" data-zh="Strava跑步">Strava Runs</a>
+                <a href="about.html" class="nav-link" data-en="About" data-zh="关于">About</a>
+            </div>
+            
+            <div class="nav-actions">
+                <button class="lang-toggle" id="langToggle" aria-label="Switch Language">
+                    <span class="lang-text">EN</span>
+                </button>
+                <button class="menu-toggle" id="menuToggle" aria-label="Menu">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <header class="page-header">
+        <h1 data-en="My Strava Runs" data-zh="我的Strava跑步">My Strava Runs</h1>
+        <p data-en="All my running activities with interactive route maps" data-zh="所有跑步活动，包含交互式路线地图">
+            All my running activities with interactive route maps
+        </p>
+    </header>
+
+    <main>
+        <section class="strava-stats-section">
+            <div class="container">
+                <div class="stats-period-tabs">
+                    <button class="period-tab active" data-period="allTime" data-en="All Time" data-zh="总计">All Time</button>
+                    <button class="period-tab" data-period="thisYear" data-en="This Year" data-zh="今年">This Year</button>
+                    <button class="period-tab" data-period="thisMonth" data-en="This Month" data-zh="本月">This Month</button>
+                    <button class="period-tab" data-period="thisWeek" data-en="This Week" data-zh="本周">This Week</button>
+                </div>
+                
+                <div id="strava-stats-alltime" class="stats-grid" style="display: grid;"></div>
+                <div id="strava-stats-year" class="stats-grid" style="display: none;"></div>
+                <div id="strava-stats-month" class="stats-grid" style="display: none;"></div>
+                <div id="strava-stats-week" class="stats-grid" style="display: none;"></div>
+            </div>
+        </section>
+
+        <section class="strava-runs-section">
+            <div class="container">
+                <h2 class="section-title" data-en="Recent Runs" data-zh="最近跑步">Recent Runs</h2>
+                <div id="strava-runs-container" class="runs-container"></div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4 data-en="Running Journal" data-zh="悉尼老梅的跑步日志">Running Journal</h4>
+                    <p data-en="Documenting every mile, every moment" data-zh="记录每一英里，每一刻">Documenting every mile, every moment</p>
+                </div>
+                
+                <div class="footer-section">
+                    <h4 data-en="Quick Links" data-zh="快速链接">Quick Links</h4>
+                    <ul>
+                        <li><a href="index.html" data-en="Home" data-zh="主页">Home</a></li>
+                        <li><a href="marathons.html" data-en="Marathons" data-zh="马拉松">Marathons</a></li>
+                        <li><a href="routes.html" data-en="Routes" data-zh="路线">Routes</a></li>
+                        <li><a href="strava-runs.html" data-en="Strava Runs" data-zh="Strava跑步">Strava Runs</a></li>
+                        <li><a href="about.html" data-en="About" data-zh="关于">About</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-section">
+                    <h4 data-en="Location" data-zh="位置">Location</h4>
+                    <p>Sydney, Australia<br>📍 Running through life</p>
+                </div>
+            </div>
+            
+            <div class="footer-bottom">
+                <p>&copy; 2024 Running Journal. <span data-en="Made with ❤️ and many kilometers" data-zh="用❤️和许多公里打造">Made with ❤️ and many kilometers</span></p>
+            </div>
+        </div>
+    </footer>
+
+    <button class="back-to-top" id="backToTop" aria-label="Back to top">↑</button>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="js/language.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/strava.js"></script>
+    <script src="js/strava-runs.js"></script>
+</body>
+</html>
+
