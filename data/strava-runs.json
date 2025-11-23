@@ -1,28 +1,28 @@
 {
-  "lastUpdated": "2025-11-23T03:51:27.247Z",
+  "lastUpdated": "2025-11-23T06:51:56.822Z",
   "totals": {
     "allTime": {
       "count": 219,
-      "distance": 2981.4719999999993,
-      "time": 1028998,
+      "distance": 2981.5767999999994,
+      "time": 1029052,
       "elevation": 32037.60000000001
     },
     "thisYear": {
       "count": 144,
-      "distance": 2208.740300000001,
-      "time": 750276,
+      "distance": 2208.845100000001,
+      "time": 750330,
       "elevation": 23488.90000000001
     },
     "thisMonth": {
       "count": 20,
-      "distance": 264.1841,
-      "time": 88726,
+      "distance": 264.2889,
+      "time": 88780,
       "elevation": 2522.4
     },
     "thisWeek": {
       "count": 3,
-      "distance": 47.8947,
-      "time": 16493,
+      "distance": 47.9995,
+      "time": 16547,
       "elevation": 413.1
     }
   },
@@ -31,9 +31,9 @@
       "id": 16537576214,
       "name": "Morning Run",
       "date": "2025-11-22T19:51:26Z",
-      "distance": 21.57,
-      "time": 7151,
-      "pace": 331.4837734729542,
+      "distance": 21.68,
+      "time": 7205,
+      "pace": 332.37227540076117,
       "elevation": 52,
       "averageHeartRate": null,
       "maxHeartRate": null,
@@ -46,7 +46,7 @@
       "dateLocal": "2025-11-23T06:51:26Z",
       "timezone": "(GMT+10:00) Australia/Sydney",
       "elapsedTime": 7320,
-      "averageSpeed": 10.86,
+      "averageSpeed": 10.83,
       "maxSpeed": 23.33,
       "elevationDetail": {
         "gain": 52,
