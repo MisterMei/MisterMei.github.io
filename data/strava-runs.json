@@ -1,32 +1,96 @@
 {
-  "lastUpdated": "2025-12-23T01:26:37.967Z",
+  "lastUpdated": "2025-12-23T06:31:27.920Z",
   "totals": {
     "allTime": {
-      "count": 236,
-      "distance": 3252.3070999999995,
-      "time": 1123050,
-      "elevation": 35778.90000000001
+      "count": 238,
+      "distance": 3281.1344,
+      "time": 1133140,
+      "elevation": 35804.90000000001
     },
     "thisYear": {
-      "count": 152,
-      "distance": 2345.2891000000004,
-      "time": 797984,
-      "elevation": 25998.300000000003
+      "count": 154,
+      "distance": 2374.116400000001,
+      "time": 808074,
+      "elevation": 26024.300000000003
     },
     "thisMonth": {
-      "count": 17,
-      "distance": 270.73030000000006,
-      "time": 93998,
-      "elevation": 3741.2999999999997
+      "count": 19,
+      "distance": 299.55760000000004,
+      "time": 104088,
+      "elevation": 3767.2999999999997
     },
     "thisWeek": {
-      "count": 3,
-      "distance": 54.5312,
-      "time": 17941,
-      "elevation": 610
+      "count": 5,
+      "distance": 83.3585,
+      "time": 28031,
+      "elevation": 636
     }
   },
   "recentRuns": [
+    {
+      "id": 16816011508,
+      "name": "Morning Run",
+      "date": "2025-12-22T21:59:15Z",
+      "distance": 24.59,
+      "time": 8622,
+      "pace": 350.6474492451848,
+      "elevation": 20,
+      "averageHeartRate": 162.2,
+      "maxHeartRate": 172,
+      "calories": null,
+      "kudos": 0,
+      "map": {
+        "id": "a16816011508",
+        "summary_polyline": "sdewDcbukTVNj@RtAp@hA`@pB~@r@V\\R\\Jb@Rd@LbAf@xDvA|A^fCrAdDpA|At@dEbBzDjBtA`AzCjBdBhAzG`EjAx@d@^`@`@xBnClAbBbA~@z@r@rEhDb@Rf@LfA@bGSdG[zBEdCK~@AzG[jFKxAI|AC`K_@zCGpG[jEEzBOtAS`Be@\\Sz@q@j@_@nAs@bFmDdAo@fAe@t@Sr@Mr@Ev@?bEDr@ElB@hHMpH[j@E|CQzCY|E]|BI|@IjBIzEAbC@|BFxCNvDXrD^jC`@lDr@nBZvCn@v@J`LzBz@LzJnBfEt@~EbAdBXx@RzGjAdCh@dKlBz@LrIbBvFx@rKhAfCNlGPvFBtDEtFS\\@IGEMCYBD?VDJBBL?|Fc@dIw@fBMjEObGE~@DvB@lBFxFZvFl@~Dn@`@JqHiAgCYaDSoESgEGcE@uELkEV{Hv@oF`@EIKkAm@}BOe@I_@m@_CMq@c@eBRZX~@h@fCd@hBn@pCD|@CFMHK@k@@oBJqBFgFDkGK}DQaG]a@IaCUqDe@aHmA_B_@}QkDgCc@gI_BgAO{NsC{A]_M{B_Cg@{QkDyEo@mGi@mDQmFG}D@kFPwUbB{GXmKHgADuDEeABi@D{A`@eAf@yE|CWJo@j@qClBiAl@mAb@y@NaALqEL{DRmCB_CLcFJ}FV_L^mEJuJ^mA?_J^gCDs@I_@MSKi@c@g@YuAcAu@q@uAaAWWeAyAq@y@g@s@y@cAg@g@_Aw@m@Ys@e@wBmA{B}AuBmAaBiAmDqBk@a@gEgBoAe@o@[}@[s@]uAi@aCgACG}Ae@^D{A]y@[mAk@oCeAk@[gCcA}Ag@cBy@qBw@wAo@u@W}CqAq@UkEqBBAB@@^In@?~@KvDG`ACzBC\\MfD?`@SbFEzCGpA?l@IjAE`DEj@KrC?`AW~GAlBGnAOxEK|AEtCCP?t@I|AAjAGx@CzAQnFCLGFa@B\\EBEJ]C]HmC@ODG`B@bAHv@@t@DdABH@BBDREjBEXGdBNCbA@tALb@?^D|@Bp@HJABKD?BLn@BHFC?BCN@h@?BEDAJJ~@DzCbB?BKpBIZCf@EFKFD@JISDa@DuBMkBGeAKK@EFStGOfDC|AShF@^Cn@CHEDq@Ki@Cc@I_@CGHCHg@tEABGBg@E"
+      },
+      "dateLocal": "2025-12-23T05:59:15Z",
+      "timezone": "(GMT+08:00) Asia/Shanghai",
+      "elapsedTime": 8675,
+      "averageSpeed": 10.27,
+      "maxSpeed": 13.18,
+      "elevationDetail": {
+        "gain": 20,
+        "loss": 0,
+        "high": 47,
+        "low": 35
+      },
+      "performance": {
+        "averageCadence": 98.8,
+        "sufferScore": 100
+      }
+    },
+    {
+      "id": 16814801596,
+      "name": "Morning Run",
+      "date": "2025-12-22T21:34:14Z",
+      "distance": 4.24,
+      "time": 1468,
+      "pace": 346.3489442019582,
+      "elevation": 6,
+      "averageHeartRate": 158.9,
+      "maxHeartRate": 167,
+      "calories": null,
+      "kudos": 0,
+      "map": {
+        "id": "a16814801596",
+        "summary_polyline": "eegwDsspkTgDCWIAG@QAi@@oCCgBFaEAyE@y@Ak@BeHAk@ByCC{A@aBEoD@kKCm@@a@Ek@CuB?mAD}@CuABeCAyADG@k@AGAqC@sBCsA?aDBsBDaA?oAJsA@kBJoC?k@TaHF_ABoADs@BoBDk@B{ANqEBwCH}A@sAFu@NUAEKG?sAFcC?g@Ba@HARFREHAHBz@\\v@`@|Bx@xAr@hA`@tErBr@VzDbBfBj@PDFAZHDHXLHPJHBDAB?JJL|B~@"
+      },
+      "dateLocal": "2025-12-23T05:34:14Z",
+      "timezone": "(GMT+08:00) Asia/Shanghai",
+      "elapsedTime": 1469,
+      "averageSpeed": 10.39,
+      "maxSpeed": 17.21,
+      "elevationDetail": {
+        "gain": 6,
+        "loss": 0,
+        "high": 43,
+        "low": 38
+      },
+      "performance": {
+        "averageCadence": 97,
+        "sufferScore": 13
+      }
+    },
     {
       "id": 16787887852,
       "name": "Morning Run",
