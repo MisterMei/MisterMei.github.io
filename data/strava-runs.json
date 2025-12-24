@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-23T18:28:31.157Z",
+  "lastUpdated": "2025-12-24T01:25:37.781Z",
   "totals": {
     "allTime": {
       "count": 238,
@@ -20,10 +20,10 @@
       "elevation": 3767.2999999999997
     },
     "thisWeek": {
-      "count": 5,
-      "distance": 83.3585,
-      "time": 28031,
-      "elevation": 636
+      "count": 4,
+      "distance": 68.88680000000001,
+      "time": 23109,
+      "elevation": 437
     }
   },
   "recentRuns": [
