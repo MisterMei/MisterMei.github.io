@@ -1,32 +1,63 @@
 {
-  "lastUpdated": "2025-12-28T01:45:13.397Z",
+  "lastUpdated": "2025-12-28T06:29:00.862Z",
   "totals": {
     "allTime": {
-      "count": 241,
-      "distance": 3344.0516,
-      "time": 1154172,
+      "count": 242,
+      "distance": 3346.3316,
+      "time": 1156646,
       "elevation": 36032.90000000001
     },
     "thisYear": {
-      "count": 157,
-      "distance": 2437.0336000000007,
-      "time": 829106,
+      "count": 158,
+      "distance": 2439.313600000001,
+      "time": 831580,
       "elevation": 26252.3
     },
     "thisMonth": {
-      "count": 19,
-      "distance": 309.81739999999996,
-      "time": 106295,
+      "count": 20,
+      "distance": 312.09740000000005,
+      "time": 108769,
       "elevation": 3246.2999999999997
     },
     "thisWeek": {
-      "count": 5,
-      "distance": 91.7445,
-      "time": 31122,
+      "count": 6,
+      "distance": 94.0245,
+      "time": 33596,
       "elevation": 254
     }
   },
   "recentRuns": [
+    {
+      "id": 16860185015,
+      "name": "Morning Run",
+      "date": "2025-12-28T02:48:12Z",
+      "distance": 2.28,
+      "time": 2474,
+      "pace": 1085.0877192982457,
+      "elevation": 0,
+      "averageHeartRate": 107.9,
+      "maxHeartRate": 169,
+      "calories": null,
+      "kudos": 0,
+      "map": {
+        "id": "a16860185015",
+        "summary_polyline": ""
+      },
+      "dateLocal": "2025-12-28T10:48:12Z",
+      "timezone": "(GMT+08:00) Antarctica/Casey",
+      "averageSpeed": 3.32,
+      "maxSpeed": 13.1,
+      "performance": {
+        "averageCadence": 67.7,
+        "sufferScore": 5
+      },
+      "workout": {
+        "workoutType": null,
+        "description": null,
+        "commute": false,
+        "trainer": true
+      }
+    },
     {
       "id": 16859511999,
       "name": "Morning Run",
