@@ -1,32 +1,64 @@
 {
-  "lastUpdated": "2026-02-14T18:32:11.117Z",
+  "lastUpdated": "2026-02-15T02:04:50.038Z",
   "totals": {
     "allTime": {
-      "count": 265,
-      "distance": 3689.134,
-      "time": 1274422,
-      "elevation": 39620
+      "count": 266,
+      "distance": 3697.2378999999996,
+      "time": 1277122,
+      "elevation": 39665
     },
     "thisYear": {
-      "count": 161,
-      "distance": 2488.0171000000005,
-      "time": 846482,
-      "elevation": 26494.40000000001
+      "count": 162,
+      "distance": 2496.121,
+      "time": 849182,
+      "elevation": 26539.40000000001
     },
     "thisMonth": {
-      "count": 19,
-      "distance": 305.00300000000004,
-      "time": 104933,
-      "elevation": 3486.1
+      "count": 20,
+      "distance": 313.1069,
+      "time": 107633,
+      "elevation": 3531.1
     },
     "thisWeek": {
       "count": 5,
-      "distance": 95.4896,
-      "time": 32581,
-      "elevation": 1166.1
+      "distance": 70.5673,
+      "time": 24394,
+      "elevation": 790.1
     }
   },
   "recentRuns": [
+    {
+      "id": 17400650929,
+      "name": "Lunch Run",
+      "date": "2026-02-15T00:10:19Z",
+      "distance": 8.1,
+      "time": 2700,
+      "pace": 333.17291674379004,
+      "elevation": 45,
+      "averageHeartRate": 157.8,
+      "maxHeartRate": 176,
+      "calories": null,
+      "kudos": 0,
+      "map": {
+        "id": "a17400650929",
+        "summary_polyline": "xdhmEi{vy[C]SqA_@w@Oa@Da@@_@QuA"
+      },
+      "dateLocal": "2026-02-15T11:10:19Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 2708,
+      "averageSpeed": 10.8,
+      "maxSpeed": 16.92,
+      "elevationDetail": {
+        "gain": 45,
+        "loss": 0,
+        "high": 102,
+        "low": 89
+      },
+      "performance": {
+        "averageCadence": 99.1,
+        "sufferScore": 69
+      }
+    },
     {
       "id": 17388794463,
       "name": "Morning Run",
