@@ -1,32 +1,69 @@
 {
-  "lastUpdated": "2026-02-15T18:33:54.885Z",
+  "lastUpdated": "2026-02-16T02:00:27.311Z",
   "totals": {
     "allTime": {
-      "count": 266,
-      "distance": 3697.2378999999996,
-      "time": 1277122,
-      "elevation": 39665
+      "count": 267,
+      "distance": 3707.334,
+      "time": 1280614,
+      "elevation": 39753
     },
     "thisYear": {
-      "count": 162,
-      "distance": 2496.121,
-      "time": 849182,
-      "elevation": 26539.40000000001
+      "count": 163,
+      "distance": 2506.2171000000003,
+      "time": 852674,
+      "elevation": 26627.40000000001
     },
     "thisMonth": {
-      "count": 20,
-      "distance": 313.1069,
-      "time": 107633,
-      "elevation": 3531.1
+      "count": 21,
+      "distance": 323.203,
+      "time": 111125,
+      "elevation": 3619.1
     },
     "thisWeek": {
-      "count": 5,
-      "distance": 70.5673,
-      "time": 24394,
-      "elevation": 790.1
+      "count": 6,
+      "distance": 80.6634,
+      "time": 27886,
+      "elevation": 878.1
     }
   },
   "recentRuns": [
+    {
+      "id": 17410277380,
+      "name": "Morning Run",
+      "date": "2026-02-15T19:54:42Z",
+      "distance": 10.1,
+      "time": 3492,
+      "pace": 345.8761303869811,
+      "elevation": 88,
+      "averageHeartRate": 153.4,
+      "maxHeartRate": 175,
+      "calories": null,
+      "kudos": 0,
+      "map": {
+        "id": "a17410277380",
+        "summary_polyline": "`_|lE}qsy[IAOMEA_@BeC[m@Q]C_@USEmAWkGm@q@C]EONQCQOSEu@I_@@iCt@k@`@MD}@v@YRSRWNWX{BfBo@h@iAv@GHCPfCjF^p@Xn@l@jAr@|AJ^LXfBrCFRbAtBZ`@Hb@@b@G`DGnA?l@Dz@Pn@P`@\\h@d@x@X`@h@h@h@X^JDDf@Px@h@|BdCd@j@^h@hApAh@^b@b@zAfArAlAp@d@pAhAd@X\\Np@Pj@Dj@D`@AnAFx@?ZDf@?r@D~Bj@TJvBl@JDA@i@Qm@MkBm@q@OeAM_@Ek@?i@Gk@Ak@E_CGe@Iu@W_@Us@q@i@Yg@_@WWuAkA[KYYWOm@m@WQa@c@Sc@qBgCa@]{@_AUOiAg@[QQCc@Ua@YSSeBuCUu@Kg@Eq@@YLsB?i@FgBCc@I]u@yAQWK[a@k@k@aAK]m@mAYq@Wa@IYk@{@qAgCm@wAeAoBCO@KQOUk@cAoB_@m@CKOYQw@QQIWSUeAqB{AyBiBaCoA{AkAeBMMKWq@y@u@kAeAwAe@i@g@e@c@Yq@[_AWcB_@KGKIi@I]IQIQAkBc@k@KeBk@qA[wBa@g@CsAQqAYoBk@s@WKAk@Qs@Ou@S]G}Ac@w@MwAa@WKaB]w@Sa@Gq@QSIqA]QKcAY_A]i@OyAWbBXbCl@j@Tt@Pv@VlHhBj@JhA^zA`@bCf@VJRBr@N`EjAnARDEC@HCD@RHlANnAZx@THDnEdAj@RTBt@P\\N`AXtAXfAb@`Ar@XV^j@|@fA|@tAFFRFBJ@LPXNNz@lALTtBlCpDfFz@dBNN^r@Hb@Tf@PXj@lAFDn@pADQ\\[`@c@lA{@d@c@ZOdAw@hA_AvAcAj@Yt@WpAW^Cv@AXHDf@LRD@L@LKp@?PDh@@j@HvAL"
+      },
+      "dateLocal": "2026-02-16T06:54:42Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 3506,
+      "averageSpeed": 10.41,
+      "maxSpeed": 19.22,
+      "elevationDetail": {
+        "gain": 88,
+        "loss": 0,
+        "high": 176,
+        "low": 152
+      },
+      "performance": {
+        "averageCadence": 98.9,
+        "sufferScore": 71
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 1,
+        "prCount": 1
+      }
+    },
     {
       "id": 17400650929,
       "name": "Lunch Run",
