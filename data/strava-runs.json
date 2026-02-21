@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-21T01:51:16.553Z",
+  "lastUpdated": "2026-02-21T06:38:57.489Z",
   "totals": {
     "allTime": {
       "count": 270,
@@ -38,7 +38,7 @@
       "averageHeartRate": 164.5,
       "maxHeartRate": 175,
       "calories": null,
-      "kudos": 0,
+      "kudos": 1,
       "map": {
         "id": "a17454369995",
         "summary_polyline": "l~{lEgrsy[KE[BeCYg@OWCSIs@]a@GYAg@Mw@EuDe@g@?e@EIFYBYSw@K[AQB_B^y@^WP_@NOJ}@`AMJYLm@p@eBpAe@d@wA`AEH?LDJZj@^|@|@dBbA|BbAhBd@tALT^d@HRNTZp@zAfCN`@NNHp@Cz@AdAKjCAv@Dd@Pp@^x@`@h@JVb@t@VXl@b@\\FRL~@Zl@^d@l@PLTZV`@`@d@l@v@nAvANJx@r@jAz@\\\\jA|@NHbAz@h@j@\\Pf@Rx@R\\DnCFXBv@@r@FXAb@DjB`@|Aj@d@Hd@RDBA@gFyAgAQA@AGAAWD_CKQEmA?k@Cc@BaAOSGWOm@e@[]i@_@W[KESSQKMO{AkAOS[Q]YQQ[SY[_@e@iAkAu@kAuA{A_@Uq@YMIgAe@w@m@k@gAc@k@Wk@Qo@IqABY@mBHoCEe@G]}A{CQW[k@W[e@y@Wi@[aAOYIYcAmBuAwCq@gAg@gA?KHOj@c@PS`@[^]VOb@a@JEv@q@b@YV_@XQb@e@XS\\YXSLE~@SPIv@SXC`@B`@FTRJBF?FGFCn@BjBVnAHt@LrANv@Lh@V`@HPJZFP@~@Pr@H\\APH"
@@ -2207,7 +2207,7 @@
       },
       "social": {
         "comments": 0,
-        "achievements": 1,
+        "achievements": 2,
         "prCount": 0
       }
     },
@@ -3602,8 +3602,8 @@
       },
       "social": {
         "comments": 0,
-        "achievements": 50,
-        "prCount": 25
+        "achievements": 51,
+        "prCount": 26
       }
     },
     {
@@ -5099,8 +5099,8 @@
       },
       "social": {
         "comments": 0,
-        "achievements": 49,
-        "prCount": 27
+        "achievements": 50,
+        "prCount": 28
       }
     },
     {
@@ -5309,7 +5309,7 @@
       },
       "social": {
         "comments": 0,
-        "achievements": 26,
+        "achievements": 27,
         "prCount": 17
       }
     },
@@ -5435,8 +5435,8 @@
       },
       "social": {
         "comments": 1,
-        "achievements": 86,
-        "prCount": 46
+        "achievements": 87,
+        "prCount": 47
       }
     },
     {
@@ -7726,8 +7726,8 @@
       },
       "social": {
         "comments": 1,
-        "achievements": 69,
-        "prCount": 50
+        "achievements": 70,
+        "prCount": 51
       }
     },
     {
