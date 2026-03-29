@@ -1,29 +1,29 @@
 {
-  "lastUpdated": "2026-03-29T07:01:00.808Z",
+  "lastUpdated": "2026-03-29T12:52:28.580Z",
   "totals": {
     "allTime": {
-      "count": 289,
-      "distance": 4095.9091,
-      "time": 1414678,
-      "elevation": 43481.00000000001
+      "count": 292,
+      "distance": 4134.212000000001,
+      "time": 1427482,
+      "elevation": 43868
     },
     "thisYear": {
-      "count": 184,
-      "distance": 2882.9296000000004,
-      "time": 983137,
-      "elevation": 30298.300000000025
+      "count": 187,
+      "distance": 2921.232500000001,
+      "time": 995941,
+      "elevation": 30685.300000000025
     },
     "thisMonth": {
-      "count": 15,
-      "distance": 270.0607,
-      "time": 93367,
-      "elevation": 2696
+      "count": 18,
+      "distance": 308.3636,
+      "time": 106171,
+      "elevation": 3083
     },
     "thisWeek": {
-      "count": 2,
-      "distance": 53.18770000000001,
-      "time": 17972,
-      "elevation": 242
+      "count": 5,
+      "distance": 91.4906,
+      "time": 30776,
+      "elevation": 629
     }
   },
   "recentRuns": [
@@ -31,11 +31,11 @@
       "id": 17895132133,
       "name": "Morning Run",
       "date": "2026-03-28T21:03:44Z",
-      "distance": 41.97,
-      "time": 14332,
-      "pace": 341.50560796433393,
+      "distance": 42.41,
+      "time": 14363,
+      "pace": 338.65814696485626,
       "elevation": 193,
-      "averageHeartRate": 155.7,
+      "averageHeartRate": 155.6,
       "maxHeartRate": 184,
       "calories": null,
       "kudos": 1,
@@ -46,8 +46,8 @@
       "dateLocal": "2026-03-29T08:03:44Z",
       "timezone": "(GMT+10:00) Australia/Sydney",
       "elapsedTime": 15397,
-      "averageSpeed": 10.54,
-      "maxSpeed": 15.05,
+      "averageSpeed": 10.63,
+      "maxSpeed": 15.48,
       "elevationDetail": {
         "gain": 193,
         "loss": 0,
@@ -62,6 +62,43 @@
         "comments": 0,
         "achievements": 32,
         "prCount": 16
+      }
+    },
+    {
+      "id": 17871136284,
+      "name": "Morning Run",
+      "date": "2026-03-26T21:57:57Z",
+      "distance": 11.59,
+      "time": 3752,
+      "pace": 323.6268285950869,
+      "elevation": 67,
+      "averageHeartRate": 166.4,
+      "maxHeartRate": 176,
+      "calories": null,
+      "kudos": 0,
+      "map": {
+        "id": "a17871136284",
+        "summary_polyline": "vbxmEmo{y[?WCKAa@F[?O@K?e@GWB}@BICEAOFy@AUSONZAHg@FGA[LWe@ABgGyATKGYOM\\Yj@KNB_@OCGBBYCMKL@IGB?EALNM?OMq@My@[c@D[ECDD@D?QMDCFDM?OHUEIPUFSIs@a@GIi@MsADmAXiABWKgAKUQQE}AM]GSWUm@BKGc@BIAUNq@ZYLYH_@CIc@TW?iAa@w@Q_AB_AOaCSYFWNO?i@]c@Is@Ag@O]SOWEi@@[Ha@d@k@b@SZAg@f@C@GE?KJGOS@a@N[Bo@FQa@[s@gAWg@{@eAsAiDW_AUk@c@{@g@i@?k@GM}@aAqAy@u@k@QWe@YMYMu@Ma@KQq@i@iAqBQS]S_DyAm@e@sAuAa@UwBm@gBy@[WGKG]K{AWu@u@mAa@Y]IqA@mDZcGRKNZEKDELF@FH@RQt@AZOh@f@T~BA\\Hn@\\VDlA@XLf@^b@RrC^t@RPRb@ZJRDz@CxAE`@f@pBBvAIlAKl@]~@QVu@x@w@f@wATe@@k@E{Ds@k@EgABc@Dq@Z}AdAUZe@dAi@z@[`@[RmBT_Dq@OGUUm@MUN[HQRIVMfA@XNbAFLz@HbAX~@NTFRN|Bb@x@`@PNhArCJHx@PdCH|AP~ABj@Jd@XPx@Dp@EfAMnAEbAAVBJQzAGtBCPUXUHQ@iAC{DOGBOXWHgAQQB_@IY@}@IgCg@aD`Bu@TaAHg@YIOF_CA_@Qu@QYWOKAOBo@^QN[b@eAj@c@J_@Zg@nAy@xAQ|@GHMDAHAj@@TzFx@f@NTNV`@d@|@`AnAR^d@b@b@v@Z\\Xh@n@z@NZLb@DbAEpBBZKr@Uz@Yl@u@rBQz@Db@EJ_@b@e@v@g@\\KTJ~@Ir@?RJTJLXNdBH|AU~@A`@Jp@d@d@BTAz@U`@u@^c@HODSA_@Us@CS?_@DSLUXWd@ST@^^f@NJLHTd@~DHZX\\\\DrJm@hB_@zAMFC\\i@HAx@DfAVb@Id@UZGbBAvAIrCBzEOlAQhCSxBEp@EfBf@d@TRIRa@X}AZkARQVCv@Jl@ZRNhAXvAN~@V|BTbADVNLNf@|BDDd@?b@FVNLTd@BxAYh@EpB_@pBk@NIlB[fA[x@UNKf@?jAOPGhAq@"
+      },
+      "dateLocal": "2026-03-27T08:57:57Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 3801,
+      "averageSpeed": 11.12,
+      "maxSpeed": 35.5,
+      "elevationDetail": {
+        "gain": 67,
+        "loss": 0,
+        "high": 34,
+        "low": 2
+      },
+      "performance": {
+        "averageCadence": 99.6,
+        "sufferScore": 126
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 1,
+        "prCount": 0
       }
     },
     {
@@ -105,6 +142,70 @@
         "comments": 0,
         "achievements": 3,
         "prCount": 0
+      }
+    },
+    {
+      "id": 17832677645,
+      "name": "Morning Run",
+      "date": "2026-03-23T19:48:55Z",
+      "distance": 12.13,
+      "time": 4073,
+      "pace": 335.7984384919163,
+      "elevation": 125,
+      "averageHeartRate": 165.4,
+      "maxHeartRate": 176,
+      "calories": null,
+      "kudos": 0,
+      "map": {
+        "id": "a17832677645",
+        "summary_polyline": "vr|lEonsy[X@d@LfBJPDx@Jr@Dt@RlANb@Bj@NJJ?ZMz@MjD]zCMlDQtBG`@GHI@QE_@[WKk@_@a@][_@OIyCuCk@Qy@Kg@?SCe@DUCa@?e@Ia@Cu@M_@C_AQkACy@Qq@UaCg@s@Uu@@e@JM`@[j@YRQBaBY]BaA?c@IUAWM_@GKDcAKu@Qq@EmAU_@i@GMMQAG?ER[XUFc@b@_@LUFOFiADYPcC?e@Dq@NcBAKCC_@Ie@C]@m@LcBj@iAx@SR}@h@QTWNADUV}AhA_BtAg@XKNCR^r@FTr@nAb@bA`@r@\\|@`@n@f@bAd@tAH`@LXd@b@t@lAjAtBHTPVLh@@ZKfCE|B@z@D`@H^Vr@R\\XXr@lAPPp@d@XD^XrAn@f@j@NJ\\d@fAlAX`@XZ\\d@bAz@HLp@h@TTd@ZzBdBjAbAl@d@f@VVHdATfBBXApBLl@?|@F`@FxDfAr@VDDqA]aA]kAYi@Q}AIW@cCOgBAiAO}@_@iBaBe@Wu@s@}@q@]OsAmA]Wc@e@U_@qAyA_@g@UUEQQI_AaAe@YqBw@[Qa@_@i@{@O]]i@MYSu@Ky@Aa@DmAAu@FeA?m@BWAYMm@aAgBGc@YWkAwBq@}Ai@_AG]o@eAYm@k@eAa@aAyAqCEQAB@A[s@eAkBc@_AYo@Ka@S[KYMKS]s@}Ac@o@MMa@o@kAyAo@cASQ{@sAqA_BU_@GUUOOUm@q@s@gAg@o@y@u@WSgAk@q@SsBg@c@Q{@Mq@UaAS[OM@qBk@w@QgA]qAUyASwCu@_@GoBa@{@YOAc@QaAQyAc@sCq@g@QcBYuA_@WEwAc@a@SoAWaBk@sB_@{@Lo@DEDVIVAfASRHnARnBj@\\DtAh@~HjBlD`AbEbAr@TZD`Cn@lDx@|@DjB\\jA\\d@HxBl@|AZ`@N`@FnAb@xCt@VLvAz@l@l@t@fAfB~Bj@|@hArAdA~An@|@f@h@b@r@^b@\\j@h@p@`AnB\\^Vn@Jf@P`@JNN^h@~@d@bAD?JG~@}@b@[JKzAeAlEmDbAg@|@Yn@Qf@I`@AbAD^QPDNJ~@R~BVlKpAdCb@fCX"
+      },
+      "dateLocal": "2026-03-24T06:48:55Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 4099,
+      "averageSpeed": 10.72,
+      "maxSpeed": 17.14,
+      "elevationDetail": {
+        "gain": 125,
+        "loss": 0,
+        "high": 175,
+        "low": 132
+      },
+      "performance": {
+        "averageCadence": 97.8,
+        "sufferScore": 134
+      }
+    },
+    {
+      "id": 17821515516,
+      "name": "Morning Run",
+      "date": "2026-03-22T19:29:40Z",
+      "distance": 14.14,
+      "time": 4948,
+      "pace": 350.0382014205269,
+      "elevation": 195,
+      "averageHeartRate": 163.2,
+      "maxHeartRate": 177,
+      "calories": null,
+      "kudos": 0,
+      "map": {
+        "id": "a17821515516",
+        "summary_polyline": "dr|lEwnsy[|AVrAFfAN`AFb@LnCXj@RBDBHAHQhAClAGdAM|@Ep@Kt@QhBMxBEVEfAGPWBgBgAa@]W]]UgAkAiAeAc@K{@Kw@Ae@DmACe@M}BYg@MmAAWKs@KkBc@uBo@s@D[Hi@hAURIDM?eBYs@Dk@Ca@KW?wHcAYYO_@SYAWL]jAeAVg@TkDFc@BeAH_ANkACIGGcAKi@BiBf@g@RWR[Ng@d@yAlAu@t@_E|CSTGLQS?EW]?BWVIBKAOQi@{@Ui@Su@CCOFUCENG`AGnAOtAEfAQlBAv@GNE`@@TEVKfBKfCSfDQfBKtBGb@GfBMvAAh@[~CEpAKv@?\\Mb@UdEKt@GrAU`CAl@QdBGxAGfAQbBExACROZK@m@O{Dk@{@QaDgBYGe@_@qAk@iAWyBYa@BcBYq@WyAe@YSu@uA[a@Ue@Yq@K{@\\}FPeBDgADi@CwABSAIGYO]U[u@q@_@QUS{@Wg@GYIcAIOCIKOG_AE}@O]Ac@Qk@BwDc@c@OMAQBu@Q_BM_Ee@m@Ok@Cm@OS@o@EUGmEc@SM[_@CMBGAEMQoBuA[[k@Yq@i@UWa@m@iDwGU]g@e@oA_A{CgCcA[mH{AeCGmAKcBGy@IiCK{@?eBOyBIWGIU?s@PiBP_D^_EJyBDQD_ADILKb@@p@PbAj@JNDJ@r@CVATUhA_@fEIn@KdBOrAEv@HPp@HhBBbH\\x@HrADt@FhDp@jA\\lARXJZPtAfArD`DLPpAhCp@tAZXHVR^b@f@ZVPFjA|@jCdBVX^RdCVlARZJp@Bn@LjBNjC^l@Bt@NvFl@JBJHT\\FD^DLEN?PJVFd@Br@Lz@?JDNNlALLFX?|Af@XVZNv@p@Zf@Lb@?|@Bt@KpAAd@Db@?`@g@dFC^?VJp@Vr@fAjB^h@d@\\~Bt@~@Rn@D~@PvBVbBv@\\VhExBdALvA`@tALj@LF?LONqALkCLkAJ_BHk@F_BR_CPwCDM?OFi@DsAD[HUB{@Hg@NoCJmAV{D?WCSL]n@eJ@c@@MHK`@IV@OCGB?ODcA^eETkAt@cBJM`@SfAcALIL@A@?GEABCl@k@fAy@b@e@n@c@xAiATYf@]tAsA^U\\[lBm@r@Ij@@j@LLFBFLDL?JMb@@bIx@t@LVHXPd@Fd@PjBV"
+      },
+      "dateLocal": "2026-03-23T06:29:40Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 5152,
+      "averageSpeed": 10.29,
+      "maxSpeed": 14.11,
+      "elevationDetail": {
+        "gain": 195,
+        "loss": 0,
+        "high": 174,
+        "low": 132
+      },
+      "performance": {
+        "averageCadence": 97.3,
+        "sufferScore": 152
       }
     },
     {
