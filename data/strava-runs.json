@@ -1,29 +1,29 @@
 {
-  "lastUpdated": "2026-04-18T18:47:32.250Z",
+  "lastUpdated": "2026-04-19T02:31:04.427Z",
   "totals": {
     "allTime": {
-      "count": 304,
-      "distance": 4339.2912000000015,
-      "time": 1497191,
-      "elevation": 45538.00000000001
+      "count": 305,
+      "distance": 4346.3636000000015,
+      "time": 1499687,
+      "elevation": 45571.00000000001
     },
     "thisYear": {
-      "count": 199,
-      "distance": 3126.3117000000016,
-      "time": 1065650,
-      "elevation": 32355.300000000025
+      "count": 200,
+      "distance": 3133.3841000000016,
+      "time": 1068146,
+      "elevation": 32388.30000000003
     },
     "thisMonth": {
       "count": 18,
-      "distance": 301.59,
-      "time": 101961,
-      "elevation": 2315
+      "distance": 303.6422,
+      "time": 102981,
+      "elevation": 2332
     },
     "thisWeek": {
       "count": 3,
-      "distance": 78.4225,
-      "time": 25793,
-      "elevation": 489
+      "distance": 61.454800000000006,
+      "time": 19996,
+      "elevation": 235
     }
   },
   "recentRuns": [
@@ -38,7 +38,7 @@
       "averageHeartRate": 169.8,
       "maxHeartRate": 188,
       "calories": null,
-      "kudos": 0,
+      "kudos": 1,
       "map": {
         "id": "a18151454213",
         "summary_polyline": "duaqE}h`x[uZtMeCf@sGa@sEqCgEq@yEx@oBvAeAfCiCbAe@nGXrBeApBiMwIsCaAud@yFoRFYo@nAaJPwEkd@gNyDyDiEeCuAoD}HeI?eBnAiCiBkBmEoOk@Ai@vAmBOiD`AqHs@qFn@{BwCmBTwCgAwBZsAnAwBSqA^WoArByUq@{BcBg@g@p@mFp@_QaCwB~AkAKsBeC@mHg@oDwBeFmCw@i@eA?}@o@Wy@r@mL\\_An@}@tBl@gBlAcA`FBxGiAd@NE`A`@|@tCr@dCdG\\hDApGnBlCfALzB{AbQzBfFq@l@u@|Ad@v@~BwB~VXh@hA[zBNtAsArBYnCjAxBUrBrCpFm@zHr@fDcAjBPd@sAr@@lEjOhBxBcAvAQfCbIfItAvDdEzBdEbEbd@fNeBdRfSMxd@zFbE~AvKvH`AmB]mBl@qG~Bw@v@{BlCuBlEw@~Dl@|B`B`Dd@jG_@vDsClEa@dK{EdH}AhD{Bt@y@|@uCAiCi@wBqDuFg@{Bp@eChAc@bBtAb@lFbAhErF`FvPfHbLhCz@v@`FrAW`G@~BCkCRz@{@zKtF|@{F}@j@mM\\yFeFoAiNgEmPaHyFeF}@_Ee@cGcBkA_AZo@bDdBpEpB~Bt@tDy@jEoAbBqChBcH|A_LfFyEd@mC~BiAXoETeDg@qHaCwEn@yAx@aBfDmClBi@lEXzB_AtBgPeKug@oGeRHn@oFn@sJkc@wMsEiEiEcC}AyD}HiIFsBjAmBoBqBeEkOm@Ec@rAqBOyDdAgHu@oFn@}BsCmBPiDkAeB\\gAlAwENUmAtBeVw@sB}Ae@_@p@oFp@iQyBwBxAgAKmBiCGmH[sC}B_GuC{@c@}@?_A_@OiAl@iE\\iF@wB`D\\qAvAyAnFBhE]fAk@`@Pd@`ClCl@dCvF`@rDExGpBfChAR`CaBvP|BfFm@l@u@vA^v@`AL`AyBzVTj@fEKtAuAxB[rCnAnBUzBvCnDq@~EFhCp@dDeA~BLh@uAd@BtE|OfBbBcAbBS`CxH|HxApDtEnCdE`Etc@zMLt@eBtP`SKje@bGdCx@bMxI`AsBBmIb@w@tBu@b@gBpBsBpCaAdBAbEp@jB|AlDf@zCM~Bc@dDmCfE[nKeFxGuA`DqBrAiBn@yCm@kEeCeDqAqDAyAr@yAv@WhAXb@z@h@~FrArEfFhE~E|BfVhHfA`A~ElAOvFLoFuEiAsYiJoJsG_BoBcByL_Aw@yAPs@xCpAbEbCxCvAzEdDb@"
@@ -62,6 +62,43 @@
         "comments": 0,
         "achievements": 110,
         "prCount": 55
+      }
+    },
+    {
+      "id": 18138874402,
+      "name": "Morning Run",
+      "date": "2026-04-16T23:09:11Z",
+      "distance": 7.07,
+      "time": 2496,
+      "pace": 352.92121486341273,
+      "elevation": 33,
+      "averageHeartRate": 158.1,
+      "maxHeartRate": 167,
+      "calories": null,
+      "kudos": 0,
+      "map": {
+        "id": "a18138874402",
+        "summary_polyline": "taxmEu|zy[SvAKVGXGLSnAEH[JCDWHUAk@M_@Ce@AGBCFu@`@I@OJi@Ne@^KASDu@B]Fq@d@SFQXq@\\i@HM@s@R}@JkAf@u@Vs@DWNa@?[POAi@JGEEQEm@Ks@U}@Ms@GMOG}@KqAYkA_@aAGg@MeBUWIOYIE{@IIBOL_@lA]bBOVKFYC}Ac@g@K_AH{@BsAFkAH]FU?kAHy@AkBJq@Hc@AoAB{AN]?UDS?eAHY?_@AMC[Qe@AUB[LUXGTILGHMBg@B_@AuCX]A_@BSDsCLOA]B]Fm@BWIMGSSM[CKAWI[MiAIiAGQOM]EY_@IEO?IDMNYTKX?ZXx@F\\A\\CPMZe@`@Oh@KJQFK?e@Ps@BO?WISUUMc@Iy@Bq@PYBk@C_@GS?g@MUQO[E_@Ne@@SQ}@?MDOf@c@d@w@b@_@PKH_AT}@^}@Po@Ta@L_@D]?{AFw@@yAEUYs@MUW[_@YU]OOIQ[]W_@c@s@_AkAu@oAk@q@S[OI}@OUMyAOQIMKCMD{@He@Pc@rAgCr@m@VKl@KHCTONUb@[b@SL@XLRVDNJ\\Dn@EvBPPTNf@?ZIpAi@|@e@l@Qd@@x@Jh@@zAPX@HBJ@PEt@HHBHHHDDAFENe@FGHCzA@zCLVC`@ORCp@DPHHN@v@BDLKDDADXBb@PTBJ?TJBBt@BJA\\Jb@FVHPBb@@b@Q^g@EX@n@@]CJJBLI`@AvBPNAPKj@LpAJb@H\\LPBPEDEj@GZBHBh@DLAPIb@?f@HNNHDZCp@FIAA?@?DLTJr@LP?f@FH?VEd@Av@FBGHEZCbBBXDl@?f@KRBj@Pd@GRBAA@TBC\\Fp@In@@PDVNb@KT@RC"
+      },
+      "dateLocal": "2026-04-17T09:09:11Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 2542,
+      "averageSpeed": 10.2,
+      "maxSpeed": 25.34,
+      "elevationDetail": {
+        "gain": 33,
+        "loss": 0,
+        "high": 37,
+        "low": 4
+      },
+      "performance": {
+        "averageCadence": 95.5,
+        "sufferScore": 66
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 1,
+        "prCount": 0
       }
     },
     {
