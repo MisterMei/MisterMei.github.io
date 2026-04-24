@@ -1,32 +1,68 @@
 {
-  "lastUpdated": "2026-04-24T02:29:37.844Z",
+  "lastUpdated": "2026-04-24T08:00:04.044Z",
   "totals": {
     "allTime": {
-      "count": 308,
-      "distance": 4381.717000000002,
-      "time": 1511466,
-      "elevation": 45910.00000000001
+      "count": 309,
+      "distance": 4391.763600000002,
+      "time": 1514670,
+      "elevation": 45935.00000000001
     },
     "thisYear": {
-      "count": 203,
-      "distance": 3168.7375000000025,
-      "time": 1079925,
-      "elevation": 32727.300000000025
+      "count": 204,
+      "distance": 3178.784100000002,
+      "time": 1083129,
+      "elevation": 32752.300000000025
     },
     "thisMonth": {
-      "count": 19,
-      "distance": 312.7307,
-      "time": 105739,
-      "elevation": 2351
+      "count": 20,
+      "distance": 322.77729999999997,
+      "time": 108943,
+      "elevation": 2376
     },
     "thisWeek": {
-      "count": 4,
-      "distance": 78.1959,
-      "time": 25693,
-      "elevation": 495
+      "count": 5,
+      "distance": 88.2425,
+      "time": 28897,
+      "elevation": 520
     }
   },
   "recentRuns": [
+    {
+      "id": 18232727653,
+      "name": "Morning Run",
+      "date": "2026-04-23T22:23:08Z",
+      "distance": 10.05,
+      "time": 3204,
+      "pace": 318.91386140584876,
+      "elevation": 25,
+      "averageHeartRate": 179.4,
+      "maxHeartRate": 196,
+      "calories": null,
+      "kudos": 0,
+      "map": {
+        "id": "a18232727653",
+        "summary_polyline": "dgwmEyc|y[SC]B]JY@ODQGeAGIBMGc@Ca@Ke@@GAEKEeAPqAHcAIYCWWWqAQaBMS@iAQs@QYCqAEi@PQGYQ}@K{@USIKQAK@KWGIICEBWHWJSPQ`@WV]Hi@AS@s@KMUQ]k@c@m@Oa@a@g@a@k@]aA_@q@Uw@}@{BKSUYUKII?GH]IQw@y@{@c@mAcAUYSKOOOWO{@O[gAuAQWc@{@QWa@Sy@WsAs@}@s@sAqA[S_AYu@QiB{@_@[Yi@uAgDUQ_@Oc@A]Hq@`@MBQ?GJSJi@HgADuACUCWMY?_@MG?MJMVIl@Mb@ALBDHDXFtB?NB\\HVTND`@@VEd@B^N^Zb@VjC\\bAXVV^TLNDT@t@MtBRj@Nt@Hh@@j@GbAIn@Oj@Qb@s@~@{@n@OFsAXs@AuBa@[Co@MIE_@EaACa@Bc@F[LgAl@aAx@S^Qh@Ub@}@hAKHqBZc@jAI\\@FQt@BPA^DLRJn@LRHb@HRJZVPb@TdAP`@XVlARlBHpALf@BNC|@@j@FNFFHNZHZL|@Dz@Cd@Y~BEdAKx@C~A@XERSP{@Jc@A}@MwAA{@IIDEb@KJK@YOOEi@EU@i@KqAE_AM]MC@SGiA`@YPm@Ts@^gAPO?m@WGM?}@HgAScAQa@MKMEO?kAp@_@b@}@X_@RMJ]b@S\\Mb@c@l@Ud@SbAGHMFCfAd@Hx@FVH|AJ`@Hz@f@j@p@j@|@f@l@Vh@dB|Bt@nAVb@T~@D`A?r@F|@@f@ERe@~Ai@bA_@dAKh@EJ?TDVKNURKNc@v@MJYLEP?VHj@Gh@APBRPV^PZAl@H`@@l@Mr@Gx@?ZJl@d@\\Fh@EXMRCLKHYFGd@g@LUDSAWUq@Ia@?_@BMLWb@a@LIPCN?NHTXZFHDLNFPl@tEFNNPLFVD`CU`BGvBOZGJGXCPGv@Kv@?JCLOL[RYXCx@BPDd@R`@DTAb@OhCQpACbAD~@ArBStCIz@IrBGv@IlAE`AHbAZTRLBXMLSLi@J{@Je@Ne@LOVIb@@XF`@^h@Nz@Nh@D^JbAPnAJlATh@BTLNDBD`@tAJp@f@Bd@Lh@d@f@?l@[j@MjA]z@QjAK\\Kf@UfAUn@U\\IN@"
+      },
+      "dateLocal": "2026-04-24T08:23:08Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "averageSpeed": 11.29,
+      "maxSpeed": 22.39,
+      "elevationDetail": {
+        "gain": 25,
+        "loss": 0,
+        "high": 40,
+        "low": 3
+      },
+      "performance": {
+        "averageCadence": 99.8,
+        "sufferScore": 183
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 1,
+        "prCount": 0
+      }
+    },
     {
       "id": 18203783705,
       "name": "Morning Run",
