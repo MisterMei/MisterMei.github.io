@@ -1,35 +1,35 @@
 {
-  "lastUpdated": "2026-05-03T02:43:55.675Z",
+  "lastUpdated": "2026-05-03T07:59:02.472Z",
   "totals": {
     "allTime": {
-      "count": 312,
-      "distance": 4452.348800000003,
-      "time": 1539002,
-      "elevation": 46994.000000000015
+      "count": 313,
+      "distance": 4459.445000000003,
+      "time": 1541576,
+      "elevation": 47095.000000000015
     },
     "thisYear": {
-      "count": 206,
-      "distance": 3230.2748000000015,
-      "time": 1104239,
-      "elevation": 33726.40000000003
+      "count": 207,
+      "distance": 3237.3710000000015,
+      "time": 1106813,
+      "elevation": 33827.40000000003
     },
     "thisMonth": {
-      "count": 16,
-      "distance": 274.45689999999996,
-      "time": 97454,
-      "elevation": 2668
+      "count": 17,
+      "distance": 281.5531,
+      "time": 100028,
+      "elevation": 2769
     },
     "thisWeek": {
-      "count": 2,
-      "distance": 44.463699999999996,
-      "time": 17776,
-      "elevation": 750
+      "count": 3,
+      "distance": 51.55989999999999,
+      "time": 20350,
+      "elevation": 851
     }
   },
   "recentRuns": [
     {
       "id": 18352785433,
-      "name": "Morning Run",
+      "name": "Port Stephens Tomaree Trail Run",
       "date": "2026-05-02T20:22:37Z",
       "distance": 32.35,
       "time": 13857,
@@ -62,6 +62,38 @@
         "comments": 0,
         "achievements": 2,
         "prCount": 1
+      }
+    },
+    {
+      "id": 18340190299,
+      "name": "Lunch Run",
+      "date": "2026-05-02T01:08:50Z",
+      "distance": 7.1,
+      "time": 2574,
+      "pace": 362.729348101801,
+      "elevation": 101,
+      "averageHeartRate": 175.3,
+      "maxHeartRate": 188,
+      "calories": null,
+      "kudos": 0,
+      "map": {
+        "id": "a18340190299",
+        "summary_polyline": "xt|lEgnsy[DBr@?pARpAHlBZZ@h@Fn@RLL?Jm@`GWrE]fDEpAAFIFK@IASKOMa@Ss@e@WWOUc@[_BgBg@g@IEgBQo@CYDuAEe@KgAKg@IG@OHMBe@CWBQA}@SKIIWIE{@UcBg@m@Mm@?]DGDGFi@bAWRKBW?oAO[Fq@?_@EUIWA[MMCU?WGa@EYIaBOaAOSMc@_ACEICGBIRgDfCc@VMT_@R_@^EN?Dh@z@Nl@Pb@~AnCFNfBbDHx@?dAOdEDpANn@Rh@xA`C^\\b@VLBn@`@p@Vj@ZhB|BhApAL?\\]RK@@?BAGDVF@HCEAM@MVUV@JNT~BlB`@`@vAfAh@f@d@ZzApAb@Xn@Tt@P^?vAHxDF|@HJDNB`Bb@dA^RBn@PJF{C_AyA]}@KgDIq@EsBAk@MiAa@i@_@k@m@e@a@]Sk@k@yAgAk@k@EAa@]g@]QWMIWc@wA{A[e@k@s@m@m@k@_@q@YIKk@Qo@_@]W_BoCWs@G_@Es@?kAF{DDc@Ec@I_@eAmBAIF@ICa@m@}@}AoAyCSWG_@QQc@w@m@sAKOm@qAe@y@Wq@Wc@@ODGhAaAl@s@`@[Z[lAy@^YRU^WPWXWt@e@VKj@QZMfAWj@A\\@\\JNNHBHAJGHAlCV\\@zBTVH|APh@XPFT@h@Tb@Dv@NX@LDf@ATLr@DZH\\Av@FZHb@RPAHE"
+      },
+      "dateLocal": "2026-05-02T11:08:50Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 2612,
+      "averageSpeed": 9.93,
+      "maxSpeed": 14.62,
+      "elevationDetail": {
+        "gain": 101,
+        "loss": 0,
+        "high": 177,
+        "low": 131
+      },
+      "performance": {
+        "averageCadence": 96.6,
+        "sufferScore": 127
       }
     },
     {
