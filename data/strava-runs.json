@@ -1,32 +1,69 @@
 {
-  "lastUpdated": "2026-05-04T19:26:55.758Z",
+  "lastUpdated": "2026-05-05T02:39:53.622Z",
   "totals": {
     "allTime": {
-      "count": 313,
-      "distance": 4459.445000000003,
-      "time": 1541576,
-      "elevation": 47095.000000000015
+      "count": 314,
+      "distance": 4470.996600000004,
+      "time": 1545234,
+      "elevation": 47160.000000000015
     },
     "thisYear": {
-      "count": 206,
-      "distance": 3216.0313000000015,
-      "time": 1098954,
-      "elevation": 33643.50000000003
+      "count": 207,
+      "distance": 3227.582900000002,
+      "time": 1102612,
+      "elevation": 33708.50000000003
     },
     "thisMonth": {
-      "count": 16,
-      "distance": 256.4894,
-      "time": 91100,
-      "elevation": 2611
+      "count": 17,
+      "distance": 268.041,
+      "time": 94758,
+      "elevation": 2676
     },
     "thisWeek": {
       "count": 3,
-      "distance": 51.55989999999999,
-      "time": 20350,
-      "elevation": 851
+      "distance": 50.9974,
+      "time": 20089,
+      "elevation": 787
     }
   },
   "recentRuns": [
+    {
+      "id": 18378510508,
+      "name": "Morning Run",
+      "date": "2026-05-04T22:18:32Z",
+      "distance": 11.55,
+      "time": 3658,
+      "pace": 316.6660895460369,
+      "elevation": 65,
+      "averageHeartRate": 176.7,
+      "maxHeartRate": 190,
+      "calories": null,
+      "kudos": 0,
+      "map": {
+        "id": "a18378510508",
+        "summary_polyline": "jexmEeo{y[@WIq@BeARaCRw@DQAMwAIy@O]L{@S[Fe@?s@OQFCa@Fk@Bw@VMOXE@k@Wy@WYQ{Ac@y@AKBQROFW@mCEqAIO@[NiAOo@Ay@We@?y@KmACIIKOCsANyAHkBPaAE@@p@ALC@MMYMYI{CSkAU}C]a@C_@XK@IE[]{AI_@IWOKQ?SJk@Ra@d@c@ZQl@OV?u@Pg@VLQ?CO[CKFsAGe@WSUm@s@gAIWQSu@mAWk@_BiEMUa@i@a@Y?MH[GQm@k@}@k@kAcA]_@g@]@K@BGCMUGg@Se@w@{@e@q@KU]k@USg@WcA_@eAk@eBuAi@m@o@Y}Ac@kB}@[SMWEy@K_AK_@Ue@[g@YYi@USCqBHgHd@eA?WFSLg@`AUx@AZ@JLNz@b@RFCBeAg@SUGSDIL?l@VLPPFv@DrAC\\JXVNDbAAd@D\\N|@p@rC`@z@Rv@n@FJDLBfAf@r@FP@LGhAIXAZDxA?l@CTO~@Uh@[h@s@|@o@b@]Ly@LeAEgEs@_AEkAF_AXsAz@YZU^c@~@cAxA]Lm@J{@Fo@IyBc@UWs@UQn@Sb@Q~@Ed@?n@BHDDr@F|A^ZBtAb@^Ff@Vt@T`@^Xp@@LN^PXZZxAVPEp@BnCXtBJZPPr@L^DX@VC|@UxDEtAYxCMNa@DmACaEQGFCPILOB_@Ku@GO@]GoCKmAWe@JsCtAYHiAHc@[EMAu@BiAU}AY[YCUHu@d@_@b@y@T}@j@m@vAUVo@lASx@QPGx@BJJCdAXzC\\fAd@x@hAl@fAx@jAxAjBdAjBNh@Jv@@xAFbBG~@Sn@_@r@g@fA]xAB^]\\a@x@MNk@^GTL`AEf@BZFNJNXJ`BJrAUv@Ar@L`@`@TJl@EbAUHG^u@Z]HODSAU]cAE[BYVe@RSZSPCPDVZf@NRTPp@^jDDPVXTFzAG`CQjCM~@_@dAKLINEh@ANENk@NIz@Nt@T|@HjAa@f@G`AIfCCbAFn@AnAK|BEzASh@CbAApAK|AAb@RpBf@VST_ANcAPq@RUTGh@@RDVTVHl@VxC`@j@NlEf@NH^j@TrADF\\ANDj@\\NR^Hr@@d@GVMl@Oj@Ql@InBi@b@Q~Be@"
+      },
+      "dateLocal": "2026-05-05T08:18:32Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 3714,
+      "averageSpeed": 11.37,
+      "maxSpeed": 24.98,
+      "elevationDetail": {
+        "gain": 65,
+        "loss": 0,
+        "high": 40,
+        "low": 2
+      },
+      "performance": {
+        "averageCadence": 98.7,
+        "sufferScore": 190
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 8,
+        "prCount": 3
+      }
+    },
     {
       "id": 18352785433,
       "name": "Port Stephens Tomaree Trail Run",
