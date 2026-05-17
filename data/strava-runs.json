@@ -1,39 +1,39 @@
 {
-  "lastUpdated": "2026-05-17T02:52:49.002Z",
+  "lastUpdated": "2026-05-17T08:18:41.368Z",
   "totals": {
     "allTime": {
       "count": 323,
-      "distance": 4630.352500000005,
-      "time": 1596668,
+      "distance": 4630.652500000005,
+      "time": 1596657,
       "elevation": 48308.10000000001
     },
     "thisYear": {
       "count": 213,
-      "distance": 3330.1992000000027,
-      "time": 1133657,
+      "distance": 3330.499200000002,
+      "time": 1133646,
       "elevation": 34162.10000000003
     },
     "thisMonth": {
       "count": 19,
-      "distance": 326.83140000000003,
-      "time": 110895,
+      "distance": 327.1314,
+      "time": 110884,
       "elevation": 2893.1
     },
     "thisWeek": {
       "count": 5,
-      "distance": 94.036,
-      "time": 30113,
+      "distance": 94.336,
+      "time": 30102,
       "elevation": 700
     }
   },
   "recentRuns": [
     {
       "id": 18536149622,
-      "name": "Morning Run",
+      "name": "Run Shellharbour PB another 10min in year 2026!",
       "date": "2026-05-16T21:00:59Z",
-      "distance": 42.43,
-      "time": 13252,
-      "pace": 312.2945353169488,
+      "distance": 42.73,
+      "time": 13241,
+      "pace": 309.84478510236505,
       "elevation": 171,
       "averageHeartRate": 170.4,
       "maxHeartRate": 199,
@@ -46,8 +46,8 @@
       "dateLocal": "2026-05-17T07:00:59Z",
       "timezone": "(GMT+10:00) Australia/Sydney",
       "elapsedTime": 13273,
-      "averageSpeed": 11.53,
-      "maxSpeed": 16.13,
+      "averageSpeed": 11.62,
+      "maxSpeed": 16.7,
       "elevationDetail": {
         "gain": 171,
         "loss": 0,
