@@ -1,32 +1,64 @@
 {
-  "lastUpdated": "2026-05-19T19:49:19.538Z",
+  "lastUpdated": "2026-05-20T03:23:46.850Z",
   "totals": {
     "allTime": {
-      "count": 323,
-      "distance": 4630.652500000005,
-      "time": 1596657,
-      "elevation": 48308.10000000001
+      "count": 324,
+      "distance": 4642.184900000005,
+      "time": 1600803,
+      "elevation": 48358.10000000001
     },
     "thisYear": {
-      "count": 212,
-      "distance": 3315.951800000002,
-      "time": 1128703,
-      "elevation": 33960.700000000026
+      "count": 213,
+      "distance": 3327.484200000002,
+      "time": 1132849,
+      "elevation": 34010.700000000026
     },
     "thisMonth": {
       "count": 18,
-      "distance": 284.2889,
-      "time": 96970,
-      "elevation": 2737.1
+      "distance": 283.74490000000003,
+      "time": 97161,
+      "elevation": 2662.1
     },
     "thisWeek": {
       "count": 3,
-      "distance": 68.5018,
-      "time": 21589,
-      "elevation": 415
+      "distance": 68.5072,
+      "time": 21986,
+      "elevation": 416
     }
   },
   "recentRuns": [
+    {
+      "id": 18575127359,
+      "name": "Morning Run",
+      "date": "2026-05-19T22:17:52Z",
+      "distance": 11.53,
+      "time": 4146,
+      "pace": 359.5088619888315,
+      "elevation": 50,
+      "averageHeartRate": 165.3,
+      "maxHeartRate": 182,
+      "calories": null,
+      "kudos": 0,
+      "map": {
+        "id": "a18575127359",
+        "summary_polyline": "zdxmEin{y[Pu@?_@I]i@a@y@OIOSKAMMMDICCFAGIDENq@X_@XMHSAIK]OWcAg@MCKYKK_@Fi@CKBQVOFOBIEUAu@ZuBIu@@QM@ICO?[g@q@}@{@]m@k@SYSM?OICBi@QoAJe@A[VY`@II?q@EGED@JMDmCCiADm@MSq@BwALcAZ_A?MqDCyAW_A[{@Om@Bg@PSE[SyAA[I[OK[?a@Rs@PYp@o@d@Kf@?kAj@GAKu@FgAEs@a@a@Wi@_@e@Qc@m@s@g@w@oBwFs@eA[QAKH_@IYq@m@}@e@kAaA[a@a@WUg@Kq@OYu@{@cAgBWWeCcAkAy@_CsBa@Q{@SmCkA_@a@kBeE[Uw@M_@DcAf@UAIJULgAJkB?iB]M@KDY`@Cf@OX?L^RfCB`@Jr@^zA@`@N^Z`@R~C`@r@Tb@j@XRDf@MpCRr@VxA?hACh@OdAQd@]n@{@z@UJBJg@NmARoAEwDs@eACkADoAj@kAv@g@r@i@hAq@bAUPiAZe@@gDu@a@Wq@Ou@pAKx@BxAFPZH~@FpFfAj@RXRj@n@P`@Lh@Xn@PPf@HnCJpBZfBH`@RP\\J\\Ln@Dz@MrAK\\AfABRG~@?`@Kl@Ar@Eb@IHQJw@H}@EUI]BaCMKFCZEHQD]Ow@GkAAiEq@qBjAy@^o@Ly@Hu@e@As@L}A?Ka@sAQOWCsAp@U`@gA\\u@`@OVUz@W\\c@z@[lAGLMD?r@CJB@rAVn@DnAXh@@j@VZf@j@n@f@x@ZZ`BfCRTj@bAr@hBNfABdAJv@@XEh@]jAo@|@e@`AWhABf@i@h@i@~@_@TKRARJf@?TG`@@XT`@ZJnBJjASr@Aj@Hp@f@XD\\?h@SXCJKPc@d@i@Pk@E[Wi@Kc@Dg@P_@l@e@RGXD\\^ZH^\\t@bFV^THrCSrDOz@QNERSVEp@E`ADPIRW\\S\\KnAn@J@hAIpBo@bAIjB?dANpAStCKx@MpCEx@MhBGTBZRx@XXB\\NTON[R_B\\oA\\QfAHR\\RPzAFfAXzC^p@N^Bf@LNJN?NFDJXdAFj@TXFDb@EPDJFT\\TLtDaAfASx@[nBe@nAc@x@KlAk@rAAlCw@"
+      },
+      "dateLocal": "2026-05-20T08:17:52Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 4175,
+      "averageSpeed": 10.02,
+      "maxSpeed": 20.52,
+      "elevationDetail": {
+        "gain": 50,
+        "loss": 0,
+        "high": 33,
+        "low": 1
+      },
+      "performance": {
+        "averageCadence": 96.6,
+        "sufferScore": 138
+      }
+    },
     {
       "id": 18536149622,
       "name": "Run Shellharbour PB another 10min in year 2026!",
