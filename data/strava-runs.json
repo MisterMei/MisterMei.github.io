@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24T03:25:40.369Z",
+  "lastUpdated": "2026-05-24T08:26:47.642Z",
   "totals": {
     "allTime": {
       "count": 327,
@@ -29,7 +29,7 @@
   "recentRuns": [
     {
       "id": 18627466931,
-      "name": "Morning Run",
+      "name": "Bayside run half PB",
       "date": "2026-05-23T21:20:06Z",
       "distance": 21.22,
       "time": 6397,
@@ -38,7 +38,7 @@
       "averageHeartRate": 183.4,
       "maxHeartRate": 192,
       "calories": null,
-      "kudos": 0,
+      "kudos": 1,
       "map": {
         "id": "a18627466931",
         "summary_polyline": "trnnEi`py[_@Um@qBQWu@e@u@GeIfAYT{B`@qH|@}IPiEU_ECYFi@n@uCI}K_Bq@q@qAY{@VsAQaC_AkBiB{@q@}H_A{@AoBc@_Gu@a@Qi@@sDu@aBIu@YwC]y@]sJcBOOQi@oCaAmALo@SUc@?k@S[gCq@q@PuDm@yEwCqBu@sD}@wFiBIEE]MIwLuD}HeDw@Rk@O{EwBc@i@YQ]BoBq@mAaAaGkDSYsD}ByDwCgKiJa@@YXc@t@u@IaAeB`@gBEa@_CuCa@SOUS_Bm@sAIaAgAs@y@qA[Q}@Hm@QcATSx@aBpCg@`Ck@rAIjAaArCQtAa@v@IzAcAdD?v@XrBl@|A^n@`Ax@`I`P`@l@rAfAPt@\\j@\\P|AfBtBrCl@{F\\iF_AfLC~@SMeB_CyA}As@i@i@yA[a@cA}@sIsPs@o@s@kAu@qBQoBhAgFCOHe@d@}@RsAx@gCTkBZu@l@kCdCqEt@Sr@R`AI\\T|@rA~@t@J|@d@`A`@~Bt@h@vBnCBTK|@Ul@t@|ANJl@?z@oAf@?vHdHvFnE~GvEvFnDlBz@v@Bj@j@vFbC\\Dn@Q~KrEjCl@dE|ALL@TXJhIlCfDx@tAn@bDtBvDp@t@W|Al@d@BZ^Gh@HV\\XXJvAQpC`AJl@f@TfDr@nBPfATj@ZpBLdBh@zCZrBf@h@Ev@XlIrAzH^|@b@Z@vCnClClArANn@YjAV^j@NH~OdB^@d@m@d@MdLXdCQtECrJqAp@_@xG_AhAAp@Pv@p@Nr@h@^fBzBzAnCvCvGFh@IjABPNFt@YNTFd@Cf@eBzICh@QPJ`@n@XrDnCpHjDpDv@v@E|@LxBp@v@EzCh@|@TX`@b@vAVfBv@|Al@lF?nBt@xBNp@NfAlAzDp@tIJjD|@hDDbA^fCB~@Vh@pB^ZTFt@]`Am@Fd@IVWHy@EYm@a@{AY]k@EcA_@yBKcBs@kC_AmOqAgEMiA}@uCI{@B{@g@{ESm@m@cA_@gC[aAe@[kD_@MO{@@{Dy@o@DwD{@uHiDgFiDS_@Tc@R_Bx@kD\\mDEYMIaA`@_ABSTm@lBEf@L|CNj@^f@c@i@Qg@OcDl@aC`@g@"
