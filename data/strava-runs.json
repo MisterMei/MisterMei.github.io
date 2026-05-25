@@ -1,32 +1,64 @@
 {
-  "lastUpdated": "2026-05-24T19:13:55.489Z",
+  "lastUpdated": "2026-05-25T03:37:01.899Z",
   "totals": {
     "allTime": {
-      "count": 327,
-      "distance": 4680.916200000004,
-      "time": 1613589,
-      "elevation": 48541.100000000006
+      "count": 328,
+      "distance": 4690.943200000004,
+      "time": 1617410,
+      "elevation": 48574.100000000006
     },
     "thisYear": {
-      "count": 214,
-      "distance": 3330.214000000002,
-      "time": 1132887,
-      "elevation": 33727.400000000016
+      "count": 215,
+      "distance": 3340.2410000000023,
+      "time": 1136708,
+      "elevation": 33760.400000000016
     },
     "thisMonth": {
-      "count": 18,
-      "distance": 289.1526,
-      "time": 98919,
-      "elevation": 2606.1
+      "count": 19,
+      "distance": 299.1796,
+      "time": 102740,
+      "elevation": 2639.1
     },
     "thisWeek": {
-      "count": 4,
-      "distance": 50.2637,
-      "time": 16932,
-      "elevation": 233
+      "count": 5,
+      "distance": 60.2907,
+      "time": 20753,
+      "elevation": 266
     }
   },
   "recentRuns": [
+    {
+      "id": 18641590234,
+      "name": "Morning Run",
+      "date": "2026-05-24T22:57:35Z",
+      "distance": 10.03,
+      "time": 3821,
+      "pace": 381.0711080083774,
+      "elevation": 33,
+      "averageHeartRate": 147.3,
+      "maxHeartRate": 165,
+      "calories": null,
+      "kudos": 0,
+      "map": {
+        "id": "a18641590234",
+        "summary_polyline": "xtumEew}y[GEMYYiAW]e@i@y@}AUYy@c@yAe@cAq@k@m@wAiAgCy@o@_@]K_@Uq@_AqAcDGKQMc@Ko@AWHm@^]@INOHqBTyAKg@Q{@IODOTGZATIRQJKEACBE^D@BOJ?JFFXLX@fBC\\Ft@b@xA?b@Lj@b@b@V|BVpA\\r@r@HVBl@MvBVx@Lr@Db@?lAGv@G`@M`@k@pAa@^o@b@m@TaANi@?qF}@aA?k@Bk@L_@RuA`A]\\_@|@a@p@k@p@_@TqATW?g@KM@gBa@g@[k@MSRo@ROVOv@Ab@Jj@LRCTLPlB`@z@Fl@LXFPLZJjB\\VTVd@T|@Tj@JNd@Rp@JhDEb@JxAJdATTXXr@Jf@@t@Ej@K^E\\IfBFJMjA@NMnAAh@KNML{@JoAKm@S_@ASGs@Ga@]I?WJMAq@H]NM?[NSA]L]@w@Cw@OiAIQDEHCRKJcBz@uALa@YEIAa@FqBWoAEOMIMGW?SH_Al@Q^aAXo@Z_@h@Sp@_A|A]nAQLEr@BPHAr@R~@HbBZV?n@RJH`@f@r@nAh@j@r@hA\\r@dArAl@pAD^JZJtB?r@Bj@E^S~@[l@w@pBQx@?JBRAHk@r@[h@m@b@GLAJBXH\\Gl@?LDXPT^Lb@?d@JR?j@Ep@MjA@VFd@b@VFf@Ad@OXEJIXm@\\YJQDO@[a@{A@_@DQNY`@[`@MLDb@`@`@LX\\h@vEHRPNZHjG_@jACn@Ir@YRB`@Gr@OVCLIT]r@El@J`@VF@l@Kn@Sp@KnDOpAJj@?h@IfAE|@Mz@A~ASpAApCS~@D|Bt@\\Sj@qCJ_@HUTOhAJHF@HFLZHvDj@l@NxAN|@V|@BVFJHJXDXA^HR^V\\ARFRZRPJXFDf@KV[LEl@CTGrBYjBg@bASlBk@f@Er@UDKLKdBMh@Kd@[hAQb@U~Aa@NKf@Q|AOPDD?^Kn@G@AKMCIAIDEp@AjAWJIRe@h@a@PUX?r@Kd@H`@KZ_@HOBK@QCGEq@CU_@_@OWOMe@s@QO]g@i@i@AGFSZi@@OLABDCh@EHIGEQLQ@IECCFDPHHGBCG@OAEKIMCCGHCBPEH@r@FHH?EQGIKLCHGBIPHQGE"
+      },
+      "dateLocal": "2026-05-25T08:57:35Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 3833,
+      "averageSpeed": 9.45,
+      "maxSpeed": 21.17,
+      "elevationDetail": {
+        "gain": 33,
+        "loss": 0,
+        "high": 23,
+        "low": 0
+      },
+      "performance": {
+        "averageCadence": 96.7,
+        "sufferScore": 52
+      }
+    },
     {
       "id": 18627466931,
       "name": "Bayside run half PB",
