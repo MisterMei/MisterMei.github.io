@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-06T13:27:32.822Z",
+  "lastUpdated": "2026-06-07T03:40:47.691Z",
   "totals": {
     "allTime": {
       "count": 333,
@@ -8,16 +8,16 @@
       "elevation": 49669.100000000006
     },
     "thisYear": {
-      "count": 211,
-      "distance": 3275.8407000000025,
-      "time": 1114941,
-      "elevation": 33499.10000000002
+      "count": 210,
+      "distance": 3233.5164000000022,
+      "time": 1100554,
+      "elevation": 33342.30000000002
     },
     "thisMonth": {
-      "count": 17,
-      "distance": 280.1366,
-      "time": 93070,
-      "elevation": 2382
+      "count": 16,
+      "distance": 264.1103,
+      "time": 87689,
+      "elevation": 2303
     },
     "thisWeek": {
       "count": 2,
@@ -199,6 +199,11 @@
       "performance": {
         "averageCadence": 95.9,
         "sufferScore": 135
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 1,
+        "prCount": 1
       }
     },
     {
@@ -427,6 +432,11 @@
       "performance": {
         "averageCadence": 98.5,
         "sufferScore": 196
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 1,
+        "prCount": 1
       }
     },
     {
@@ -2145,6 +2155,11 @@
       "performance": {
         "averageCadence": 96.5,
         "sufferScore": 208
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 1,
+        "prCount": 0
       }
     },
     {
@@ -2277,6 +2292,11 @@
       "performance": {
         "averageCadence": 97.9,
         "sufferScore": 168
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 1,
+        "prCount": 0
       }
     },
     {
@@ -2572,8 +2592,8 @@
       },
       "social": {
         "comments": 0,
-        "achievements": 8,
-        "prCount": 3
+        "achievements": 9,
+        "prCount": 4
       }
     },
     {
@@ -2678,7 +2698,7 @@
       },
       "social": {
         "comments": 0,
-        "achievements": 2,
+        "achievements": 3,
         "prCount": 1
       }
     },
@@ -2715,8 +2735,8 @@
       },
       "social": {
         "comments": 0,
-        "achievements": 5,
-        "prCount": 0
+        "achievements": 6,
+        "prCount": 1
       }
     },
     {
@@ -2881,6 +2901,11 @@
       "performance": {
         "averageCadence": 97.7,
         "sufferScore": 80
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 1,
+        "prCount": 0
       }
     },
     {
@@ -2945,6 +2970,11 @@
       "performance": {
         "averageCadence": 97.9,
         "sufferScore": 103
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 1,
+        "prCount": 0
       }
     },
     {
@@ -3590,8 +3620,8 @@
       },
       "social": {
         "comments": 0,
-        "achievements": 16,
-        "prCount": 12
+        "achievements": 17,
+        "prCount": 13
       }
     },
     {
@@ -4329,6 +4359,11 @@
       },
       "performance": {
         "sufferScore": 78
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 1,
+        "prCount": 0
       }
     },
     {
@@ -5098,6 +5133,11 @@
       },
       "performance": {
         "sufferScore": 107
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 1,
+        "prCount": 0
       }
     },
     {
@@ -5419,7 +5459,7 @@
       },
       "social": {
         "comments": 0,
-        "achievements": 4,
+        "achievements": 5,
         "prCount": 0
       }
     },
@@ -5488,6 +5528,11 @@
       },
       "performance": {
         "sufferScore": 62
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 1,
+        "prCount": 0
       }
     },
     {
@@ -5558,7 +5603,7 @@
       },
       "social": {
         "comments": 0,
-        "achievements": 4,
+        "achievements": 5,
         "prCount": 0
       }
     },
@@ -5707,7 +5752,7 @@
       },
       "social": {
         "comments": 0,
-        "achievements": 7,
+        "achievements": 8,
         "prCount": 2
       }
     },
@@ -5749,7 +5794,7 @@
       },
       "social": {
         "comments": 0,
-        "achievements": 14,
+        "achievements": 15,
         "prCount": 5
       }
     },
@@ -6801,7 +6846,7 @@
       },
       "social": {
         "comments": 0,
-        "achievements": 7,
+        "achievements": 8,
         "prCount": 4
       }
     },
