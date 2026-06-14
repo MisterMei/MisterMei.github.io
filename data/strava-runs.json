@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T13:58:16.069Z",
+  "lastUpdated": "2026-06-14T19:23:05.381Z",
   "totals": {
     "allTime": {
       "count": 338,
@@ -2166,6 +2166,11 @@
       "performance": {
         "averageCadence": 96.9,
         "sufferScore": 431
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 1,
+        "prCount": 0
       }
     },
     {
@@ -2204,6 +2209,11 @@
         "description": null,
         "commute": false,
         "trainer": false
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 1,
+        "prCount": 0
       }
     },
     {
@@ -2785,7 +2795,7 @@
       },
       "social": {
         "comments": 0,
-        "achievements": 9,
+        "achievements": 10,
         "prCount": 4
       }
     },
@@ -4588,8 +4598,8 @@
       },
       "social": {
         "comments": 0,
-        "achievements": 3,
-        "prCount": 1
+        "achievements": 4,
+        "prCount": 2
       }
     },
     {
@@ -5172,7 +5182,7 @@
       },
       "social": {
         "comments": 0,
-        "achievements": 1,
+        "achievements": 2,
         "prCount": 0
       }
     },
@@ -5867,8 +5877,8 @@
       },
       "social": {
         "comments": 0,
-        "achievements": 21,
-        "prCount": 10
+        "achievements": 22,
+        "prCount": 11
       }
     },
     {
