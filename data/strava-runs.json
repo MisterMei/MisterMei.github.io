@@ -1,32 +1,69 @@
 {
-  "lastUpdated": "2026-06-14T19:23:05.381Z",
+  "lastUpdated": "2026-06-15T04:03:45.055Z",
   "totals": {
     "allTime": {
-      "count": 338,
-      "distance": 4854.560000000006,
-      "time": 1673987,
-      "elevation": 50273.100000000006
+      "count": 339,
+      "distance": 4866.697600000006,
+      "time": 1678153,
+      "elevation": 50399.10000000001
     },
     "thisYear": {
-      "count": 212,
-      "distance": 3271.453200000002,
-      "time": 1114652,
-      "elevation": 33649.800000000025
+      "count": 213,
+      "distance": 3283.590800000002,
+      "time": 1118818,
+      "elevation": 33775.80000000003
     },
     "thisMonth": {
       "count": 17,
-      "distance": 280.8823,
-      "time": 95170,
-      "elevation": 2331
+      "distance": 278.7794,
+      "time": 94737,
+      "elevation": 2262
     },
     "thisWeek": {
       "count": 5,
-      "distance": 80.2401,
-      "time": 28173,
-      "elevation": 604
+      "distance": 77.9973,
+      "time": 26462,
+      "elevation": 521
     }
   },
   "recentRuns": [
+    {
+      "id": 18922697190,
+      "name": "晨间跑步",
+      "date": "2026-06-14T20:11:10Z",
+      "distance": 12.14,
+      "time": 4166,
+      "pace": 343.2309517532296,
+      "elevation": 126,
+      "averageHeartRate": 168.1,
+      "maxHeartRate": 193,
+      "calories": null,
+      "kudos": 0,
+      "map": {
+        "id": "a18922697190",
+        "summary_polyline": "br|lEynsy[rARh@D`Cb@|@@bAN|@FZFZL@hJQlBA\\Kt@Ah@KbAGlAEJOFKAaAg@WSg@YUSSYQK_CcCYUUG_BQqBB}Dc@k@Ou@Gc@?wBa@a@Og@McAa@OCSAs@BWHYn@Ub@KHUFe@E_AScAH}@KUA{@Ss@GyAUqAMc@IUU[o@MKCUHYHM~@q@NQJQH[J_BDOB{@H_@LaCLeAAKCEOG_AIW@kBb@o@V_Al@e@f@_@VUT]PW\\o@h@mA|@e@d@i@`@e@XGJAJLZPVlCdFn@zADAXUFAHHDNGJSPAPb@v@Jd@Rp@v@`Al@jAHHd@dATZVn@NTHXDf@E|AMbD?^Dr@FZJZ^t@lAnB\\`@XVx@Vx@^n@`@\\`@TPzAhB`@b@z@fAb@d@nB`Bh@\\r@l@h@f@LHf@`@l@j@jAv@~@Xr@J|GNpAJbA\\hAV^Pb@Jj@RuF{A]GiAE_AKoBAcCIe@Gu@UcAw@OUoAaAs@o@QM]Y[SQQ}@g@[_@OK_@]_@k@eAkAk@y@]_@MU]_@u@i@w@_@MIm@QYMq@m@i@}@w@_BSo@Mw@AY@{@B}@Do@?kADq@E]GWIk@QUOa@UUUg@QMw@qAaAsBq@cBe@y@m@qAQYu@aBmA}B_@_Ac@u@q@yA[k@]u@EUWc@KUW]i@gAgAaBmA_BiAcBe@g@oAmBa@i@OMOYOMcBeCw@gA{@}@e@[o@_@]MaAU]Ei@O[KEIIEqAQ{Bo@_@EmCs@aASu@Uu@Mg@Ci@I_AYiAU]OkB_@i@Qa@Em@UsA]q@KsBo@gB_@uDcA{Bg@q@YSEc@QqBk@mB[_APq@BDBfB[tAR`Dz@lAd@p@LnBj@x@NzBj@l@JdAXh@VnE`Ad@LFF`ANhBh@bDv@`@?f@D`Cb@fCt@hGzAFFbAZrAVnAb@lAz@Z\\l@z@HF`CjD|ApBp@fAnA`B^b@xCjEV^Zt@NPBLXd@b@nAJL~A~CF?n@k@RWpA_A^a@j@[l@a@hA_AnA{@fAk@t@Yj@Mt@G`@Ax@DCJ@TP`@FFD?NSDAVA~@Ft@Jr@Fn@JzBRl@Hr@\\NFT@l@TlBXXB\\CZN"
+      },
+      "dateLocal": "2026-06-15T06:11:10Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 4169,
+      "averageSpeed": 10.49,
+      "maxSpeed": 15.7,
+      "elevationDetail": {
+        "gain": 126,
+        "loss": 0,
+        "high": 175,
+        "low": 131
+      },
+      "performance": {
+        "averageCadence": 97.2,
+        "sufferScore": 161
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 1,
+        "prCount": 1
+      }
+    },
     {
       "id": 18909945453,
       "name": "Bay2bay run, missed a turn. Things can go wrong, just take it as a recovery lsd and be 😃",
