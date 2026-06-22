@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T19:26:34.859Z",
+  "lastUpdated": "2026-06-22T04:00:20.345Z",
   "totals": {
     "allTime": {
       "count": 344,
@@ -20,10 +20,10 @@
       "elevation": 2752
     },
     "thisWeek": {
-      "count": 6,
-      "distance": 88.2726,
-      "time": 30374,
-      "elevation": 903
+      "count": 5,
+      "distance": 76.13499999999999,
+      "time": 26208,
+      "elevation": 777
     }
   },
   "recentRuns": [
@@ -135,7 +135,7 @@
     },
     {
       "id": 18949486640,
-      "name": "晨间跑步",
+      "name": "晨间��步",
       "date": "2026-06-16T20:02:19Z",
       "distance": 12.1,
       "time": 4061,
