@@ -1,32 +1,70 @@
 {
-  "lastUpdated": "2026-07-01T03:36:57.380Z",
+  "lastUpdated": "2026-07-01T09:41:04.641Z",
   "totals": {
     "allTime": {
-      "count": 348,
-      "distance": 4986.0580000000045,
-      "time": 1718573,
-      "elevation": 51492.100000000006
+      "count": 349,
+      "distance": 4998.159200000005,
+      "time": 1722698,
+      "elevation": 51622.100000000006
     },
     "thisYear": {
-      "count": 210,
-      "distance": 3234.2601000000013,
-      "time": 1104607,
-      "elevation": 33637.400000000016
+      "count": 211,
+      "distance": 3246.3613000000014,
+      "time": 1108732,
+      "elevation": 33767.400000000016
     },
     "thisMonth": {
-      "count": 16,
-      "distance": 223.89359999999996,
-      "time": 77072,
-      "elevation": 1895
+      "count": 17,
+      "distance": 235.99479999999997,
+      "time": 81197,
+      "elevation": 2025
     },
     "thisWeek": {
-      "count": 3,
-      "distance": 32.1938,
-      "time": 10651,
-      "elevation": 265
+      "count": 4,
+      "distance": 44.295,
+      "time": 14776,
+      "elevation": 395
     }
   },
   "recentRuns": [
+    {
+      "id": 19129447603,
+      "name": "晨间跑步",
+      "date": "2026-06-30T20:12:59Z",
+      "distance": 12.1,
+      "time": 4125,
+      "pace": 340.87528509569296,
+      "elevation": 130,
+      "averageHeartRate": 169.7,
+      "maxHeartRate": 190,
+      "calories": null,
+      "kudos": 0,
+      "map": {
+        "id": "a19129447603",
+        "summary_polyline": "br|lEwnsy[j@Bx@NLAPB^HT@ZHrBTLF|@Lb@BND^Bp@RDJADMtACbASxBOpC]fECdACRMNKBIAoAm@u@e@c@k@o@g@}BcCOEyBO[A]BsA?c@Mi@GoB[sAGQGQAuA]]AaASMQo@W[Ai@D[HC@M`@Q^QPWLoBWUDy@@q@MUAs@Oi@E[Go@Ic@K}@K]CSGKIe@{@KGEK?UBIVU`Au@NUHSf@eGNkCDSCKIGq@E]?a@B[Lo@Lw@Xm@d@SHi@j@[TWXs@f@]\\wAbAu@l@OPy@d@GFALBJV^Zr@bB~C\\z@d@`ATZ~@|BR\\VXlAjCRV|@hBLPJ`@@b@IdEEpAB~@Hd@^v@RZXj@h@v@f@f@tAt@r@Zj@ZbAdAjCbDV^\\^^VTV\\Xl@f@PHZZh@^`@^FHZPpAhAt@d@~@\\t@Jl@@bAHlA@z@Fr@?h@DVFL@dCp@lBp@gDcAm@Om@IIEy@IcAE}@AsDMq@Ko@QmAy@[_@g@a@CQI@SGg@g@mAaAmBqAUSUYMMMSWWo@aAgAkAy@eAWU_@U_Ae@s@SWQm@g@_BmCUq@Ia@Ei@Ag@HiFDa@C]Ic@e@aAc@u@Qa@KKu@qAQe@q@oAOg@]s@?KZ[@ECKKIWTE@C?KMkBkDM]_@s@Wa@eD{GOWWk@I_@Yg@GOU]i@iAm@eAsA_B_@q@{AiBiBmCSWIGGMg@o@Yg@o@{@QQ_AuAg@k@]W_Bs@kBo@i@KMGaBYYKkEiAi@QQCw@Qk@SoAOg@EwBg@aB[sAa@i@Ii@QSCqCs@o@UsBe@u@UmBc@cBe@c@I_Cs@sA[gBg@_BW}@LS?_@F?B@?LEh@Gp@OhANrAZf@Px@PhA^tBh@r@T`B\\hIxBd@Hb@NhAVHFL?`@HhFtAn@Lf@@lAPp@L`Bf@rFpAXL`@FRHXBRHhCp@|@Zl@\\l@b@t@z@Xd@nCrDJRFFxFvHb@r@zAtBv@~APPXh@`@pAPXv@dBHFh@PF?XGh@k@bBoA|AcAxAqAn@c@`Ag@b@MXOh@Od@G|@Cr@@JARMD?PFHJh@JrC\\lAR~Hz@`@JdALz@P"
+      },
+      "dateLocal": "2026-07-01T06:12:59Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 4134,
+      "averageSpeed": 10.56,
+      "maxSpeed": 16.85,
+      "elevationDetail": {
+        "gain": 130,
+        "loss": 0,
+        "high": 175,
+        "low": 132
+      },
+      "performance": {
+        "averageCadence": 97.3,
+        "sufferScore": 164
+      },
+      "workout": {
+        "workoutType": 0,
+        "description": null,
+        "commute": false,
+        "trainer": false
+      }
+    },
     {
       "id": 19116987713,
       "name": "晨间跑步",
@@ -38,7 +76,7 @@
       "averageHeartRate": 177,
       "maxHeartRate": 194,
       "calories": null,
-      "kudos": 0,
+      "kudos": 1,
       "map": {
         "id": "a19116987713",
         "summary_polyline": "fewmEso|y[SAOGkCgBOAKLIdAOrAGJI@GAAIF]E?Ah@CTC@Fa@@e@CD@f@CLi@U{AMy@KcBM_Da@c@?e@NK?KKUWGCcBKc@Qg@OIKAMN_A`@m@JGTELc@Lw@Ac@C_@OOYe@IWc@i@IYgA{AcA_Cg@_Bc@eAe@k@]WAEFS?GCSEKw@s@q@_@yAoAOSa@WQ[Kq@O_@_AgAUe@Yc@O_@KO[SyAi@sAo@mAgAa@c@_@Yg@SeAU_@OkAg@c@YUUGMOaBIe@Sg@k@}@WUQI[Io@?cGd@eCFUBi@A[NKN_@x@Sv@?THPJJ~BbAbANfAVvAb@rAb@`Ad@~@\\b@X|ArAX\\R^Xl@Nv@H`A@l@KfAKd@Sr@Yl@y@x@i@\\g@NaALk@Ak@GqCi@m@G{ABm@Jc@N}A|@SRSXSl@Ub@aApAWJy@Rs@B_AMUAqA[_@Yc@KI?WV]PMPQlAARTpAHJ\\Dd@LZ@r@JpAXbCp@t@b@NRVj@BLTj@PXPPt@PRBd@CxBJVBHDrB@ZDVR\\x@RbABr@AZMx@Cj@G^IpB@ZIp@GhAQXIFa@FqAAmBSgAAGBK\\GDKBUGcAGM@WEe@Aq@K[AkB[oAh@u@TcAf@[Hy@Fe@YGS?k@H}@ASUmAGOMQOGMAOB{@d@[^MJsAh@MJWHKHKRoA~CUz@EHMJCdADCfAPR@r@N~@Lt@Nf@TfAvA`@l@f@`AXXxArBf@x@b@lAR|A@t@JfBGp@KXc@p@u@hB]tAD\\AHk@l@_@r@k@\\GP@PHb@?\\EZ@ZHRPPXH^@b@FT@h@Gj@Mx@Ar@JHDVX`@Np@GXMXGJKTi@b@a@L]?_@a@qAAMBUJWb@e@VONCJ@NHLPNF^FLJHTDPLvAXtBLPJJPF`BA\\Id@AbBOvAEZGPKVCJId@I~@M^AVKLORMHCf@G\\?`@Ll@Dx@KfBM|BET@`@E|@BhAE~@Id@?f@Ez@@`@IhBId@@TGj@AREr@A^@bAZf@HXR\\ODGVsAd@_BPY^E^@NBd@ZNLh@T|ANzB^~@Fr@Nn@DJDXT\\d@N~ADAHI^CPLl@t@|A?h@KPIrCk@xBq@|Bc@b@MHEREfAk@nAEn@KhAi@|@Sh@SFGB["
@@ -75,7 +113,7 @@
       "averageHeartRate": 169.4,
       "maxHeartRate": 180,
       "calories": null,
-      "kudos": 0,
+      "kudos": 1,
       "map": {
         "id": "a19067301695",
         "summary_polyline": "rr|lEonsy[~@LhBHRFfAPp@DVFt@Hz@F|@VNL?XE^K~BS~AMhC]dEEnBAFIHE@OCmAq@_Am@[c@m@c@sBsBOUMGUC{AM_@ASDY?k@CWCUIoAOs@Ca@MwAC_AS}DeAu@Ks@BUDGFM`@S`@WVSB_BUI?o@D[C[EWI]AQIUEU?_@EwAUy@I}@MYWUc@WWC_@JQTO~@s@LQHQD_@PuCHq@L}BL_AAMOI{@Ei@BgAXWDe@R}@f@cB~A]PkD|Cq@f@m@\\IJCRP^NRtAlCbBlDV`@bAhCNVVVfA|Br@lAd@dAPPH`ASvGF~@Nl@N`@n@dALX^h@x@r@XNDFhA^^P\\VnBvB\\f@pAzAFNb@`@VPvAlAPJnAfAxBbBTTt@l@t@Z`AP~ADb@DdA?hAF\\?p@FlAV|@XXD`@Nl@N\\L@B[EgA]uA]}@Yy@Ke@A]EqGOw@Me@SiAy@o@o@i@_@kBcB_@WmAcAg@YKMUSW_@w@w@w@gAc@e@IOq@w@s@c@_@OWQe@OQMICs@i@k@_Ay@{ASq@Ko@Cq@?aAPmEEg@Og@CUCIMMQe@UUQ_@QO]g@k@gAi@w@g@kAU}@qBwD_C{EAM@@FKd@]POo@b@GP@VGK?MFINKKFGLAF@JEEFUKBECU_@{@eBq@gAUm@GYg@iAMOoBgD[]eCoDgAqAcA{AY[We@EQ]W}@oAgAaBaAcAy@c@w@[uCs@MI@EIKI@MF{@Sk@QaCk@o@SgAWOG_ASSII?w@KSI[?eBUeCu@u@OeA_@qA[SC]Mu@OYImCk@oAc@qEgAkA[e@ImAe@s@MoAa@s@Ma@KOAw@Ne@@QDRGXAbAS`@JTBx@N`AZtAZv@XlBd@|Ad@hGvAnA`@jB`@f@PVBd@Pl@HbD~@hAVv@NV?hAL|@TrA^ZFrBf@jBd@VJ|@Rd@RpAV|@VzAh@r@h@d@f@`B~BdArAb@t@lHtJv@lALLfAvBNPJPRb@L`@^`A~AvCz@k@RY^Yz@u@z@i@XU^WdBsAr@c@TOfAg@ZKbAOl@C~@DJCNMD?JBTPf@DXHjBPxVbD"
