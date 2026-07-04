@@ -1,32 +1,64 @@
 {
-  "lastUpdated": "2026-07-04T02:40:58.452Z",
+  "lastUpdated": "2026-07-04T08:33:21.062Z",
   "totals": {
     "allTime": {
-      "count": 350,
-      "distance": 5011.2059000000045,
-      "time": 1727085,
-      "elevation": 51770.100000000006
+      "count": 351,
+      "distance": 5015.291300000004,
+      "time": 1728494,
+      "elevation": 51778.100000000006
     },
     "thisYear": {
-      "count": 210,
-      "distance": 3208.9243000000015,
-      "time": 1096596,
-      "elevation": 33668.30000000002
+      "count": 211,
+      "distance": 3213.0097000000014,
+      "time": 1098005,
+      "elevation": 33676.30000000002
     },
     "thisMonth": {
-      "count": 17,
-      "distance": 236.88599999999997,
-      "time": 81271,
-      "elevation": 2101
+      "count": 18,
+      "distance": 240.9714,
+      "time": 82680,
+      "elevation": 2109
     },
     "thisWeek": {
-      "count": 3,
-      "distance": 35.7541,
-      "time": 12028,
-      "elevation": 300
+      "count": 4,
+      "distance": 39.8395,
+      "time": 13437,
+      "elevation": 308
     }
   },
   "recentRuns": [
+    {
+      "id": 19171591211,
+      "name": "午后跑步",
+      "date": "2026-07-04T06:19:05Z",
+      "distance": 4.09,
+      "time": 1409,
+      "pace": 344.88666960395557,
+      "elevation": 8,
+      "averageHeartRate": 165.7,
+      "maxHeartRate": 191,
+      "calories": null,
+      "kudos": 0,
+      "map": {
+        "id": "a19171591211",
+        "summary_polyline": "jssjDa}ug\\KHk@Vu@`@SDYEK@KFWd@aA`@a@RO?OQSBEEKS[_AU_@]gAOBg@VGF_@LQNKBCHBDAC?BCMFAIBJGGH@CECa@{@Ke@Ue@OAKEMFC?OWOe@G?QDKGo@k@_@MCG?EFMTUr@i@nAu@|@a@hBcA~DaDPMNEVOb@_@j@o@JQ\\[V_@POHMj@c@zBaCrAmAlAoAf@_@tAy@n@e@r@c@f@i@f@o@Zg@|@iCfAmCj@aAf@eAv@oCbAaFLSNULEBGA?@?@DUVSd@K^Ip@m@~AG\\C^Q^[rAWf@Uj@_@l@_A|BYfAg@nAUd@g@t@aAz@_@`@eAv@UTmAz@g@X{@p@{A|AgBxAe@l@[XY`@i@^SZ_An@g@d@_@RW\\[TIB]Re@Lg@p@UH"
+      },
+      "dateLocal": "2026-07-04T16:19:05Z",
+      "timezone": "(GMT+10:00) Australia/Brisbane",
+      "elapsedTime": 1490,
+      "averageSpeed": 10.44,
+      "maxSpeed": 14.4,
+      "elevationDetail": {
+        "gain": 8,
+        "loss": 0,
+        "high": 8,
+        "low": 0
+      },
+      "performance": {
+        "averageCadence": 92.3,
+        "sufferScore": 49
+      }
+    },
     {
       "id": 19143856070,
       "name": "晨间跑步",
