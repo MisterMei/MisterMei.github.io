@@ -1,32 +1,69 @@
 {
-  "lastUpdated": "2026-07-07T02:52:43.361Z",
+  "lastUpdated": "2026-07-07T09:36:39.508Z",
   "totals": {
     "allTime": {
-      "count": 353,
-      "distance": 5058.340200000005,
-      "time": 1742832,
-      "elevation": 51871.10000000001
+      "count": 354,
+      "distance": 5063.879600000005,
+      "time": 1744871,
+      "elevation": 51914.10000000001
     },
     "thisYear": {
-      "count": 213,
-      "distance": 3256.058600000002,
-      "time": 1112343,
-      "elevation": 33769.300000000025
+      "count": 214,
+      "distance": 3261.598000000002,
+      "time": 1114382,
+      "elevation": 33812.300000000025
     },
     "thisMonth": {
-      "count": 20,
-      "distance": 284.0203,
-      "time": 97018,
-      "elevation": 2202
+      "count": 21,
+      "distance": 289.5597,
+      "time": 99057,
+      "elevation": 2245
     },
     "thisWeek": {
-      "count": 5,
-      "distance": 72.2822,
-      "time": 24259,
-      "elevation": 379
+      "count": 6,
+      "distance": 77.82160000000002,
+      "time": 26298,
+      "elevation": 422
     }
   },
   "recentRuns": [
+    {
+      "id": 19207835625,
+      "name": "晨间跑步",
+      "date": "2026-07-06T23:28:24Z",
+      "distance": 5.54,
+      "time": 2039,
+      "pace": 368.09040690327475,
+      "elevation": 43,
+      "averageHeartRate": 158.4,
+      "maxHeartRate": 173,
+      "calories": null,
+      "kudos": 0,
+      "map": {
+        "id": "a19207835625",
+        "summary_polyline": "zxwmEq|{y[k@]q@Ca@Bc@IMMIAOQUGEGG@CIO@?FMAFDR@FEHSDKBg@Ak@Qs@GIEQECEDCEQ_BS{@MYACS?ECUu@YWMG_@IiAKkF}Aw@o@EAI@IPGfAK|@CNMHy@CKAKEy@CWEu@?yAWi@Ei@MoBIGGIOOe@SsCIKs@Ak@Tg@d@EFO`@Ov@M@WKEK?QB]DOFMNOR]^_@NsACq@_@{@W]CIOOSc@a@e@m@}@y@oB]oAg@iAa@q@_@YEIJa@KUa@]QUMISIWU{@q@k@o@]QSWKk@Si@GMa@a@Y]u@_BSUm@_@uAg@gAo@a@YqAsAYSk@UcBc@y@]YSGAa@a@Sa@e@gAMOc@mAOQKGa@IUCS@QD_Ab@U@INWLWDi@Bc@H}AIOCYOy@GSHEFM`@En@ORC?MI[KESFe@CEOj@?HBPNPnAt@hAX`ALnAZn@TdAX`Bl@pAt@LBh@h@b@ZLLh@t@N\\Tp@H`@Fj@B^?lAQhA[`AWb@u@p@aAf@[Hk@HkAAYCs@OYCWIQAYGyAIaADkA`@iAn@WT]h@a@~@aAvASLARQt@M^E`@LxANt@x@zARtANXNJL@\\Jz@FR?f@G^At@Hp@@b@Nx@@NEd@@b@NHHLTT~@BN"
+      },
+      "dateLocal": "2026-07-07T09:28:24Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 2059,
+      "averageSpeed": 9.78,
+      "maxSpeed": 24.12,
+      "elevationDetail": {
+        "gain": 43,
+        "loss": 0,
+        "high": 39,
+        "low": 5
+      },
+      "performance": {
+        "averageCadence": 98.1,
+        "sufferScore": 54
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 1,
+        "prCount": 1
+      }
+    },
     {
       "id": 19183023789,
       "name": "6th Run 2026: Gold Coast marathon, cramps hit again, but finished safely.",
