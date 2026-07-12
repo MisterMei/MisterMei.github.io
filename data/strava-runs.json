@@ -1,32 +1,68 @@
 {
-  "lastUpdated": "2026-07-11T18:59:06.463Z",
+  "lastUpdated": "2026-07-12T02:32:28.521Z",
   "totals": {
     "allTime": {
-      "count": 356,
-      "distance": 5088.127200000004,
-      "time": 1752928,
-      "elevation": 52160.10000000001
+      "count": 357,
+      "distance": 5109.376800000005,
+      "time": 1759603,
+      "elevation": 52289.10000000001
     },
     "thisYear": {
-      "count": 214,
-      "distance": 3257.1880000000015,
-      "time": 1113141,
-      "elevation": 33656.200000000026
+      "count": 215,
+      "distance": 3278.4376000000016,
+      "time": 1119816,
+      "elevation": 33785.200000000026
     },
     "thisMonth": {
-      "count": 20,
-      "distance": 277.2827,
-      "time": 93587,
-      "elevation": 2115
+      "count": 21,
+      "distance": 298.53229999999996,
+      "time": 100262,
+      "elevation": 2244
     },
     "thisWeek": {
       "count": 4,
-      "distance": 72.3395,
-      "time": 24271,
-      "elevation": 380
+      "distance": 51.03659999999999,
+      "time": 16771,
+      "elevation": 418
     }
   },
   "recentRuns": [
+    {
+      "id": 19275223333,
+      "name": "Sri Chinmoy Dolls Point Half Marathon Run",
+      "date": "2026-07-11T22:07:15Z",
+      "distance": 21.25,
+      "time": 6675,
+      "pace": 314.12355997289364,
+      "elevation": 129,
+      "averageHeartRate": 178,
+      "maxHeartRate": 193,
+      "calories": null,
+      "kudos": 0,
+      "map": {
+        "id": "a19275223333",
+        "summary_polyline": "~_onEmkoy[?^c@bCeAlEGz@GFOEu@aA[aAO}B?m@t@}BVSb@GNQRwACYgCiGKMO?OTEVF`@d@pACCg@wAIq@BYZi@COwCmEqAqAW_@a@[s@Uo@?uEr@wNjBcGTiIWkCDsDEo@F_KaA{B_@pBZdK`A`KE|GT|GU|UaDn@Bt@ZdCjCtClEC^L\\fCrFJ`@@t@Gx@KPm@HWVs@hCLvCF`@Vh@d@j@Z|@x@b@`A|@lCbB|GvC|Cr@z@@jALpBj@\\@^GLR`@?tCb@b@d@b@tAXrBj@x@RbAd@vDCjABp@~@jCH^@f@~@tC\\pALtCb@|EFbCX~@`@|BDv@XnBFrAXf@nBZZRHP@TGd@Qh@MFc@@mAUaBHMGBMPM|@StBHbY|HvDrAf@`@X`@gBg@iABYO]}@@a@Lm@TYZCxBz@zBTBJUFwACwCk@_MgDoK{CcCw@UUUw@EmA[oBCeAe@wBUu@OyD_@iDSuDk@}Ai@eBMmAy@kCGs@By@m@qFK]g@_Am@}CSm@Y[o@QyBQ]SSFg@CyBm@eAMYH}Ds@oHgD{FyDKMUu@{@yAES?c@SsBD]p@yBRSj@IPQFiBMg@sAyCg@yAMAKFK^Dd@`@jAAFg@cAIo@Ai@\\s@AO}CsE{@y@w@cAy@_@u@?mVbD{FPeGOk@IiIBg@FwKgAiBYlD`@pIv@`E?zDG`AJ`FJnGQdVeD`AJ^RxBbC|CrEDJCX~BfF\\bA?vBKNk@JWRs@tBEb@RbDVp@l@r@Rn@pAv@fA`AvBtA`HxClDn@f@At@HtBj@f@DZCNL`D^j@RVb@d@`BNrAf@x@Tl@j@`FC~@Hz@z@hCF`A`AzCXjAXdEX~CFrCv@dDn@pGVf@xBb@PTFXAh@O`@URW@aBYuAJOEEILQfAYl@ChAJnVzG|FpBf@Xf@h@ADQC{Ac@iABWSY_A@]Pq@DKXMZDrBv@|BZ?HWD}AGsCe@a\\gJgAg@Qc@Gg@A_Aa@_C?k@WcBWq@Ke@MoD[_DUyDYgA{@_CGu@YwAe@iAI_AD{@k@gFYw@_@i@SsAk@{BOSc@QuCSYSWDe@EoCo@m@G[HyDu@iB_Ai@OoCmAeAu@mAo@sBaBYq@w@kAOc@ScDDa@d@wA"
+      },
+      "dateLocal": "2026-07-12T08:07:15Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "averageSpeed": 11.46,
+      "maxSpeed": 16.06,
+      "elevationDetail": {
+        "gain": 129,
+        "loss": 0,
+        "high": 27,
+        "low": -2
+      },
+      "performance": {
+        "averageCadence": 96.7,
+        "sufferScore": 365
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 21,
+        "prCount": 9
+      }
+    },
     {
       "id": 19261249569,
       "name": "晨间跑步",
