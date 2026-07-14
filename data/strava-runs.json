@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T19:20:15.884Z",
+  "lastUpdated": "2026-07-14T02:13:00.270Z",
   "totals": {
     "allTime": {
       "count": 357,
@@ -14,16 +14,16 @@
       "elevation": 33785.200000000026
     },
     "thisMonth": {
-      "count": 21,
-      "distance": 298.53229999999996,
-      "time": 100262,
-      "elevation": 2244
+      "count": 19,
+      "distance": 254.81679999999997,
+      "time": 85616,
+      "elevation": 2016
     },
     "thisWeek": {
-      "count": 4,
-      "distance": 51.03659999999999,
-      "time": 16771,
-      "elevation": 418
+      "count": 3,
+      "distance": 45.49719999999999,
+      "time": 14732,
+      "elevation": 375
     }
   },
   "recentRuns": [
