@@ -1,32 +1,69 @@
 {
-  "lastUpdated": "2026-07-14T07:59:24.405Z",
+  "lastUpdated": "2026-07-14T13:28:41.788Z",
   "totals": {
     "allTime": {
-      "count": 357,
-      "distance": 5109.376800000005,
-      "time": 1759603,
-      "elevation": 52289.10000000001
+      "count": 358,
+      "distance": 5119.472500000004,
+      "time": 1763034,
+      "elevation": 52378.10000000001
     },
     "thisYear": {
-      "count": 215,
-      "distance": 3278.4376000000016,
-      "time": 1119816,
-      "elevation": 33785.200000000026
+      "count": 216,
+      "distance": 3288.5333000000014,
+      "time": 1123247,
+      "elevation": 33874.200000000026
     },
     "thisMonth": {
-      "count": 19,
-      "distance": 254.81679999999997,
-      "time": 85616,
-      "elevation": 2016
+      "count": 20,
+      "distance": 264.91249999999997,
+      "time": 89047,
+      "elevation": 2105
     },
     "thisWeek": {
-      "count": 3,
-      "distance": 45.49719999999999,
-      "time": 14732,
-      "elevation": 375
+      "count": 4,
+      "distance": 55.5929,
+      "time": 18163,
+      "elevation": 464
     }
   },
   "recentRuns": [
+    {
+      "id": 19301026854,
+      "name": "晨间跑步",
+      "date": "2026-07-13T21:38:45Z",
+      "distance": 10.1,
+      "time": 3431,
+      "pace": 339.84765791376526,
+      "elevation": 89,
+      "averageHeartRate": 161.8,
+      "maxHeartRate": 171,
+      "calories": null,
+      "kudos": 0,
+      "map": {
+        "id": "a19301026854",
+        "summary_polyline": "ze{lEgtsy[LyACKGCe@Gs@E_@Dq@Ni@Pe@RoAx@sAnAUJMPm@n@qA~@aAz@w@f@GFCP?DXb@JXn@jATj@p@jAd@hA`@p@Pd@h@~@Nn@P\\TXHRTZl@lAv@tAb@~@JFDFBv@?dAOvCAnALdAZ~@j@`AFNXXXb@j@d@\\HHLb@Tz@\\`@Z^^zBlCX^xA~AjB~An@\\v@r@d@f@XPx@l@d@b@n@b@\\N^Jl@FdB@fFVlCl@zC~@{Bm@wBo@{@KEGo@Do@EwACuAGY@k@Ca@Iq@Us@a@{AuAQMKEm@o@{AgAUUOGqAeAkC_Dk@w@y@_Ag@c@}@g@o@So@[q@i@cBsCOc@Ou@E{@@_ABa@?]D_@?{@Ds@Ce@Kg@OSgA}Ba@k@{@eBs@oAm@}AsByDaEqIu@yAW_@Si@Ic@U]Q]SWo@kASe@oGwIq@cAg@k@Q[Y]a@o@]a@_@m@gAuAw@w@cAk@u@Yu@Q]O]GcBc@]Ea@OeB]uAc@a@EwAa@q@Iu@SwB[gBa@aCo@q@OwAc@a@GoA]uAa@e@GaAWo@MiBg@c@Iq@U{Bi@WKsA]sBo@m@M}@Me@Je@Ba@Fl@CbAUxAR`D|@pAd@~FvAv@NrCv@rAZXJrBb@l@NLHj@HfCt@fAV`ANXHl@@v@N\\J\\Fr@V\\Ff@PpEdARHn@LVB^P~Cz@l@TfAr@~@bAt@fAt@|@P\\PPd@r@Z\\Xd@lBfC\\h@vAbBbA|AZ^Vb@n@rADBVd@LXXdA~@`Bp@tAH?h@c@v@u@v@i@`EaD~AgAXOb@Mp@YbB[Z?t@FJCHGJAPDPJ^HdAJfFp@rBTv@Nz@Fb@J~@Jj@LzBZ"
+      },
+      "dateLocal": "2026-07-14T07:38:45Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "averageSpeed": 10.59,
+      "maxSpeed": 14.18,
+      "elevationDetail": {
+        "gain": 89,
+        "loss": 0,
+        "high": 175,
+        "low": 153
+      },
+      "performance": {
+        "averageCadence": 97.1,
+        "sufferScore": 101
+      },
+      "workout": {
+        "workoutType": 0,
+        "description": null,
+        "commute": false,
+        "trainer": false
+      }
+    },
     {
       "id": 19275223333,
       "name": "Sri Chinmoy Dolls Point Half Marathon Run",
@@ -38,7 +75,7 @@
       "averageHeartRate": 178,
       "maxHeartRate": 193,
       "calories": null,
-      "kudos": 0,
+      "kudos": 1,
       "map": {
         "id": "a19275223333",
         "summary_polyline": "~_onEmkoy[?^c@bCeAlEGz@GFOEu@aA[aAO}B?m@t@}BVSb@GNQRwACYgCiGKMO?OTEVF`@d@pACCg@wAIq@BYZi@COwCmEqAqAW_@a@[s@Uo@?uEr@wNjBcGTiIWkCDsDEo@F_KaA{B_@pBZdK`A`KE|GT|GU|UaDn@Bt@ZdCjCtClEC^L\\fCrFJ`@@t@Gx@KPm@HWVs@hCLvCF`@Vh@d@j@Z|@x@b@`A|@lCbB|GvC|Cr@z@@jALpBj@\\@^GLR`@?tCb@b@d@b@tAXrBj@x@RbAd@vDCjABp@~@jCH^@f@~@tC\\pALtCb@|EFbCX~@`@|BDv@XnBFrAXf@nBZZRHP@TGd@Qh@MFc@@mAUaBHMGBMPM|@StBHbY|HvDrAf@`@X`@gBg@iABYO]}@@a@Lm@TYZCxBz@zBTBJUFwACwCk@_MgDoK{CcCw@UUUw@EmA[oBCeAe@wBUu@OyD_@iDSuDk@}Ai@eBMmAy@kCGs@By@m@qFK]g@_Am@}CSm@Y[o@QyBQ]SSFg@CyBm@eAMYH}Ds@oHgD{FyDKMUu@{@yAES?c@SsBD]p@yBRSj@IPQFiBMg@sAyCg@yAMAKFK^Dd@`@jAAFg@cAIo@Ai@\\s@AO}CsE{@y@w@cAy@_@u@?mVbD{FPeGOk@IiIBg@FwKgAiBYlD`@pIv@`E?zDG`AJ`FJnGQdVeD`AJ^RxBbC|CrEDJCX~BfF\\bA?vBKNk@JWRs@tBEb@RbDVp@l@r@Rn@pAv@fA`AvBtA`HxClDn@f@At@HtBj@f@DZCNL`D^j@RVb@d@`BNrAf@x@Tl@j@`FC~@Hz@z@hCF`A`AzCXjAXdEX~CFrCv@dDn@pGVf@xBb@PTFXAh@O`@URW@aBYuAJOEEILQfAYl@ChAJnVzG|FpBf@Xf@h@ADQC{Ac@iABWSY_A@]Pq@DKXMZDrBv@|BZ?HWD}AGsCe@a\\gJgAg@Qc@Gg@A_Aa@_C?k@WcBWq@Ke@MoD[_DUyDYgA{@_CGu@YwAe@iAI_AD{@k@gFYw@_@i@SsAk@{BOSc@QuCSYSWDe@EoCo@m@G[HyDu@iB_Ai@OoCmAeAu@mAo@sBaBYq@w@kAOc@ScDDa@d@wA"
