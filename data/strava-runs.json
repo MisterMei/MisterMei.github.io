@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-19T02:29:18.132Z",
+  "lastUpdated": "2026-07-19T08:12:16.357Z",
   "totals": {
     "allTime": {
       "count": 360,
@@ -29,7 +29,7 @@
   "recentRuns": [
     {
       "id": 19370040978,
-      "name": "The 7th run in 2026, Winery run",
+      "name": "7th run in 2026, Winery run",
       "date": "2026-07-18T20:34:53Z",
       "distance": 42.13,
       "time": 15661,
@@ -38,7 +38,7 @@
       "averageHeartRate": 170.6,
       "maxHeartRate": 193,
       "calories": null,
-      "kudos": 1,
+      "kudos": 2,
       "map": {
         "id": "a19370040978",
         "summary_polyline": "~twfEe__{[]fARxAEp@]x@c@NgBWmBy@wB?wBW]]HmA[KyBxF_@~AKnCb@|DhBlEhA`FV`Ef@xSf@dHJfGcAzS{C`a@{@zS_Bdp@iBhUq@pFuAvH_AdCyA`CuJtM_FpHtRwXhBoDhAiFr@mFjAsLh@{IXuGnAqj@t@kQzByX|AmYHiDI}Dw@sNOsJa@iGOyAo@qCeBsEa@wAOuBHgC\\iB|B_G`@RIbAV\\dBXpCClBbAfBTXIZc@L}@QsA?a@No@t@_A|GQ~@OrATVZu@TWVEn@RVh@MTaBCQm@q@yCf@uFBe@`@g@fAP`CIr@Yf@a@HcBSsBaAmC@cBWY]LiA]SiBpEq@jCMxCZrCrC|Hn@fE^fHLxJ`AjRkAhXiCt\\}@~Qg@fUeAf^qB`WkAlIo@`DcAfCyBhD}IpLqEdHdFyHhHqJ|BmDz@cBt@cCdAqGp@uFfAqMj@aLnAak@^yId@_JxByWRsDHmD~@cQAiDm@oIU{GIaHU_EUsCi@kCuCiIQiDX{ClCeH\\HIjANZ|B\\bCCzBdApAPh@QXs@Da@Q_CTs@j@s@tFQ`CQv@TZZCLk@Ba@d@CXTd@n@YP{A{@}@}Dd@qBG{ALm@n@[t@Af@RpAIv@Wf@a@NcBUuB_AqC@_BYY_@N_A_@WeCpG_@pDJrC\\|AbBdEjAnFd@jILjKr@dLLxDgAtWMl@a@|G}A`Rg@rJ_@jIoAlj@e@~JaAbMkAvK}AlHw@jByAbCgJ`MgFvHvRuXbAeB`@eAh@uBbAcGfCgY\\aJxAom@l@yMdBySf@}IHWJiEx@wO?eCy@cOQgLYgFYcDi@}BsBmF]}AMgDPwB~@uClA{CJIXJIbARb@vBZfCAlB~@|ATd@MXq@Dw@OgB\\eAj@k@`FOfCSx@V^`@m@La@d@?b@PTb@IJONaBy@q@}B\\{E@q@Jk@l@]`ARtAInASb@e@RgBOaB_AcC?}B[Y_@JeA[OMNeAlC}@pCUtCLxCd@jBlBtEv@fE\\dFVvO`@nHTlBB~E_A~PEjCgAtMQzDaAfKw@jQy@~`@c@~N[jFcAlMq@nFw@dFaA`Eu@bBsAxBqQzVvP}UnB_D|@sBh@{BlAeIxBeW\\eJrA}k@f@yIHeDtCe_@jAsVImEk@_I[iPWwEo@}Ey@kCkAoC[wAQuCJuBZmB|BuF\\RCfATZlBV~BA`CfArAP"
