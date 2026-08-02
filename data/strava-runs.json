@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T19:04:30.749Z",
+  "lastUpdated": "2026-08-02T02:33:08.864Z",
   "totals": {
     "allTime": {
       "count": 363,
@@ -14,10 +14,10 @@
       "elevation": 32755.30000000002
     },
     "thisMonth": {
-      "count": 14,
-      "distance": 199.15880000000004,
-      "time": 67933,
-      "elevation": 1484
+      "count": 13,
+      "distance": 186.11210000000003,
+      "time": 63546,
+      "elevation": 1336
     },
     "thisWeek": {
       "count": 1,
@@ -9810,7 +9810,7 @@
     },
     {
       "id": 13496728984,
-      "name": "晨间跑���",
+      "name": "晨间跑步",
       "date": "2025-01-30T21:05:18Z",
       "distance": 16.22,
       "time": 5397,
