@@ -1,32 +1,75 @@
 {
-  "lastUpdated": "2026-08-16T01:08:33.690Z",
+  "lastUpdated": "2026-08-16T06:34:37.242Z",
   "totals": {
     "allTime": {
-      "count": 372,
-      "distance": 5313.588900000005,
-      "time": 1829014,
-      "elevation": 54346.100000000006
+      "count": 373,
+      "distance": 5356.0585000000065,
+      "time": 1845908,
+      "elevation": 55174.10000000001
     },
     "thisYear": {
-      "count": 208,
-      "distance": 3148.712800000001,
-      "time": 1078566,
-      "elevation": 31961.100000000017
+      "count": 209,
+      "distance": 3191.1824000000006,
+      "time": 1095460,
+      "elevation": 32789.10000000002
     },
     "thisMonth": {
-      "count": 14,
-      "distance": 194.1164,
-      "time": 65980,
-      "elevation": 1968
+      "count": 15,
+      "distance": 236.586,
+      "time": 82874,
+      "elevation": 2796
     },
     "thisWeek": {
-      "count": 3,
-      "distance": 34.207300000000004,
-      "time": 11394,
-      "elevation": 220
+      "count": 4,
+      "distance": 76.6769,
+      "time": 28288,
+      "elevation": 1048
     }
   },
   "recentRuns": [
+    {
+      "id": 19760516730,
+      "name": "8th run in 2026, Glenbrook Marathon",
+      "date": "2026-08-15T22:16:45Z",
+      "distance": 42.47,
+      "time": 16894,
+      "pace": 397.7904195000659,
+      "elevation": 828,
+      "averageHeartRate": 166.2,
+      "maxHeartRate": 193,
+      "calories": null,
+      "kudos": 3,
+      "map": {
+        "id": "a19760516730",
+        "summary_polyline": "|uhmEsohv[?q@gAKs@q@DmCwACeDgBmBfA[l@RfAkDxCoAUHwDUS{BbDmF_@_AbA{@BaBfBoIxAkBkEkGoGcDqF}CcK_AcIRcC_GyDc@uAwEsCUk@~CwG`EeC\\uDw@kDkC{B{R}JuAsBi@mCyGkGLcHaCcA~Bd@NlAWhF`G`F|@dDfAfBhSnKpChCv@zBUdFyDnC{DzG|DvBbBpC`GpDMlCdA|J|BpH|DpGrGxG|ArEwDhCiDrHiClBcEbFoEToF_BaBAgCkEyCo@cBaC{CyAy@{C}@u@M{@eCqAkCgDwBf@eDtCiCmAk@oA_AC~AvGlCtIfFfGjAnED|FcArFxCrGVtDUbDoBxCGz@zGzHjFlCdCjCdC`Hj@dD[fDgCvEs@`CKdJiA|CsAhKs@d@oDfGC|Cs@tA|Ac@vBiElAy@KhAn@BNj@SfEcA|@kCrFmI|Iy@fEf@vLWjHp@pEpCrEb@bNdAhB~EjBzHJbF`BxC~B|BJ`C{@lEAtCdAlMhQ~EhE~GzAjBtAdApCVnHfAhClAz@jC@lE|AfL~@pGuAlGDhJjFnEnAbElC`HcAfELjLbCpAbBjCzAv@[t@oAdDYrBwBbCgE|BcBlDg@zHpAlDu@bLsGtGmAlDwAzAeBrBcFvByAbI[tDw@jCaCbFuIpEmChFkIjA{B^kCzAmDd@sFtD_I|DN`GrAbSaAhDcCdBgCvBqE\\{A`BmBpB{AfEiAvBmBsBvBuEzA}CnC}@`CaBxBY~AeGdGqTbAwFsAsC?Og@TsFYuBsDwJ}NyOoH_MwJmGeDoAkDwCyE_FuM_SaFqOgGiGo@{Bu@}@g@mG`@kIO}BgBkBaFgBmCsDcDmLs@cIq@sDgAuA{@M~@BhA`BBhAbApHf@lCnDlLbCvC`FdB`BhBPfCc@hId@lGbBrD`GfGdGbQjDfEdG|JxB~AzAzBlBdAbBrBdCr@vKnHlG|KjOjPdDxI`@xCMxEiE`Ja@dF}A|Da@vCgHpLkFfDwEfIkBbBoDvAoG@gB`@kC~BiAfDoAdBiEnByGjAeKnGyD~@kJuAoCr@gBnAeG~HsDj@yAjBjAt@w@_@qFoEy@_DUoF^_Hz@kFr@}O`BcJIkGwIiImGiCoGgFcEkG_AiDqEmDsB_G}@yEJcAhBgBdEgNx@yGgA{Gm@_K_DqFGaLoA_OL{HvBsH\\}CZoMo@{N|AiGUaIv@mIKkBcA{DlA}G?{CeDyJeDsFiAgFQwE}DaHeAcGiBuFm@e@eAJYhBCbINfCl@hBI|D{A~@}CTaBdEd@~AbBZXfCqCxBJp@vA~AYv@"
+      },
+      "dateLocal": "2026-08-16T08:16:45Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 17048,
+      "averageSpeed": 9.05,
+      "maxSpeed": 15.26,
+      "elevationDetail": {
+        "gain": 828,
+        "loss": 0,
+        "high": 300,
+        "low": 72
+      },
+      "performance": {
+        "averageCadence": 88.4,
+        "sufferScore": 586
+      },
+      "workout": {
+        "workoutType": 2,
+        "description": null,
+        "commute": false,
+        "trainer": false
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 24,
+        "prCount": 12
+      }
+    },
     {
       "id": 19730730544,
       "name": "晨间跑步",
@@ -38,7 +81,7 @@
       "averageHeartRate": 182.7,
       "maxHeartRate": 195,
       "calories": null,
-      "kudos": 1,
+      "kudos": 2,
       "map": {
         "id": "a19730730544",
         "summary_polyline": "~q|lEwnsy[r@Hh@JzAFVDhBNPD`@NlAHj@Hp@PFH@^MdAC`AKfAGvAGf@KfC[rCC~@CPIJOFSEuAw@m@c@W_@_@UMQqBmBOUSGy@Kw@EC@YAYDsAG]G_@CeBSc@McAEM@sAYgA_@_@G_@MiAWaAHODi@jASNSD_AOa@CM?QDm@?{@O]Ce@OUAa@ISAqASg@ESGS?]GSO]q@OMEM?GJa@lA}@LQLWJs@HgAAYLw@@q@DaAJgAFYEQQIi@I_@@[Dm@NiA^mAv@c@b@m@d@KJ[PuBlBwBbBYNMVh@lA`AfBbAvBv@xANd@b@n@b@xAV\\BA^r@rCrFDXDb@CV?n@Gz@GjCFnANj@Pb@l@dAl@l@JTn@b@VHFL\\TfAd@l@d@NVX\\`BbB\\h@VV|@bAhA`ARJPNPJtAnAd@^JD`@XhAdA`@Xn@Vj@L\\D~@?jABlEVLFN@lAXZL^Fb@PpA^oA[uBo@g@Oc@GcCQmA?iCIaAMy@Ya@W}AwAe@Wk@m@uAeAOQeA}@g@[][Wa@mAuAw@cAiAmAQGOQOKgCgAi@g@o@aAm@gAYu@I_@Gq@Au@PsFA_@Ki@_BaDKKIMu@}AQU_@aAk@eAQa@[e@m@wAg@_AmBaEU]IW_AeB]{@[a@Ws@I]OQUe@IK{@_BO[gAwAYe@w@cA_@k@kAyA}@uAk@q@ISo@u@yBaDc@i@o@k@s@c@q@Yg@Oe@Eg@Sw@Os@Ua@GuEsAm@IgCs@k@G]Ig@EmAOmAY_Bg@aB_@QIiBa@}Bo@m@KaAYw@O}@YwCq@[MgBa@w@[k@McA]mA[y@MOAm@L{@FEBTE^Av@SrAP|DhA^NlAXdAZpBf@vAZLFfAX\\Fp@RfE~@x@\\T@|@VhAV|@VlAXl@HpBTlAZr@NhA^jAV^LdARRHT@t@PhBj@`ARj@T`B`Aj@j@z@lAlAhBZ\\`@n@v@~@dA~AlBbCf@t@PRZj@`@d@p@dAf@fARXXl@\\dAhBrDF?f@]`@c@nA_AX[\\SxBeBZYx@k@dAm@`AW~@QXCd@E|@DF?LKHARFLHt@NlBN`ANV@vB\\lBR~@L~@Hn@LTBnAXhAL"
