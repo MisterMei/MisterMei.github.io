@@ -1,32 +1,70 @@
 {
-  "lastUpdated": "2026-08-19T06:38:47.195Z",
+  "lastUpdated": "2026-08-19T12:40:07.999Z",
   "totals": {
     "allTime": {
-      "count": 373,
-      "distance": 5356.0585000000065,
-      "time": 1845908,
-      "elevation": 55174.10000000001
+      "count": 374,
+      "distance": 5366.682800000007,
+      "time": 1849657,
+      "elevation": 55199.10000000001
     },
     "thisYear": {
-      "count": 207,
-      "distance": 3160.1707000000006,
-      "time": 1085367,
-      "elevation": 32359.600000000017
+      "count": 208,
+      "distance": 3170.795000000001,
+      "time": 1089116,
+      "elevation": 32384.600000000017
     },
     "thisMonth": {
-      "count": 13,
-      "distance": 185.0895,
-      "time": 63754,
-      "elevation": 2131
+      "count": 14,
+      "distance": 195.7138,
+      "time": 67503,
+      "elevation": 2156
     },
     "thisWeek": {
-      "count": 2,
-      "distance": 54.588,
-      "time": 20998,
-      "elevation": 952
+      "count": 3,
+      "distance": 65.2123,
+      "time": 24747,
+      "elevation": 977
     }
   },
   "recentRuns": [
+    {
+      "id": 19802326432,
+      "name": "晨间跑步",
+      "date": "2026-08-18T23:44:53Z",
+      "distance": 10.62,
+      "time": 3749,
+      "pace": 352.87030674962114,
+      "elevation": 25,
+      "averageHeartRate": 167.5,
+      "maxHeartRate": 179,
+      "calories": null,
+      "kudos": 1,
+      "map": {
+        "id": "a19802326432",
+        "summary_polyline": "ftwmE_z{y[EQc@Ua@i@K_@UMCMFQDo@?SIIcAMQA]FYGOBIEkACm@Ko@?YGSA[BBC?YKq@?k@JcBHs@?OEKoAUkAG_@GYIIM@FANEG?BE@yB[aAE_Fs@aAA_@TO@SMMYECmBQYIKMA_@He@Rc@j@e@n@Oc@PC?GIMe@Fw@A_@Ig@}@wAc@_Aa@g@s@gAi@kAW{@ESm@aBk@y@_@WFa@AKGOw@u@WKm@c@kAiAg@]Wc@Ow@M]{@aAw@aBMO[Q{B{@c@Yg@[aBaBWS[Mi@MqAc@_Aa@[S[WGKW}BUo@g@{@a@a@YOy@Es@BcF`@iCFy@FUJKJERONO^Mz@DRRTbAf@nBl@\\Fb@@b@LfBj@`C`AfB`Ap@h@v@z@^r@XbAHdABz@Cj@QbAYt@_@t@[Zy@p@q@Rs@Hg@?a@EiDq@a@EoAGa@D}Al@_BjA}@hB]f@i@j@O@yAXWAg@Ku@IaAQSSq@S[DMBGDQh@M~@Ef@Df@FXFJdB\\PJZH|@J~@TVRn@JbA`@RTN\\Jb@b@z@NPPHf@LpAJ`A@~CNl@?VDVRNr@JZD`@IvBMx@?rBQ`EKLWPWHuGW[^OFwBU{@C_AMy@AMCUMI?e@NsCtAm@Ls@Bk@[CO?q@DeAQcBQUMGW?kAn@]\\aA\\q@\\KJi@pA}@`BWhASJE|@@FZFR?v@NT@NHb@H\\Bl@Jt@Xr@hA^f@b@z@zAlB\\\\p@bAb@dARp@HxA@nADl@AXOp@uAjDE`@Ob@?b@S^YX[p@m@`@IT?NFZ@PGp@@\\R\\VJfBJf@E|@Qt@@h@Lb@^^H^A~@UFE`@u@d@a@DU?_@[eACQAUF]LU^_@^KT@^`@\\FJFLPHTR~ALdBT`@NLh@FrCMpBQh@Al@Mh@CZGR@~@Ql@CFC\\c@ZQNEf@?`@Hn@TT?bAUbBGtAQb@A|BHtE]pDQV?~@MjAC`@@`@Fh@Rd@Jd@PPEJSXuADc@V_ATQLCx@DZXh@XpAPf@@h@Jn@ThBNn@Np@FXRNVJXRhALTLBr@?`@RLPNBrAMVKvAa@h@IV?rBm@h@UhB[dA]"
+      },
+      "dateLocal": "2026-08-19T09:44:53Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 3802,
+      "averageSpeed": 10.2,
+      "maxSpeed": 16.85,
+      "elevationDetail": {
+        "gain": 25,
+        "loss": 0,
+        "high": 36,
+        "low": 4
+      },
+      "performance": {
+        "averageCadence": 93.5,
+        "sufferScore": 133
+      },
+      "workout": {
+        "workoutType": 0,
+        "description": null,
+        "commute": false,
+        "trainer": false
+      }
+    },
     {
       "id": 19760516730,
       "name": "8th run in 2026, Glenbrook Marathon",
