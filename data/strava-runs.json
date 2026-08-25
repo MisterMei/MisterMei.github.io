@@ -1,32 +1,69 @@
 {
-  "lastUpdated": "2026-08-24T18:35:46.248Z",
+  "lastUpdated": "2026-08-25T01:06:07.615Z",
   "totals": {
     "allTime": {
-      "count": 376,
-      "distance": 5398.9762000000055,
-      "time": 1860127,
-      "elevation": 55505.10000000001
+      "count": 377,
+      "distance": 5413.039900000005,
+      "time": 1864937,
+      "elevation": 55697.100000000006
     },
     "thisYear": {
-      "count": 208,
-      "distance": 3156.2462000000005,
-      "time": 1084079,
-      "elevation": 32378.900000000016
+      "count": 209,
+      "distance": 3170.3099,
+      "time": 1088889,
+      "elevation": 32570.900000000016
     },
     "thisMonth": {
-      "count": 14,
-      "distance": 207.7782,
-      "time": 71565,
-      "elevation": 2408
+      "count": 15,
+      "distance": 221.84190000000004,
+      "time": 76375,
+      "elevation": 2600
     },
     "thisWeek": {
-      "count": 3,
-      "distance": 42.9177,
-      "time": 14219,
-      "elevation": 331
+      "count": 4,
+      "distance": 56.9814,
+      "time": 19029,
+      "elevation": 523
     }
   },
   "recentRuns": [
+    {
+      "id": 19883945256,
+      "name": "晨间跑步",
+      "date": "2026-08-24T19:51:07Z",
+      "distance": 14.06,
+      "time": 4810,
+      "pace": 342.01525914233093,
+      "elevation": 192,
+      "averageHeartRate": 169.4,
+      "maxHeartRate": 192,
+      "calories": null,
+      "kudos": 0,
+      "map": {
+        "id": "a19883945256",
+        "summary_polyline": "dr|lE{nsy[l@@TFpBRXHtBVTHdCZp@PFH@TGv@IbBSvBGtBQnAEfAKx@I|AIVQDWIq@]k@a@][]i@a@UkCoCOGqBIWGYDkACi@Gc@AeBYg@MkA@eBg@a@QeAUi@Os@M_ALMDUp@QXSLODM?wAUe@Fk@?u@U]Cg@O[?uAQqBQm@MOOa@w@GGEQJa@jA}@JON]PoCHo@DeAZ{CAGGGa@KiA?_Cl@OHiAv@e@f@QHc@b@[PcB|A{C`CIHEL?GDGGN?CID{CbCKJ[l@O`@YhAe@nFCp@K^U|CCR[rE?t@QxASBIHIxBe@jFGZAn@Id@GfBYrCGnAYnDCh@WzC?h@Ej@I`@EvAEp@ALS\\EBI@_@O_C[oCi@{A{@gAi@gAq@kAg@kC_@_@BeBSg@K{Ai@w@[OKOQw@uAm@{@M_@Os@A]Bu@NoA?UDYL_CLeABy@DUGm@@g@DQAKWu@U]m@m@e@WWUoA][CME]?m@IUQKCuAIe@Me@E_@O]BeAKcC[g@MSBc@IUIe@Ay@GcAQqBSs@Oe@Ao@Ow@Ci@KuEe@a@e@CSCI][MYUUu@c@eAy@UK_A{@kAeC_AcB_AmBiByA}@q@QKw@u@gAq@y@UcASg@QmASyA[w@Go@?}EUcBOSB{@@o@Ae@EuBG[@}@KYGIMCUH{ANgADgANqAPcDPsBHuAFWJMXGZDr@X|@j@FN@j@Iv@IZGp@UlAq@|IC~@@LFFvDN`BLdCFhALxABfAHzCr@l@HzBh@nAv@`Az@t@j@\\^jAbAvAlCdAhBx@dBn@j@hDzBbAx@VHRL~BTdCf@VAl@FrCb@~D`@`Fn@dEb@vAPrATTCLLDHFHLH\\DNRn@JhA`@LLd@Rj@b@`@l@Pb@AXBtACd@Ix@Dn@?XQhBKrBK~@Ah@Hf@Tn@z@rANXFHF@JGJQ@OJ{BTsBXaGHa@Bc@Jk@Fe@VeDH_BHk@V{CDYL{BFk@PaCVsEFIf@?fEh@xFj@`BGfA?d@GpB@TEVWPGlAEX@vAV|@HFG@s@RwBBu@Jo@PgDJkADQT}DDUR?LID@h@~@n@lAd@RHA`Aq@rC_CbFsD~@i@fA_@z@Sz@G`ADLCJIDALBPLnCd@vGx@hEb@xF|@xAP"
+      },
+      "dateLocal": "2026-08-25T05:51:07Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 4816,
+      "averageSpeed": 10.53,
+      "maxSpeed": 17.06,
+      "elevationDetail": {
+        "gain": 192,
+        "loss": 0,
+        "high": 175,
+        "low": 132
+      },
+      "performance": {
+        "averageCadence": 94.7,
+        "sufferScore": 189
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 1,
+        "prCount": 1
+      }
+    },
     {
       "id": 19856767106,
       "name": "2026 Beach2beach half",
