@@ -1,32 +1,64 @@
 {
-  "lastUpdated": "2026-08-27T21:44:47.467Z",
+  "lastUpdated": "2026-08-28T09:30:10.929Z",
   "totals": {
     "allTime": {
-      "count": 378,
-      "distance": 5430.224100000005,
-      "time": 1870995,
-      "elevation": 55776.100000000006
+      "count": 379,
+      "distance": 5442.730400000006,
+      "time": 1875588,
+      "elevation": 55847.1
     },
     "thisYear": {
-      "count": 208,
-      "distance": 3156.8711999999996,
-      "time": 1085255,
-      "elevation": 32225.80000000001
+      "count": 209,
+      "distance": 3169.3775000000005,
+      "time": 1089848,
+      "elevation": 32296.80000000001
     },
     "thisMonth": {
       "count": 16,
-      "distance": 239.0261,
-      "time": 82433,
-      "elevation": 2679
+      "distance": 245.41240000000002,
+      "time": 84957,
+      "elevation": 2741
     },
     "thisWeek": {
-      "count": 3,
-      "distance": 52.192400000000006,
-      "time": 17495,
-      "elevation": 529
+      "count": 4,
+      "distance": 64.6987,
+      "time": 22088,
+      "elevation": 600
     }
   },
   "recentRuns": [
+    {
+      "id": 19930562741,
+      "name": "Morning Run",
+      "date": "2026-08-28T00:27:39Z",
+      "distance": 12.51,
+      "time": 4593,
+      "pace": 367.2549035286216,
+      "elevation": 71,
+      "averageHeartRate": 158.5,
+      "maxHeartRate": 178,
+      "calories": null,
+      "kudos": 0,
+      "map": {
+        "id": "a19930562741",
+        "summary_polyline": "laxmE{`{y[[zEOl@~BAgBi@IK?kAPi@XiC@e@C_@NwBfAaCh@}AEaAKUGc@RqC\\sAAI{Dc@XEVBHL@VOdCETIFSt@E\\\\@^FZ\\IM?OEJFb@_By@F]@s@Ng@De@FQ^g@Lg@GIq@CoAFIEm@@m@Kg@WIDB[CBCG?DUDWIkB?g@KQMaAGGIJ]I{@GMYI{@KoALcAGm@BwB[GN?QHC@GGS?SUUAWJgBNeA?OEGuEg@SO}@?gC]gCO}BYU?i@N]Y}BU_@SKK@]X_An@m@v@UUBs@d@DIl@]C?e@d@OFNY@MGi@Ju@G}@WWkA{B{@gAYe@k@eB}AyD[c@[QAEJ_@EQSWwAcAgBaBi@[O[Gg@O_@s@q@aBqCu@a@aCaAa@YsBgBkCaAuAq@m@e@OSI[KwAW_A]k@c@e@w@Y}A@wBTu@?_BNkCD]Tg@~@Qx@?VHRZV~B~@fEz@zB|@|Ar@vA`AfAfA^j@Pf@Rz@Fh@?|@M`Bc@pAU`@c@f@y@h@m@Ru@JcAEmEw@y@AeBR{Ax@{@v@y@bBk@v@]^uAZ]A_AUkBY]Wi@QSRSDWP[t@Eh@H|@N^RRlDl@x@XPLnB^^R`@p@f@rA\\`@|@\\ZD`@CVHzEHp@Vb@Xd@x@F`@]zC@p@Eb@@TCj@Df@G|@SzAUNq@JmBIkAQcA@Oh@QFg@OsBI_C[uAMmDbB_AD_@Ja@WKUBmCM_@Gg@[_@YEK@kAt@Sb@aAX_Al@SV[jAo@`AO^EZY^Ex@BJf@Jr@FnCl@P?t@XfAzAr@lAjAzAv@fAbAjBT~@J~ACp@LbAKp@w@nBq@jBOt@D\\CJc@b@g@x@i@`@GRHz@Iz@@JTd@VLfBNv@QjAGx@Jd@b@^Jr@Ip@SLKXo@^_@Xm@@Ua@eACa@Ne@`@[TIZFPZd@LRTHj@A^`@zCXd@l@PrHa@vACxBy@bALNKZq@HG\\E\\Db@Xd@@`BWzCW`C@VKbBSxAKtDGpEYt@?~B|@\\GDI`@uBNgAJUTG`ALXRbAb@fAHfB`@pC`@rA@RLZp@R`BPB\\En@Lb@h@p@AzAWvHkBdBk@"
+      },
+      "dateLocal": "2026-08-28T10:27:39Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 4854,
+      "averageSpeed": 9.8,
+      "maxSpeed": 36.79,
+      "elevationDetail": {
+        "gain": 71,
+        "loss": 0,
+        "high": 35,
+        "low": 3
+      },
+      "performance": {
+        "averageCadence": 92.3,
+        "sufferScore": 115
+      }
+    },
     {
       "id": 19916178737,
       "name": "晨间跑步",
@@ -38,7 +70,7 @@
       "averageHeartRate": 160.9,
       "maxHeartRate": 179,
       "calories": null,
-      "kudos": 1,
+      "kudos": 2,
       "map": {
         "id": "a19916178737",
         "summary_polyline": "`swmEab|y[o@@CLLBKFoAQuAL}AOu@H}Dg@_EORGIKCBF@oAOR@@\\AWc@KVYAUk@w@oBgF{Eq@w@Zg@c@eBMc@OOU?[F_@Vc@f@c@h@Uo@\\^Wp@Ow@N[UEWHs@I{@}AsCuA{BaA_CAy@_@uAYi@wByBiAs@}BqBOW]yA_AcAuA}B{DkByCkCyDoAu@a@_@e@OkBQq@g@{@[a@e@YkAIiFd@gFPURc@x@SnAZf@hAl@jFfAtEbB|A~@dBhBn@`BRlBK|B}@~BwAnAuA\\_A?oDq@sAKoBFqAl@iAz@_AjBgArAaBb@]AwCk@a@Yq@MiAv@MVMz@Dh@Xz@tEv@hEzA`@l@r@nBLPzDLvFf@j@pAPpAUzBI`FUtBYRk@L_G[g@h@aJ{@oD`BgBVq@e@CcAFiAWcBQSa@AkAf@a@n@u@R_Af@o@`B_AzAU`AQPCbA`Gv@n@XlHlKr@~AHzADtBCf@W`Ak@hAi@~AOz@Ar@iA`Bi@^KTJz@Gh@B`@T\\^P`BHpASdA?^Fr@h@\\BxAYfA{ALc@AW_@gAL{@NUz@a@LB`@f@\\DRTJfBX`C\\f@r@PtKk@^K`@i@n@_@l@?`Ae@pAVfALnAMxCq@rDFxFe@`IYn@D~Bn@XSr@{D\\WfAF|Az@tAJ~E~@pADr@ZN^N`BTRZ@Rr@AR}@z@i@LmElCk@DuCQSLe@z@gCEcCIw@b@wBJ[UWACxC]VQt@c@Xc@p@sAxGSR}CSc@QmAeAiAa@yB]kDiAOTkAZi@z@?N`BxAhAxAxAzAH?Ta@HCpAj@zBXPNBTGTq@bAeCrA[AkAi@oGyE}BgBK?KXOlABPpAn@nArAzDrCTd@CP_@ZqB`A[v@Fz@rAlDl@^dEsARBV^~@nDGt@e@pB|A|BPv@`A`A|@Cn@b@jF`Fh@x@\\]?k@Ne@kAKa@g@Si@{@mC{@iEq@cAgAeDAoBWmAfDcBnFgCzDyBPDn@e@zEuBxLcG`@KFH~@}@vAm@dByAIBKLV@l@m@f@Qf@}@pAw@|@[t@KzBcAbAMlAu@fCu@xE{BpBqA|Bu@dAs@rDuAfEyB\\YpCiA\\{ABo@G]UYgBaAiBqBUo@EoAg@s@"
@@ -6233,8 +6265,8 @@
       },
       "social": {
         "comments": 0,
-        "achievements": 2,
-        "prCount": 1
+        "achievements": 4,
+        "prCount": 2
       }
     },
     {
@@ -10298,8 +10330,8 @@
       },
       "social": {
         "comments": 0,
-        "achievements": 17,
-        "prCount": 17
+        "achievements": 18,
+        "prCount": 18
       }
     },
     {
@@ -11665,7 +11697,7 @@
       },
       "social": {
         "comments": 0,
-        "achievements": 119,
+        "achievements": 120,
         "prCount": 60
       }
     },
