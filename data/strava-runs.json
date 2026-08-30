@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-29T20:23:20.244Z",
+  "lastUpdated": "2026-08-30T03:36:07.145Z",
   "totals": {
     "allTime": {
       "count": 380,
@@ -20,10 +20,10 @@
       "elevation": 2987
     },
     "thisWeek": {
-      "count": 5,
-      "distance": 85.9388,
-      "time": 29744,
-      "elevation": 846
+      "count": 4,
+      "distance": 64.9943,
+      "time": 23117,
+      "elevation": 588
     }
   },
   "recentRuns": [
@@ -38,7 +38,7 @@
       "averageHeartRate": 157.4,
       "maxHeartRate": 178,
       "calories": null,
-      "kudos": 2,
+      "kudos": 3,
       "map": {
         "id": "a19942027231",
         "summary_polyline": "vq|lEqnsy[fBTvJ`A`AVFH?d@Mz@e@bIKv@WxCGvAIRUB{BqAWWS]oBeBu@}@[MwBS{AHqC]sA]{ABuEkAuASiAJe@`AWRUDiB[mABuB_@YByFu@m@eAOOEYdBaBVg@x@yKKa@?_@GCsBDcDbA}AbAeEdDmAx@aAdAULqBmD_@qAgD}FuG_Jm@s@mEiGoAiAkAi@_Du@MIcKgCyB[_Dm@cFmAiRcFSBK^KHc@AcBk@mAYUMoD}@gBE_Fj@qBGaARoCXMd@?ZQdBKjBBPJNND|BH|AtBXLnDIb@MXYf@cAHg@`@{FTyBJId@CdE~@`FzA`FfA~HrBKRSB^Op@JnGzAnG`AxFvApI|Bn@Xj@`@hAhAfA~Ad@f@`A`BrDxEdEbGpAhCVl@@\\UtDy@vJCjAW`DA~Ao@|GIfBKTBd@UlEQ~AMxBKp@@^Mt@GbBY|Ca@nG_@hEQpAGpBSz@KNI@_HoAwBkAYIqDiBs@Ki@?aEi@kC_As@a@qBaDUo@Ei@FsBPsB\\}F?wBWy@OSoBwA}@YiCY]SyCWk@QcAE_CWeAWk@A]KwEa@gDc@e@MiDUiBW_@Bk@u@Mc@c@o@m@]oCmBk@i@oAqC}BgEoDsCuAmAcAe@aGqAiB[yBCcG]mAFoH_@SKIe@bAgN`@oEZUj@?bBt@Xb@?b@QhBYvAS|Bi@jHDZ`DPl@I|F`@jDH`FhAbBVn@X`HjF~DnITXpAz@xDrC~@x@DTJPzBNBd@IPFIC[DGhCNxAPdFt@zAH`@N|@D~Et@VCr@PpCP`@VjCZdA^pBrA^r@HXD~BWbCDfAObBInBCnAV`AnBbDb@XnCx@dH|@|HfEfBTbAZlBZXU\\yDTmERkBX_EDmARaDHu@Le@Ge@LWFc@j@kIFyAEUL_@ZmEb@c@FeAFMdBw@p@SrCR`BXlBNBFKxAUxAAp@MlADNd@RVc@Fc@FEx@AP}BIsAFMLEn@BXRPd@g@m@RJJX_@e@NHx@AjBPDcAd@mFFyBJgAN_@LIX?jDd@j@@nB`@p@BVId@?nAV`@Qj@kAfAWnAPxEpA|AFbFt@lCAtAPdB|Az@`AZPN\\RNbCvAd@ALMAa@Pe@DYDs@Em@@g@|@}JLc@@g@DMXQz@K~CkBDICg@LSvGcEz@q@x@aA?Uk@_A[u@GCEDOp@Wb@_@Pk@DMa@DmAGGSA"
@@ -75,7 +75,7 @@
       "averageHeartRate": 158.5,
       "maxHeartRate": 178,
       "calories": null,
-      "kudos": 0,
+      "kudos": 1,
       "map": {
         "id": "a19930562741",
         "summary_polyline": "laxmE{`{y[[zEOl@~BAgBi@IK?kAPi@XiC@e@C_@NwBfAaCh@}AEaAKUGc@RqC\\sAAI{Dc@XEVBHL@VOdCETIFSt@E\\\\@^FZ\\IM?OEJFb@_By@F]@s@Ng@De@FQ^g@Lg@GIq@CoAFIEm@@m@Kg@WIDB[CBCG?DUDWIkB?g@KQMaAGGIJ]I{@GMYI{@KoALcAGm@BwB[GN?QHC@GGS?SUUAWJgBNeA?OEGuEg@SO}@?gC]gCO}BYU?i@N]Y}BU_@SKK@]X_An@m@v@UUBs@d@DIl@]C?e@d@OFNY@MGi@Ju@G}@WWkA{B{@gAYe@k@eB}AyD[c@[QAEJ_@EQSWwAcAgBaBi@[O[Gg@O_@s@q@aBqCu@a@aCaAa@YsBgBkCaAuAq@m@e@OSI[KwAW_A]k@c@e@w@Y}A@wBTu@?_BNkCD]Tg@~@Qx@?VHRZV~B~@fEz@zB|@|Ar@vA`AfAfA^j@Pf@Rz@Fh@?|@M`Bc@pAU`@c@f@y@h@m@Ru@JcAEmEw@y@AeBR{Ax@{@v@y@bBk@v@]^uAZ]A_AUkBY]Wi@QSRSDWP[t@Eh@H|@N^RRlDl@x@XPLnB^^R`@p@f@rA\\`@|@\\ZD`@CVHzEHp@Vb@Xd@x@F`@]zC@p@Eb@@TCj@Df@G|@SzAUNq@JmBIkAQcA@Oh@QFg@OsBI_C[uAMmDbB_AD_@Ja@WKUBmCM_@Gg@[_@YEK@kAt@Sb@aAX_Al@SV[jAo@`AO^EZY^Ex@BJf@Jr@FnCl@P?t@XfAzAr@lAjAzAv@fAbAjBT~@J~ACp@LbAKp@w@nBq@jBOt@D\\CJc@b@g@x@i@`@GRHz@Iz@@JTd@VLfBNv@QjAGx@Jd@b@^Jr@Ip@SLKXo@^_@Xm@@Ua@eACa@Ne@`@[TIZFPZd@LRTHj@A^`@zCXd@l@PrHa@vACxBy@bALNKZq@HG\\E\\Db@Xd@@`BWzCW`C@VKbBSxAKtDGpEYt@?~B|@\\GDI`@uBNgAJUTG`ALXRbAb@fAHfB`@pC`@rA@RLZp@R`BPB\\En@Lb@h@p@AzAWvHkBdBk@"
