@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T12:40:39.593Z",
+  "lastUpdated": "2026-08-31T22:25:52.308Z",
   "totals": {
     "allTime": {
       "count": 380,
@@ -20,10 +20,10 @@
       "elevation": 2987
     },
     "thisWeek": {
-      "count": 4,
-      "distance": 64.9943,
-      "time": 23117,
-      "elevation": 588
+      "count": 3,
+      "distance": 50.9306,
+      "time": 18307,
+      "elevation": 396
     }
   },
   "recentRuns": [
@@ -4500,8 +4500,8 @@
       },
       "social": {
         "comments": 0,
-        "achievements": 2,
-        "prCount": 1
+        "achievements": 4,
+        "prCount": 2
       }
     },
     {
@@ -6302,8 +6302,8 @@
       },
       "social": {
         "comments": 0,
-        "achievements": 4,
-        "prCount": 2
+        "achievements": 6,
+        "prCount": 3
       }
     },
     {
@@ -10367,8 +10367,8 @@
       },
       "social": {
         "comments": 0,
-        "achievements": 18,
-        "prCount": 18
+        "achievements": 19,
+        "prCount": 19
       }
     },
     {
