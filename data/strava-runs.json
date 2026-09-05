@@ -1,32 +1,64 @@
 {
-  "lastUpdated": "2026-09-04T20:15:46.617Z",
+  "lastUpdated": "2026-09-05T02:55:43.316Z",
   "totals": {
     "allTime": {
-      "count": 382,
-      "distance": 5493.842200000006,
-      "time": 1894192,
-      "elevation": 56602.1
+      "count": 383,
+      "distance": 5503.984400000006,
+      "time": 1897081,
+      "elevation": 56729.1
     },
     "thisYear": {
       "count": 209,
-      "distance": 3172.2538,
-      "time": 1093009,
-      "elevation": 32476.00000000001
+      "distance": 3167.992799999999,
+      "time": 1091329,
+      "elevation": 32403.10000000001
     },
     "thisMonth": {
       "count": 18,
-      "distance": 281.8048,
-      "time": 98425,
-      "elevation": 3292
+      "distance": 281.8994,
+      "time": 98108,
+      "elevation": 3295
     },
     "thisWeek": {
       "count": 3,
-      "distance": 51.111799999999995,
-      "time": 18604,
-      "elevation": 755
+      "distance": 40.0139,
+      "time": 13837,
+      "elevation": 636
     }
   },
   "recentRuns": [
+    {
+      "id": 20038540921,
+      "name": "晨间跑步",
+      "date": "2026-09-04T21:00:05Z",
+      "distance": 10.14,
+      "time": 2889,
+      "pace": 284.8494409496953,
+      "elevation": 127,
+      "averageHeartRate": 183.8,
+      "maxHeartRate": 195,
+      "calories": null,
+      "kudos": 2,
+      "map": {
+        "id": "a20038540921",
+        "summary_polyline": "d{fmEubqy[_@`@IRCr@DVDHl@Ht@PRAj@SJALBPLLPJVPx@\\`@jAp@NFz@f@vAb@VVTj@DV@f@CpABLJJb@T`Bj@RJRVFLNv@PdDA`@EPKR[RiAb@wB`Ak@`@W^MX}@|CGLONSFSAQIaAeAUOMCUFk@h@[PuA^w@HeABg@Ku@YUAk@HqCl@wALg@?YGYSS]_@}@U[g@[QQOWSk@U_@OKKAMBGFIPQzAF`A?nA]~CCp@DtDFbA\\fBf@hA?HCAIIO[c@qAKi@McBGcBA_AJmATiA@{@EmC@]Lu@@SGMKGGAQH_BzC_@hASxACt@?nAE~AQfA]bAYVe@T_@Ba@EUGSUm@}@QSOIS?IDMTUp@Q^_@`@[Rq@V_@RSR]f@WVi@\\gAf@OJUZCT@NTjA^r@p@z@^j@JZLj@?f@U|C@f@J~@j@fABh@W`Ae@dAMHQFW?MIa@i@g@oAWm@U[UWUO[M_@Eg@A[Bu@?_@D}@@eAH[FsBjA[Jw@HuB?k@Ii@Oi@U]IUCc@BYLIJGL@NFNFBVBf@EXA~@Jp@`@XTV\\Xl@H\\r@rEJhA?z@CJC@AcACe@y@qFOc@O]i@o@y@a@k@Q_@AS@_@J]POBMECKBe@Jc@JULO`@KRAd@FjAb@`@J|@FjBAv@Mh@Yn@_@TKb@M~@Kb@AbCQp@C^BRBPFNJXXR\\n@nAd@lAJRPJN@ZELQ\\u@X{@@OI_@i@cAI]E_@D{AP}ACgAI_@Sc@W_@s@w@Wk@Uq@G]?UDUNWRSfBeARSpCsDtAoAZSREL?PF|@tAPN\\RPB`@?^KPOLSVk@No@Jq@FaAC}A@c@PaBTy@f@mAj@aAVm@`@g@JGZIL?RHPJNR`@fAJNXZh@^RTNVVx@JRNNVJ^@lAOr@K|Cs@XBrAh@L@X?n@C|@Mf@Mh@Yx@u@XITDNH|@lARLL@PERUhAmDLWNQn@i@r@a@xAo@r@UTMFKH]@a@IkBS_BK]OK[MeBg@WQIKEc@BcAA]Im@O[[YiA]iAk@{A{@OOGMQcAU]KGMGM?_@NU@gBSQMG]@m@Ri@`@i@^q@T}@"
+      },
+      "dateLocal": "2026-09-05T07:00:05Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 2905,
+      "averageSpeed": 12.64,
+      "maxSpeed": 17.28,
+      "elevationDetail": {
+        "gain": 127,
+        "loss": 0,
+        "high": 62,
+        "low": 10
+      },
+      "performance": {
+        "averageCadence": 96.7,
+        "sufferScore": 186
+      }
+    },
     {
       "id": 20011430042,
       "name": "晨间跑步",
@@ -38,7 +70,7 @@
       "averageHeartRate": 162.9,
       "maxHeartRate": 188,
       "calories": null,
-      "kudos": 1,
+      "kudos": 2,
       "map": {
         "id": "a20011430042",
         "summary_polyline": "bs|lEunsy[lBRdAPdBJb@Nx@NnAJl@PFF@PKhAGvASdCAd@SjDIbAGZ@RG|@GXGPIFOAoAq@_Au@Y_@YSY_@OIkBkBMG{AQ{A@}@CmDc@k@MgA?QG[CyBs@uA]o@IiAN_@z@ORQLQDgBWw@JQAm@KKEiASc@CaFs@[W[m@MKC[BKNOnA}@LUFONqAPcDPgCFa@COIIm@Iu@@oCz@_Aj@mC`C_FxDmAOSc@?C@EL?XLDFIRIDCAWa@?EDGL?TL?JEHKLCAWg@DGFA\\N@LMPIEGKFNGLYTIAOMQYcA_CEEMDU?YtDG`BKx@OtBMhA?ZYrDG~Ca@nDq@bMUfBE`AIz@Cl@Oj@GvBi@tGWhEIt@Cz@OpASlDEJMTMByB_@oAUw@Kw@Uw@a@WUaAa@eBeAu@]yEm@]BWAq@Qi@WuAa@WM{BqDQo@Ei@AKHkANwAHcBTwBAUDm@A}ABUC]Yi@MOu@s@UKa@[_@Os@QsBWKCEIICe@K[@i@K{@Gg@S]DeCY_AMKGYGOBc@EUMy@IS@uCYmBYM?aAUg@?_BUEHARGLHS?UMKQa@uBWYOaAy@gBmA{@s@mA{@MMQ[g@kA{@{Ae@mAW_@Qa@}AqAe@[iCsBg@W}@YyDw@oA[}@Io@@s@Ia@?_@GqCIaAK_@Dy@A}GYOAGGG[NqCRcCPgBD{@d@_GDKLIb@GN@b@NjAp@FNDb@Ez@_@nBW~AEbAIx@Ar@_@tDBNDFLF|CJn@EjERrBLn@A`C`@fCn@hAPj@NzAx@f@f@n@b@t@p@x@h@XXnBnDbApBPd@LV\\`@jAp@jA~@xAbA|@t@dD\\`B^^AhAPdAFbDd@~@HzGz@xBRvDh@XCFDXh@RNxAPjAb@PN`@Rh@d@f@n@Nd@CVBZBz@M|@@t@[dEOlC?d@Hj@Rf@`@n@f@`Aj@p@h@XZLl@N^RhBTbCTpARpDtBhCjAfB\\j@PzARf@LPEFGFc@JkBJq@@o@RyCF[L_CPcBNcDJw@@m@Hy@Je@@o@ReBFuA`@uFBcA\\}DLyBTiCHeCRoB?k@Ju@HyAPUd@y@lAiAf@k@ZQBBAF`@c@VKl@g@RUlA}@d@c@~@k@bBuAxBuAhAe@f@MlAMnADVQTFPNPDbGr@XHlCVdAPX?~AZtBV"
