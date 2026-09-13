@@ -1,32 +1,68 @@
 {
-  "lastUpdated": "2026-09-12T20:10:32.188Z",
+  "lastUpdated": "2026-09-13T03:07:39.778Z",
   "totals": {
     "allTime": {
-      "count": 386,
-      "distance": 5544.500100000007,
-      "time": 1910368,
-      "elevation": 56935.1
+      "count": 387,
+      "distance": 5565.884800000006,
+      "time": 1916668,
+      "elevation": 57016.1
     },
     "thisYear": {
       "count": 208,
-      "distance": 3142.1187,
-      "time": 1083033,
-      "elevation": 31869.200000000008
+      "distance": 3133.4768999999997,
+      "time": 1079354,
+      "elevation": 31570.500000000007
     },
     "thisMonth": {
-      "count": 15,
-      "distance": 243.02960000000002,
-      "time": 85458,
-      "elevation": 2713
+      "count": 16,
+      "distance": 264.4143,
+      "time": 91758,
+      "elevation": 2794
     },
     "thisWeek": {
-      "count": 3,
-      "distance": 40.5157,
-      "time": 13287,
-      "elevation": 206
+      "count": 4,
+      "distance": 61.900400000000005,
+      "time": 19587,
+      "elevation": 287
     }
   },
   "recentRuns": [
+    {
+      "id": 20150071356,
+      "name": "Sydney Half",
+      "date": "2026-09-12T20:55:43Z",
+      "distance": 21.38,
+      "time": 6300,
+      "pace": 294.6031508508419,
+      "elevation": 81,
+      "averageHeartRate": 156,
+      "maxHeartRate": 171,
+      "calories": null,
+      "kudos": 4,
+      "map": {
+        "id": "a20150071356",
+        "summary_polyline": "bzqmEad`y[yDjCkBvAuBtAqDlCeElCeExCs@`@Y@MUoAqEs@{CgAuD}EyQCYBOXUnNkGl@]FKGIMBcPnHKBQCk@{AmEoPM{ACgCFgAHq@Ir@GpBFfBTnBZ|Ab@lA~@~CvAlGBf@QTgAj@yLrF{@XCHL?zCaBvJkEp@KPJZn@X|@nFbTb@rA`BlGNd@NTPDXG`JaHxGyElIwF\\AVDHNCPW\\qBvA_Br@uA|Ae@z@i@lCKvAR|Ah@bB`@p@ZRv@AhBRlB`@x@An@]\\]h@u@n@yA`@]RIhAEb@O~AMZKUm@}@{@WQe@EKQAOTaCOeAf@o@JANFRVn@@jCZp@LPLXb@BXEj@Kv@R\\PFNADI?]VaB?YKg@e@}@IYk@m@gASeCK]Qa@e@]s@]G{@cA}@aBgAQkBjAkCrBwE`DqDpCaC|A{JjH[R_@JQGq@qBiEmPy@kCgAsEm@qBK}@JUPO~BcAfBaAhFwBbAi@FIO?wC~AeGdCkB~@e@LSCwAmEa@uBgAaEe@qAO{@Kw@EcB?mAPgBCEOrB?n@BpATzBb@xArCtKh@xBD\\MR[RgJdEuD|AQPJ@XStM_GnAc@RB^r@`@`BXt@bAhEtBnHtCbL\\bAHHND\\GnKaIhNwJlAw@p@@FFARS\\cBpAgBx@U`@{@z@e@p@g@rBQpACh@LlA\\pAx@vAXPz@Gx@J`BH~AZr@Yf@a@z@kAh@eATSp@Mb@Az@UnAGVE@IYi@eAeAo@QMS?YPiBMkAP[XSVBTZz@BdD^NHRRP`@@LATOjAV`@RDLG?WZuBKk@m@cBu@o@eBQgACi@O[Wk@eAa@Kc@e@g@q@o@sAeAIy@^cE~CyK|HeHtEyEnD[PWCQ]a@_Bk@gBMq@kC}J_BiFcBeHFUTSnD{AbDyAfBaAfA_@ZQBKIEKDoCzAeCbAqFhCa@JQEqAwDcDmMSuBA}ABeANoAEDKtACrCXlCn@fC\\x@pAfFRdAh@nBDXOZ}@h@_CfAiAb@uFhC_A\\ILF@hCuAzI{DdBm@PHLVlBrGRbApAlE\\bBrApEbBbHLVNHTAXMfLiIfCoB~@i@nHqFTMVE\\ALJAVKNuAlAiAt@o@TU^eAz@Y^Yp@g@hCEh@@l@JbAL`@`@jAXf@NNZHj@CxBb@z@@rAHdAi@v@o@Zg@X{@Z_@ZMfAEf@ORA"
+      },
+      "dateLocal": "2026-09-13T06:55:43Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "averageSpeed": 12.22,
+      "maxSpeed": 17.28,
+      "elevationDetail": {
+        "gain": 81,
+        "loss": 0,
+        "high": 25,
+        "low": 7
+      },
+      "performance": {
+        "averageCadence": 95,
+        "sufferScore": 151
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 21,
+        "prCount": 8
+      }
+    },
     {
       "id": 20110248611,
       "name": "晨间跑步",
