@@ -1,32 +1,69 @@
 {
-  "lastUpdated": "2026-09-21T18:08:35.520Z",
+  "lastUpdated": "2026-09-22T03:17:43.757Z",
   "totals": {
     "allTime": {
-      "count": 391,
-      "distance": 5610.809100000006,
-      "time": 1932121,
-      "elevation": 57266.100000000006
+      "count": 392,
+      "distance": 5620.845100000007,
+      "time": 1935243,
+      "elevation": 57281.100000000006
     },
     "thisYear": {
-      "count": 209,
-      "distance": 3140.499999999999,
-      "time": 1081417,
-      "elevation": 31343.800000000007
+      "count": 210,
+      "distance": 3150.536,
+      "time": 1084539,
+      "elevation": 31358.800000000007
     },
     "thisMonth": {
-      "count": 16,
-      "distance": 232.7774,
-      "time": 78621,
-      "elevation": 2019
+      "count": 17,
+      "distance": 242.8134,
+      "time": 81743,
+      "elevation": 2034
     },
     "thisWeek": {
       "count": 4,
-      "distance": 44.924299999999995,
-      "time": 15453,
-      "elevation": 250
+      "distance": 43.4165,
+      "time": 14758,
+      "elevation": 220
     }
   },
   "recentRuns": [
+    {
+      "id": 20274905137,
+      "name": "晨间跑步",
+      "date": "2026-09-21T23:19:59Z",
+      "distance": 10.04,
+      "time": 3122,
+      "pace": 311.08011159824633,
+      "elevation": 15,
+      "averageHeartRate": 164.4,
+      "maxHeartRate": 174,
+      "calories": null,
+      "kudos": 0,
+      "map": {
+        "id": "a20274905137",
+        "summary_polyline": "ppwmEuozy[i@Je@NCDg@TsCv@e@h@\\Q[YeA`@c@JaAb@YFK@]HKAYFYBMCQQIa@A[YwAMqAAEGGSImAQsA[yAKgC_@Q?WEKKKGGMIGcAMODIJ[|AW~@GPS\\CBKBm@IaBk@WBk@AWDqDNg@Fu@BaBLiA?aANY@UF}BLe@@k@HkDNYCo@]WCU@QDWTSh@E@iAZ}@Lk@D_DBwFZQA[KWUKY_@iC?i@Ce@EMMOKCWCWa@QEMBWTSLIPAL?VFXTh@BN?b@CLO^]VKPOd@SNWBa@N[DQ?KA[Im@c@[Gc@?]@s@N]De@A]Ea@?YOUOSa@C[Ho@?OMi@@UJWn@i@Zo@r@k@?SJaAbBaEJi@?]OGK??TEPUp@KHSFo@Jq@PiBl@KBKCIQG[@UHEz@a@hA[l@UzAc@BME{BSkAUu@}@iAICm@NoGrBQBKCISCe@DKTQnA_@~Bw@l@MZSBKCEu@y@MSSEg@D{E`B]BKAMc@AMFMNMtAi@tC{@l@MJMWYUa@ICoAYm@Ek@UsAOc@MMICEB}@BIHIZcAn@yAVw@N]RWxBs@LSLOjAo@HCNAJBTRPf@?DIHY@e@Jm@Ma@A[RoAb@YPSRINWp@s@vAWx@EZFTTNb@HhADv@LJFp@fAZ\\fAbBh@r@bA|AhAtAj@dA^|@H`@Fb@B~AAj@Dj@EHC^G\\e@fAs@vBS~@@\\SVSNc@~@IF_@PIR?RJd@GjAL\\NNNFLBP?h@F^BPAz@SbAAd@Hr@f@XDl@Ex@WDCLa@f@k@Xe@DM@MCSO[Mi@@]N[LKNQHGJCJBJFNVHF\\FPNFZBf@H~@R`BNZPPVLR@zDSjAK|BCz@QVGHIJAtACJGRk@NQ\\E\\Fd@RdAU^Qn@CpA@zAI`@@n@Ax@BdAIX?~AShAGd@GZ?xAKd@?^E|AIJ?bB^z@`@NOVi@l@eDLONEl@DNDNHJL`@VdAV`ADr@L^JbALp@DRFd@?b@HZRNRJ`@NbALTFDJIXF^NZXPF^@LIXEvBi@XEn@GzBi@LIzAa@nAU"
+      },
+      "dateLocal": "2026-09-22T09:19:59Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 3130,
+      "averageSpeed": 11.57,
+      "maxSpeed": 17.71,
+      "elevationDetail": {
+        "gain": 15,
+        "loss": 0,
+        "high": 7,
+        "low": 3
+      },
+      "performance": {
+        "averageCadence": 95.1,
+        "sufferScore": 98
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 18,
+        "prCount": 7
+      }
+    },
     {
       "id": 20220384394,
       "name": "晨间跑步",
