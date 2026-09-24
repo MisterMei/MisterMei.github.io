@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-23T21:04:23.434Z",
+  "lastUpdated": "2026-09-24T03:07:46.064Z",
   "totals": {
     "allTime": {
       "count": 392,
@@ -8,10 +8,10 @@
       "elevation": 57281.100000000006
     },
     "thisYear": {
-      "count": 210,
-      "distance": 3150.536,
-      "time": 1084539,
-      "elevation": 31358.800000000007
+      "count": 209,
+      "distance": 3141.4764,
+      "time": 1081657,
+      "elevation": 31277.000000000007
     },
     "thisMonth": {
       "count": 16,
@@ -20,10 +20,10 @@
       "elevation": 1776
     },
     "thisWeek": {
-      "count": 3,
-      "distance": 31.8221,
-      "time": 10824,
-      "elevation": 153
+      "count": 2,
+      "distance": 19.604799999999997,
+      "time": 6327,
+      "elevation": 28
     }
   },
   "recentRuns": [
@@ -134,7 +134,7 @@
     },
     {
       "id": 20192771928,
-      "name": "晨间跑步",
+      "name": "晨��跑步",
       "date": "2026-09-15T22:19:36Z",
       "distance": 11.59,
       "time": 3934,
