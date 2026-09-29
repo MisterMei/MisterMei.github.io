@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T22:55:37.141Z",
+  "lastUpdated": "2026-09-29T04:12:24.469Z",
   "totals": {
     "allTime": {
       "count": 396,
@@ -14,16 +14,16 @@
       "elevation": 31588.800000000007
     },
     "thisMonth": {
-      "count": 18,
-      "distance": 267.964,
-      "time": 89155,
-      "elevation": 1978.1
+      "count": 16,
+      "distance": 234.21759999999998,
+      "time": 76906,
+      "elevation": 1661.1
     },
     "thisWeek": {
-      "count": 5,
-      "distance": 87.37899999999999,
-      "time": 28029,
-      "elevation": 488.1
+      "count": 4,
+      "distance": 77.34299999999999,
+      "time": 24907,
+      "elevation": 473.1
     }
   },
   "recentRuns": [
@@ -38,7 +38,7 @@
       "averageHeartRate": 160.1,
       "maxHeartRate": 179,
       "calories": null,
-      "kudos": 0,
+      "kudos": 1,
       "map": {
         "id": "a20369860104",
         "summary_polyline": "br|lEynsy[l@Ft@NV@tC^t@Bh@NjBPt@NHJ@LOtACnAIl@?XIv@MjCQfBC~@IbBEVQLKB_@MmBcAQOS_@MImAqAYSa@c@QYWI_COK?UD}ACWGk@Gc@Ku@Ke@MqACkAU[CoCw@m@I{@BOBg@fAQPSDO?{AUa@Bk@@m@Gm@KUIwBWgAIuAWQOU_@Y_@EKAMBQFIdAy@NSTg@LsAb@qGJw@AMMKo@GY?YBqA^w@VkAt@e@d@g@`@GHYPWX{@n@}ArA{AbAGFEThA|Bp@jA|@pBXh@T^P`@PZJd@`@lA~@lAnBnDPb@HLN|@ArBKhB?fABv@Rz@Tb@f@x@FPj@x@x@r@tB|@j@^|AdBVV@DX\\~@dAV`@`@b@d@ZlAfANHd@^^^h@d@rAbApAdAz@\\z@NbCBlCLZ?PELHzAVxA`@f@RNABOELHLr@ZsA_@eA]{Be@a@EqA?mDUmAAm@KeA[OKiBeB[O[UmAmAYO[[UO]O}@{@OMU[mAqAqAoB{@}@q@a@[MOKk@Mg@Qc@a@gBaDQe@Ka@Ec@Cm@@sALaC@iAAQMg@sAiCq@w@m@cASUU_@YaA[wAS[{@iBw@}AgAaBYi@aAaCa@y@Ya@M[IKWo@Ia@SWM[KMKOi@iAc@q@a@i@eAgBgCaD_AyAk@m@MYw@iAy@aA_@m@iAwASSa@YqAk@}Bc@]K[MmAYo@SqBe@{Ae@y@SaAOwA_@OOm@@}@QkE_A}C_Ac@IoA[mB]e@OiCg@g@QsBg@UMWIyCy@mC}@uAUs@Nc@@[FjBa@P@|AVhA\\|@RrAh@~@PxAb@hB^hBf@dB`@v@Th@LTH`B`@v@PHFt@Jv@RlA^fBb@r@PX?hAJhDz@rBb@lCv@fAT\\PvA`@^DvAf@RLx@n@b@b@nCzDTRDNrAhBxAtBpFlHt@zATTVn@Lj@J\\TZ~A|CHDFECNDJFJD?lA{@dBaBVMPSTQNSb@Yb@k@LIb@c@\\Sb@[^QtAa@`@Gj@ET?j@HJDFFJBD@RGX?lFf@hARhAJ|@^^H`@NnBXVBd@AHF"
@@ -6839,7 +6839,7 @@
       "social": {
         "comments": 0,
         "achievements": 2,
-        "prCount": 1
+        "prCount": 2
       }
     },
     {
@@ -12151,7 +12151,7 @@
       "social": {
         "comments": 0,
         "achievements": 23,
-        "prCount": 15
+        "prCount": 16
       }
     },
     {
