@@ -1,32 +1,64 @@
 {
-  "lastUpdated": "2026-10-01T22:20:03.860Z",
+  "lastUpdated": "2026-10-02T04:02:14.540Z",
   "totals": {
     "allTime": {
-      "count": 397,
-      "distance": 5710.290000000006,
-      "time": 1964209,
-      "elevation": 57879.200000000004
+      "count": 398,
+      "distance": 5722.387300000007,
+      "time": 1968393,
+      "elevation": 58008.200000000004
     },
     "thisYear": {
-      "count": 211,
-      "distance": 3214.4713999999994,
-      "time": 1105199,
-      "elevation": 31713.800000000007
+      "count": 212,
+      "distance": 3226.5687,
+      "time": 1109383,
+      "elevation": 31842.800000000007
     },
     "thisMonth": {
       "count": 17,
-      "distance": 246.31950000000003,
-      "time": 80965,
-      "elevation": 1786.1
+      "distance": 242.9529,
+      "time": 79255,
+      "elevation": 1603.1
     },
     "thisWeek": {
       "count": 4,
-      "distance": 77.81790000000001,
-      "time": 25162,
-      "elevation": 544.1
+      "distance": 78.5607,
+      "time": 25459,
+      "elevation": 614.1
     }
   },
   "recentRuns": [
+    {
+      "id": 20412577363,
+      "name": "Morning Run",
+      "date": "2026-10-01T20:42:45Z",
+      "distance": 12.1,
+      "time": 4184,
+      "pace": 345.8622998520331,
+      "elevation": 129,
+      "averageHeartRate": 158,
+      "maxHeartRate": 181,
+      "calories": null,
+      "kudos": 0,
+      "map": {
+        "id": "a20412577363",
+        "summary_polyline": "fr|lEwnsy[h@BRHd@FZ@ZFR?\\JVBl@H^@RBd@LZ@PDd@DX?t@TJLAf@K~@EtAOnAa@xFK~@OlCEJMFIAw@a@aAm@WUSY]UaCcCKMMIIC}BOY?ODsAAa@M}AUO?q@O}AI}A[_@MUA_Bg@s@Ow@HQDCBIV[j@[TQDeBW_@Di@?k@IME]Co@QO?kBScC_@SQa@s@KIES?Sp@s@h@a@HINa@TqCLaAHoBN{ACIMG{@Go@Fk@L}Aj@o@`@o@l@]PYXg@\\_@`@oCxBwA|@GP?F@JPVTf@\\h@f@dAZt@`@t@JXz@xADNXf@\\fA`@n@HXRTp@zAr@dA^|@TZH|@CV@f@O|EDx@Hb@\\x@b@p@Td@b@l@f@b@RHRDFH|@b@ZJ|@p@h@j@j@r@NTn@r@|@jAd@h@`@XnAfA|@j@jAdAVNxAtAp@b@j@Rd@Jj@FdDJV?dAFh@@b@BnD|@PH\\Hv@V@BmF{Ac@IsBEUEyAEeCEg@Gs@SuA_AW[gA{@g@g@yEkD_AeA{@iAc@e@s@aAq@u@w@g@YK[Sa@Mm@Ui@c@K[_BqCOk@IiAP{GEi@Mi@G]MMSi@SSKYc@e@{AeCgAyCc@w@yBmEw@qAy@qB}@cB_@w@QWCOSa@Kc@SWM]KIMQWo@wBgD}DkFg@y@y@cACIs@aAeAqAm@_AgAoAWU_@S_Ac@e@OeB_@WIMMe@Ca@IwAc@uCm@aBe@o@M[K_@Eg@KKIY@cBU}C_AeAWQCg@OMA{Bo@k@KoD{@qDcAyA]kCw@u@OyC_AeAM}@Pm@@ED\\IP?^Kb@GpAPvDdARJj@Rt@LxEpAn@LjA\\nCn@b@P~Bf@f@PjAR~Bl@n@R`ARd@Fl@Dx@JXJj@JrA`@`B^xBj@b@Pj@JV?JDNNl@PvBf@`A`@VNh@f@fAnAv@nATVnAjBJHtBxCj@p@dBdCx@dAjAlB^t@LJd@bAZdANRj@nAt@pALZHHJCPKbBuAd@]\\[NIPSjA}@T[VQn@o@VMl@a@v@U|@]f@Ml@?\\DNFPPJBHALGb@@bCTjBXrBNb@HJFPPHBd@FXLb@JjBTf@CNJ"
+      },
+      "dateLocal": "2026-10-02T06:42:45Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 4190,
+      "averageSpeed": 10.41,
+      "maxSpeed": 14.69,
+      "elevationDetail": {
+        "gain": 129,
+        "loss": 0,
+        "high": 176,
+        "low": 130
+      },
+      "performance": {
+        "averageCadence": 93.8,
+        "sufferScore": 110
+      }
+    },
     {
       "id": 20398668576,
       "name": "Morning Run",
@@ -38,7 +70,7 @@
       "averageHeartRate": 162.3,
       "maxHeartRate": 175,
       "calories": null,
-      "kudos": 1,
+      "kudos": 2,
       "map": {
         "id": "a20398668576",
         "summary_polyline": "`r|lEsnsy[j@Bv@LVAb@JZ?VHdALh@BTHjC\\VJVBHL@HGr@I^CvAKzAEj@G`@IjAERIhA?TIx@EhA?n@IPK@OAoBkA_@[WYQM_@c@mAiAe@k@QIgBOk@ASBcBAuEu@{@AqAYg@OoAYcA]]G_@FYBSFO`@Yf@SNQDaBU[D_AAi@ISAm@M_@A[E}A[qBUICMKa@w@OOAUBQDInAcALQHYNoBLiANyCFo@FW?GEKKEs@Ge@@SD{Ab@i@PmAv@Y\\WN]^c@XyDbDgAt@KLALb@v@JZV`@zBvETZNZL`@`@n@Pf@JNLJAJ@DTZNd@v@rAJXf@z@d@bANNLr@EvBEf@EbB@pABXNl@Pd@dBnCXT`@VTDNMD?HF@ZbAf@d@\\t@x@j@r@RPt@bAZZXb@d@d@jEhDp@n@ZR|@v@rAz@v@V|@JlDJ~@Ft@?r@FJDt@Nv@R`Cv@RH]G[MCGDO@@CFEDUA_Bc@}@[O?MEq@Ga@?wGS}@Mm@SWQcB_Bi@]gB}Aa@UMOu@i@YUSOOQOI]g@gAiA[a@Yi@}@cA]_@_@Uw@_@yAi@a@]e@y@KYs@iAO_@Ow@IgAR_GAm@UgAOQOc@OOUa@[_@q@_AiA_Cm@eBW_@cBiD_@q@KMaAmBKY@MCKaA_B{A{CKc@SYSc@KGOa@]o@OOe@y@_@e@c@y@cC_DyA{BUWi@q@K]YUMS]_@oBuCy@w@SKwAk@oCq@iA_@g@Gm@SwA]_AYqGsACEOAQ@}AYeD_AaAWOASKeFiAu@UOCoA_@UC{C}@o@MOGyAYcF_Bm@MmAO}@NU?[DRET?x@QPA|@NtAZjA^f@Jt@ZhATbA\\vAVlD`Af@HrA`@jEfAVJL?^Lp@Ld@NxD|@XFX?hAJjD~@`ATP@h@R~Bn@TBhA\\lCn@dA`@p@`@l@j@t@bAd@r@lA|AR\\NRHNJHJPp@x@Xd@nBhCb@p@n@t@zAbCr@vALLR\\JTPn@JXPVZx@~@bBHHHBFVBBJ?ROJMfAy@TW|AoATM\\_@`@Yr@w@b@]|A{@fBi@b@EPDh@?XFLL\\BPClAF|BVx@Fp@LrAJXFn@Z^Hd@P~B\\R@RCVNL@"
