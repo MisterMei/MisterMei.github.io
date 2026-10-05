@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-04T20:51:38.554Z",
+  "lastUpdated": "2026-10-05T04:01:44.316Z",
   "totals": {
     "allTime": {
       "count": 400,
@@ -14,10 +14,10 @@
       "elevation": 32368.700000000008
     },
     "thisMonth": {
-      "count": 18,
-      "distance": 273.63460000000003,
-      "time": 90948,
-      "elevation": 2131.1
+      "count": 17,
+      "distance": 263.49240000000003,
+      "time": 88059,
+      "elevation": 2004.1
     },
     "thisWeek": {
       "count": 5,
