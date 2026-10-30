@@ -1,32 +1,65 @@
 {
-  "lastUpdated": "2026-10-30T04:21:10.500Z",
+  "lastUpdated": "2026-10-30T12:07:05.341Z",
   "totals": {
     "allTime": {
-      "count": 411,
-      "distance": 5928.5972000000065,
-      "time": 2043867,
-      "elevation": 60575.50000000001
+      "count": 412,
+      "distance": 5934.718500000006,
+      "time": 2045986,
+      "elevation": 60730.500000000015
     },
     "thisYear": {
-      "count": 206,
-      "distance": 3148.9518,
-      "time": 1082991,
-      "elevation": 30585.600000000006
+      "count": 207,
+      "distance": 3155.0731,
+      "time": 1085110,
+      "elevation": 30740.600000000006
     },
     "thisMonth": {
-      "count": 15,
-      "distance": 230.40910000000002,
-      "time": 83717,
-      "elevation": 2821.3
+      "count": 16,
+      "distance": 236.53040000000004,
+      "time": 85836,
+      "elevation": 2976.3
     },
     "thisWeek": {
-      "count": 4,
-      "distance": 60.0144,
-      "time": 20427,
-      "elevation": 483.3
+      "count": 5,
+      "distance": 66.13570000000001,
+      "time": 22546,
+      "elevation": 638.3
     }
   },
   "recentRuns": [
+    {
+      "id": 20787484857,
+      "name": "Afternoon Run",
+      "date": "2026-10-30T06:44:03Z",
+      "distance": 6.12,
+      "time": 2119,
+      "pace": 346.1682975838466,
+      "elevation": 155,
+      "averageHeartRate": null,
+      "maxHeartRate": null,
+      "calories": null,
+      "kudos": 0,
+      "map": {
+        "id": "a20787484857",
+        "summary_polyline": ""
+      },
+      "dateLocal": "2026-10-30T17:44:03Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 2131,
+      "averageSpeed": 10.4,
+      "maxSpeed": 13.9,
+      "elevationDetail": {
+        "gain": 155,
+        "loss": 0,
+        "high": 143,
+        "low": 122
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 3,
+        "prCount": 1
+      }
+    },
     {
       "id": 20769953377,
       "name": "Morning Run",
