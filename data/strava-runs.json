@@ -1,32 +1,65 @@
 {
-  "lastUpdated": "2026-10-31T20:58:05.738Z",
+  "lastUpdated": "2026-11-01T04:22:12.365Z",
   "totals": {
     "allTime": {
-      "count": 412,
-      "distance": 5934.718500000006,
-      "time": 2045986,
-      "elevation": 60730.500000000015
+      "count": 413,
+      "distance": 5977.814600000006,
+      "time": 2062066,
+      "elevation": 61219.80000000002
     },
     "thisYear": {
-      "count": 206,
-      "distance": 3143.0644,
-      "time": 1080597,
-      "elevation": 30572.200000000004
+      "count": 205,
+      "distance": 3175.969,
+      "time": 1092682,
+      "elevation": 31040.400000000005
     },
     "thisMonth": {
-      "count": 15,
-      "distance": 224.42850000000004,
-      "time": 81777,
-      "elevation": 2851.3
+      "count": 16,
+      "distance": 267.5246,
+      "time": 97857,
+      "elevation": 3340.6
     },
     "thisWeek": {
-      "count": 3,
-      "distance": 30.760800000000003,
-      "time": 10479,
-      "elevation": 395.79999999999995
+      "count": 4,
+      "distance": 73.8569,
+      "time": 26559,
+      "elevation": 885.0999999999999
     }
   },
   "recentRuns": [
+    {
+      "id": 20810667536,
+      "name": "10th run 2026, Sri Chinmoy Royal National Park Marathon",
+      "date": "2026-10-31T19:06:19Z",
+      "distance": 43.1,
+      "time": 16080,
+      "pace": 373.1196094310158,
+      "elevation": 489,
+      "averageHeartRate": null,
+      "maxHeartRate": null,
+      "calories": null,
+      "kudos": 1,
+      "map": {
+        "id": "a20810667536",
+        "summary_polyline": "~r_oEy|}x[M{AXiCvCeEpN~AjIStE|BhDhD|FhD~LfGhEpArMxAnKfC{JeCeMuAkFwAqL}FiC{BsBa@kEoEiEqBwHTiGa@gG{@eCnD_@zHsA`@}DIpEH|@c@F}DVcB`CsDpBQxJzAzHU|FzBhDpD~Bp@lCzBxLdG|EhBhKx@`LjChD`CjCnI`DnCfOc@`Fh@pGyAdHkEzB|@tDaBzJeAdCZvDdCnDaC~CxEnC|J~C~Ex@PzFgAvCTjGUvA~AjAzDt@TzBe@nFoDnIuI~AEb@b@lBvJj@`KvHnKDhEx@bBs@xN~AvD`B|AlQrIhG|@bIlC`CnCrDP`Ji@dA\\xEfHzA|@bAc@xGcA|Ip@~BiAzBpAlBy@vBMjGt@rEvCpIOfBl@kLTiDgCuHkA_HJkBo@cC`AsIUkIn@qCwBqD_EeCi@uEj@iFUiBaCoRsFuQqIoCgCYiAM{Fl@aIs@kAy@qHiFmGs@sCQuFuAiHi@{AqAs@qAl@iKjKaG~B}@k@{BgFqAm@qRz@gAYeCqDoCyKeAo@sA}CsBzAaBPoDgCsE]yFfAuD`BqDMsFxCmFpA{Ec@gR^yDkE_AsF}CkC_HqBgPkBgFuAsLaGgC{BgB_@kDoDmFqCgIVuNcB{CbECfF]hAu@\\aECrFUb@oASmCXqAhB_D`Ac@vM~ArHU~FhCdDlDbGfDlL|FxF|AdO`BvHhCxC|Cp@lD~FzFtOe@xFf@jEkAdHmDnC`@hMsDxDZbEhCtB[tAeApCxEpAjHzDzFrAb@`J]v@e@|A^tBOtBx@jA`CFlAj@TnBAhBu@rHuFpEqFhAE`AhAr@~FbAxCIvC^~CxFjIr@jBPxDbAtAc@~B_@zEJhDhAzCpAnAfCt@p@MpAzAbA?tBtBlBXvAdApCZjIjDrBPjAzBtAl@vBFhAj@nAcA|D_@zChCbBtCtAp@fBXdJSzFk@vBw@xBxAjDc@fH\\vGjDlFWrEp@yC[qFTyHmDgFo@mD\\kDkAsChAqG[iKt@uAq@iA{CeDoByBc@mGj@kF[gAcC}S}FuAmA}LuEsCaDa@yBEmEl@}Hw@cA_@wEw@aCoEqFw@eDqAcN_A_CcA}@gCzAqF~FuFfEoDXSkBqAeBCo@cBo@cNRqCd@kA]uCsEiCuJ{CmE}@JqAvA}@DuC{BcF_@uFbA_EdBsD]_HpDyD`AuFc@uKl@yDM}DeEk@qEgEeEsQoDuLiBwLaGkDsCeBa@aDgDoFiC{G\\eGa@yGaAsCvD[tHuA\\"
+      },
+      "dateLocal": "2026-11-01T06:06:19Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 16306,
+      "averageSpeed": 9.65,
+      "maxSpeed": 20.16,
+      "elevationDetail": {
+        "gain": 489,
+        "loss": 0,
+        "high": 75,
+        "low": 16
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 21,
+        "prCount": 10
+      }
+    },
     {
       "id": 20787484857,
       "name": "Afternoon Run",
@@ -3487,7 +3520,7 @@
     },
     {
       "id": 18383426691,
-      "name": "Morning Run",
+      "name": "Tomaree trail run 2026",
       "date": "2026-05-02T20:22:37Z",
       "distance": 32.75,
       "time": 13885,
