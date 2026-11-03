@@ -1,32 +1,60 @@
 {
-  "lastUpdated": "2026-11-03T13:37:20.881Z",
+  "lastUpdated": "2026-11-03T22:53:45.018Z",
   "totals": {
     "allTime": {
-      "count": 413,
-      "distance": 5977.814600000006,
-      "time": 2062066,
-      "elevation": 61219.80000000002
+      "count": 414,
+      "distance": 5990.085100000007,
+      "time": 2066367,
+      "elevation": 61339.30000000002
     },
     "thisYear": {
-      "count": 204,
-      "distance": 3153.5563,
-      "time": 1085243,
-      "elevation": 30753.600000000006
+      "count": 205,
+      "distance": 3165.8268000000003,
+      "time": 1089544,
+      "elevation": 30873.100000000006
     },
     "thisMonth": {
-      "count": 14,
-      "distance": 240.38080000000002,
-      "time": 88467,
-      "elevation": 2937.6
+      "count": 15,
+      "distance": 252.6513,
+      "time": 92768,
+      "elevation": 3057.1
     },
     "thisWeek": {
       "count": 4,
-      "distance": 73.8569,
-      "time": 26559,
-      "elevation": 885.0999999999999
+      "distance": 73.835,
+      "time": 26503,
+      "elevation": 883.6999999999999
     }
   },
   "recentRuns": [
+    {
+      "id": 20847903066,
+      "name": "Morning Run",
+      "date": "2026-11-03T19:12:34Z",
+      "distance": 12.27,
+      "time": 4301,
+      "pace": 350.5154639175258,
+      "elevation": 120,
+      "averageHeartRate": null,
+      "maxHeartRate": null,
+      "calories": null,
+      "kudos": 1,
+      "map": {
+        "id": "a20847903066",
+        "summary_polyline": "tq|lEwnsy[nBVb@@XHTA^LT?NFz@Bb@LbCXx@V@^Kp@IjA?VIhAKx@Cz@UpB?b@OpAM~BGHY?KKeBgA[YMSYQ_AcA}A{AcBS{@AWD_@CYDo@CYS}AQUAi@OyAEkEoAoAWk@Fg@NENc@z@_@R{@Mc@COEUHW@i@CmAWQIUHsDe@OQe@CWGOMGOg@u@AE@]HCh@i@h@_@Tk@FqABI?KDSBy@Hc@?a@Jo@DmAFg@CKIEO?u@Ke@F{A^y@^WR[La@^KRWLg@d@QFWZSPg@Za@^IBa@b@yAdASPEPBJfApBxBrE\\l@JJPh@^n@ZhAJLJ`@D?XXv@vADNPTNBA@ACAD@T^j@LZRXHnACNA|AEZ?h@CPAnAFr@Hb@Tp@~AjC~@r@x@XDFt@Z`@TxB`CpA`BJHXd@PNNPNH|@v@hClBf@h@`Ar@r@p@f@XzAh@L?RDj@?~AHp@?zBFd@FNFpBd@bA^nA^uEwAk@OM?GEwJ[cAU_@OyE{DGKcAq@UWcBmAc@e@GQc@c@[g@EA_BoBs@o@YUwA{@cA[u@o@k@eAk@aAO_@S}@E_ADuA@KFwDAUWqAJs@QUE[QMu@IGE{@yAK[QOa@m@M]CSa@cAW_@o@yAwB}D?EgA_Co@gAs@aBW]COQ[G_@OOWk@IGsAgCw@gAMKu@kAeB}BwAuB_AmA?OAE]OS]yB{CY]s@m@c@Y}@a@a@G}@Wg@IWIOKYAMIg@Go@UsBa@uDcAg@KQIoAU_@?GEU?m@K_G}AM@KKOAi@QiA]iCg@iAa@m@G}Ag@k@KiCs@yA[u@]O?WGu@[s@QiB]}@Ny@F?BRI`@A~@Ob@Jn@FxBj@VLf@JVNlAZhCl@LFtBh@rAXv@Vb@FxDfAp@JZPNA`@PJC`A\\^DlBf@pATNAXDn@Jd@NVBjItBJHp@Jx@XpCn@~@\\lAx@`@b@z@pAdBxBn@bAHFp@z@r@hAvD`FNZ`ArAx@~AVX\\x@F\\JNHVPVFPNZz@`BJLV]\\UR[v@g@\\UHMf@[rAaAh@e@dBoAl@[^Kb@UlAWx@Cz@FHAJOZLHNRAxAVt@DjDf@`@Bv@Ln@DjCb@v@HNDvDb@"
+      },
+      "dateLocal": "2026-11-04T06:12:34Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 4306,
+      "averageSpeed": 10.27,
+      "maxSpeed": 16.56,
+      "elevationDetail": {
+        "gain": 120,
+        "loss": 0,
+        "high": 174,
+        "low": 132
+      }
+    },
     {
       "id": 20810667536,
       "name": "10th run 2026, Sri Chinmoy Royal National Park Marathon",
