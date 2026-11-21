@@ -1,32 +1,107 @@
 {
-  "lastUpdated": "2026-11-20T23:40:10.955Z",
+  "lastUpdated": "2026-11-21T05:36:58.193Z",
   "totals": {
     "allTime": {
-      "count": 423,
-      "distance": 6110.256300000006,
-      "time": 2108293,
-      "elevation": 62596.10000000001
+      "count": 425,
+      "distance": 6160.492200000007,
+      "time": 2127206,
+      "elevation": 62813.10000000001
     },
     "thisYear": {
-      "count": 206,
-      "distance": 3162.3784,
-      "time": 1090814,
-      "elevation": 30773.5
+      "count": 208,
+      "distance": 3212.6143000000006,
+      "time": 1109727,
+      "elevation": 30990.5
     },
     "thisMonth": {
-      "count": 18,
-      "distance": 266.1131,
-      "time": 93442,
-      "elevation": 2759.9
+      "count": 19,
+      "distance": 304.15270000000004,
+      "time": 108267,
+      "elevation": 2850.9
     },
     "thisWeek": {
-      "count": 3,
-      "distance": 36.3698,
-      "time": 12787,
-      "elevation": 388
+      "count": 5,
+      "distance": 86.60570000000001,
+      "time": 31700,
+      "elevation": 605
     }
   },
   "recentRuns": [
+    {
+      "id": 21065027472,
+      "name": "11th run 2026, Western Sydney Lakes marathon, tough summer run",
+      "date": "2026-11-20T19:03:46Z",
+      "distance": 42.21,
+      "time": 16101,
+      "pace": 381.4914679164277,
+      "elevation": 108,
+      "averageHeartRate": 162.2,
+      "maxHeartRate": 194,
+      "calories": null,
+      "kudos": 1,
+      "map": {
+        "id": "a21065027472",
+        "summary_polyline": "zpylEwjsv[^WH_AtEstBNo@r@c@fEAx@Rb@p@DxE}FpeC^|C]pAwD`CkALKz@PRh@C~FeCh@FdB~@l@SdCmUjBmUH[t@_@~AuWXa@`@GxEr@~CB~Ad@P`Lf@tFp@|DzGpR^`CTfEEhAg@fBkBfC}LzFgFzCpEeCpN}GlBeDp@~@x@hDLxEInAq@fCuDrI{@rCi@^cBCM`AkAvCWhDgIrH{Dr@iFfC{Gp@wBr@iHhAg@Ay@y@u@MyB~@iRp@}Z}AwBg@oDkBcFoA]DUn@s@EyQ}DyB?UOQgByA[gOSgGrAiCBoKk@sPmDgHu@cRG]WKiAb@uD@uDtBgKRkBEuA_@i@mB[eDVaDGg@YWm@~@`AxCFpDQbBVf@n@FfAM|A{BzKI`F]pCFhAVRhRFpHt@jPlDbMl@jJ{AlOXlA\\BjAVf@~AIdTlETq@d@G`FnA|DnBjDl@f[xANMA_CZi@|DpAhDSR[?a@}BoAg@gBeA}@k@uBeHWq@a@KcBlAaELwGwAoCqFsEq@kBe@cDNg@z@EfZnDh@eEr@cA|FZfACGuBeBiAkAyDk@m@DyEG{EJc@~@u@NaCdAi@Jc@rEyuBVu@l@e@fE?vAt@PnBqDhdBgAx_@C~DZlBi@zAoDrBkAPGr@RTl@EdA]vB{Ar@Et@@fBbAf@SlBsMfCy]r@UJ[zAmWj@g@hFl@rC@nAP\\ZHnJTpDlAdHlGvQj@nDRxDIrAc@`BqBnCaTpKfFuChLiF~@o@IFpBaDf@|@~@hDH~FIv@sA~DkE|Ke@d@cBGWpAeArB]jE_IjHcEr@wEdCwHt@cBp@uEb@aBd@m@Iq@u@s@IcB~@iRt@}\\qBsA]_D_BoFwA]HOn@iAIgMwCuDm@y@N_@UI{Ae@_@cJIkESmGnAyBJgLk@yLoCcMyA_KHgEOWOOw@`@sDDqEbC{LFqAM_Am@k@mBSiCTeDGc@Mc@{@j@~@bELvDSvAX^t@MvDuBfKAtDg@rENn@TNnRH|Gp@rPlDpJj@dEIxFmAbPZv@`@BjAXb@v@OvC`@pPrD\\w@l@@~ElAfCtAvCv@j]bBJSCwBZi@lBv@lBZhCQXy@}BkAm@qBmAiAMkAW]uGSaAi@I{AlAqDNcHoAeCuFcFgAiDO_CRSt@AfZnDNSVsDf@}@dAKdFj@d@IIuBgBiA_AuC"
+      },
+      "dateLocal": "2026-11-21T06:03:46Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 16168,
+      "averageSpeed": 9.44,
+      "maxSpeed": 14.04,
+      "elevationDetail": {
+        "gain": 108,
+        "loss": 0,
+        "high": 29,
+        "low": 14
+      },
+      "performance": {
+        "averageCadence": 87.7,
+        "sufferScore": 481
+      },
+      "social": {
+        "comments": 0,
+        "achievements": 12,
+        "prCount": 6
+      }
+    },
+    {
+      "id": 21052124741,
+      "name": "Morning Run",
+      "date": "2026-11-19T21:27:10Z",
+      "distance": 8.03,
+      "time": 2812,
+      "pace": 350.1649959529295,
+      "elevation": 109,
+      "averageHeartRate": 161.3,
+      "maxHeartRate": 182,
+      "calories": null,
+      "kudos": 0,
+      "map": {
+        "id": "a21052124741",
+        "summary_polyline": "|q|lE{nsy[vAV`BH`@JpALr@Nx@JlAJj@NHFBD@DA^QjBGzAIp@Ev@MvACt@U~BIbBANIJIBQA{@e@mAy@W[SO{CaDOEqAOaAC]Dk@?i@EMC_@@m@GWESOi@O]E_AAk@K}A]gCs@[EW?_@FSFEDa@`AUPSFm@Is@MGAWDgAC]I]Am@QS?[ImC[]Gi@GUQ[o@OOBM?]BI~@o@LONUHWFq@DcARgBNoCHo@AKEEGC]E[?MC_@Bw@RqAd@w@f@m@l@]PuBnB[PsAjA_BdAGPDZZf@bCfFjBnDL`@Lj@JTRX?DJFRXj@dAJLAECBJBP\\PLADFTNVRh@DFNJFfAIzDIbBDn@Hb@Nd@hB|Cn@h@JDVBHJ^Tv@\\d@XtA|AXb@PLx@dARP\\f@HFVZhAx@h@d@`@Tf@d@j@^VZ|ApA|@n@TL|@Vh@F\\?l@DvADVAnAFTAr@FLFj@HvAb@ZHVHd@Jn@TgGcBYAUGwBAiBKk@?UCa@As@M_AYi@[}A{Aq@e@SSYQk@i@QI{@q@QKUWg@a@s@y@U]k@m@qAeBq@q@QMsAs@c@Kc@Ok@e@Uc@Y]_@{@[e@Wy@Ea@?sALsFC_@Oi@E]QWQa@QQUc@_@e@m@gAM_@w@yAg@uA_@g@a@w@Ym@kCgFMMGQ@MHOVQLONIRUz@w@|BcBbA_ARMh@k@TIPQd@YdCw@TCp@?TBNFPPNBRGTAtAFzBVRD\\Bh@J|@Fl@Jj@^ZDh@RpAPTFf@DVCRJ|@FTFZA`AFPDZRNFd@KVCdAHpBVp@PzANFDCBIA"
+      },
+      "dateLocal": "2026-11-20T08:27:10Z",
+      "timezone": "(GMT+10:00) Australia/Sydney",
+      "elapsedTime": 2816,
+      "averageSpeed": 10.28,
+      "maxSpeed": 15.77,
+      "elevationDetail": {
+        "gain": 109,
+        "loss": 0,
+        "high": 176,
+        "low": 131
+      },
+      "performance": {
+        "averageCadence": 93.5,
+        "sufferScore": 83
+      },
+      "workout": {
+        "workoutType": 0,
+        "description": null,
+        "commute": false,
+        "trainer": false
+      }
+    },
     {
       "id": 21039967002,
       "name": "Morning Run",
